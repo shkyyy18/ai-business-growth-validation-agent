@@ -1,0 +1,14 @@
+﻿# Local-only files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Secrets and private exports
+.env
+.env.*
+secrets/
+
+# OS/editor metadata
+.vscode/
+.idea/
