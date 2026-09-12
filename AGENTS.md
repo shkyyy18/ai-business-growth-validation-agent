@@ -1,4 +1,4 @@
-﻿# AI 商业增长验证 Agent 协作规则
+# AI商业顾问 协作规则
 
 本项目的唤起口令是“商业顾问”。用户输入该口令时，将 `D:\AIWork\projects\ai-new-media-agent` 作为项目目录，先读取核心文档和当前 business 记录，再汇报状态并继续下一步。
 
@@ -55,3 +55,18 @@ Agent 不是单纯的新媒体、内容或 AI 工具 Agent。商业闭环是主�
 - 访谈窗口不得修改 business/STATE.md、画布、decision-log.md 或其他主线文件，不执行 git add/commit/push。此为并行窗口的写入范围例外。
 - 访谈结束请受访者核对摘要，并确认哪些内容允许用于主线分析；主窗口在发起人要求后读取，不宣称窗口间自动同步聊天。
 - 只输入“商业顾问”时继续主线，不自动进入银行访谈；银行访谈不阻塞主线。
+
+## 功能测试续接口令
+
+当用户在新的 CLI 会话中只输入“测试”或以“测试”开头时，继续 `experiments/kimi-abtest/` 下的 Codex 独立 vs Codex 规划 + Kimi K3 执行对照测试，不从头解释协作模式。
+
+启动测试流程：
+
+1. 先读取 `experiments/kimi-abtest/ABTEST-PROTOCOL.md`、`experiments/kimi-abtest/DAILY-WORKFLOW.md`，以及最近一个 `day-N/` 下的 `review.md`、`metrics.md` 和任务文件。
+2. 汇报已完成的测试日、实际分数、运行故障、已知偏差和当前未完成步骤；此前未经完整实测的百分比、排名或成功率不得当作结论。
+3. 如果用户没有提供当天真实商业顾问任务，提示其提供任务和必要资料；优先沿用当前下一项：测试一项用户亲自完成的 AI 任务，并与候选客户任务做边界映射。
+4. 新任务必须先冻结输入、目标、允许写入范围和评分项，再分别运行 A（Codex 独立）与 B（Codex 计划 + Kimi 执行）；不让 B 读取 A 完成后的答案。
+5. 结果保存在新的 `experiments/kimi-abtest/day-N/` 隔离目录，正式 `business/` 文件须经用户确认后才能更新。记录实际耗时、重试、人工干预、账单缺口和用户验收，不据模型名称推断后端能力。
+6. 用户只说“测试”时，不承诺后台自动执行或自动每日运行；在当前会话中继续下一步。
+
+当前测试进度截至 2026-09-12：Day 1 已完成；Codex 独立与 Codex+Kimi K3 均为 90/90 内容分（运行分 N/A），Kimi 首次 OAuth/DNS 失败后第二次成功；Day 2 尚未开始。详见 `experiments/kimi-abtest/day-1/review.md` 与 `metrics.md`。

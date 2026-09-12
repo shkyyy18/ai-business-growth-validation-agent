@@ -1,5 +1,5 @@
 ﻿{
-    "checked_at":  "2026-09-12T09:52:26.5422420+08:00",
+    "checked_at":  "2026-09-12T09:56:29.3613423+08:00",
     "snapshot_checks":  [
                             {
                                 "scope":  "input-snapshot",
@@ -245,6 +245,7 @@
     "all_snapshot_hashes_match":  true,
     "workspace_files":  [
                             "AGENTS.md",
+                            "kimi-output.md",
                             "README.md",
                             "START-HERE.md",
                             "TASK.md",
@@ -275,8 +276,10 @@
                     },
                     {
                         "path":  "kimi-workspace/kimi-output.md",
-                        "exists":  false,
-                        "valid_utf8":  null
+                        "exists":  true,
+                        "valid_utf8":  true,
+                        "sha256":  "8FE648F5329AC4423A33FE6DB25222A7117BDDCFDE51B81E49E64D67B1088E2C",
+                        "characters":  3428
                     }
                 ],
     "live_source_checks":  [

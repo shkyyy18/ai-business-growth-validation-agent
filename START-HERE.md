@@ -51,3 +51,7 @@ cd D:\AIWork\projects\ai-new-media-agent
 ## 适用范围
 
 在 Codex 中打开 `D:\AIWork` 或本项目目录，再输入“商业顾问”。CLI 可先切换到上述目录再启动 Codex。此为项目规则入口，不是任意目录都可识别的全局命令。也兼容旧口令“新媒体”。
+
+## 功能测试快捷入口
+
+新的 CLI 会话中输入“测试”，即可续接 `experiments/kimi-abtest/` 的 Codex 独立 vs Codex 规划 + Kimi K3 实测。先读测试协议和最近一天记录；若未提供当天任务，继续索取真实商业顾问任务，不把旧的未经完整验证的分数当成结论。
