@@ -1,0 +1,62 @@
+﻿[
+    {
+        "path":  "README.md",
+        "sha256":  "65968CE593A7E33DFA26F02E5AB22BB814CDCCB1D80ED4FEE634163ED15FB198"
+    },
+    {
+        "path":  "START-HERE.md",
+        "sha256":  "18B79C2003F1028F4423F35DC6EE2AC653050D85D900D4029885C35F5E1283EE"
+    },
+    {
+        "path":  "AGENTS.md",
+        "sha256":  "3CF19677DD525A798A73BAF5F930704F806B7F3E61ECC5AB466C814D43D66FB7"
+    },
+    {
+        "path":  "agent/AGENT.md",
+        "sha256":  "AA27F232530C85554818E22AE537B09F86C97201F106E205B1A1371275011D1D"
+    },
+    {
+        "path":  "docs/project-brief.md",
+        "sha256":  "79226ED305ED520C822DCFE37EC83CF7D8337AF29538475EECABAF7C100A0260"
+    },
+    {
+        "path":  "docs/decision-log.md",
+        "sha256":  "40496E9224297B4D039EBCD378DA3065DFDAEDA75376CF1F7C5DD5D6D8895C36"
+    },
+    {
+        "path":  "docs/agent-repositioning-and-structure.md",
+        "sha256":  "80540EC537BE08200A0686D0E6BF404E09CF6205FBED782EA931111965BCCB11"
+    },
+    {
+        "path":  "docs/ai-monetization-and-business-canvas.md",
+        "sha256":  "D8964349FFCBAA8694292325365F05B01B9038BE498B32F24A1A373336386CF0"
+    },
+    {
+        "path":  "business/STATE.md",
+        "sha256":  "B3492748414575E11D93E6C553567C97792562B494A82D53D28013C4114F2654"
+    },
+    {
+        "path":  "business/founder-profile.md",
+        "sha256":  "697C8C7CCC36E82EB9523CCBA821F86EF0B1381641C3E6DC75210417F8B4AF31"
+    },
+    {
+        "path":  "business/canvas/README.md",
+        "sha256":  "C372116548EEA09ED351C55C1672EA80211202EB92F43EF0743B6D4FA806A5B8"
+    },
+    {
+        "path":  "business/canvas/template.md",
+        "sha256":  "8B4F31FE5637C13C311B5DB31BA0B04D362E5F912E731C0092952E4F1F964ACC"
+    },
+    {
+        "path":  "business/canvas/candidate-canvas-v0.1.md",
+        "sha256":  "D0FBB6F327DEE6ACA3263E5E527C1B9BD9DFB5F3C339A03210B778D778812F5E"
+    },
+    {
+        "path":  "experiments/bank-friend-first-interview.md",
+        "sha256":  "40CC6CF57A89154B3279E0F1EEBFD4E809E3A2653BE53CD6AE014E02078E88C3"
+    },
+    {
+        "path":  "experiments/customer-interview-and-diagnostic.md",
+        "sha256":  "4A092B2681A25C92B9BFFB0313776C3BAE62CB130EBB7AFC6361C58BA429E276"
+    }
+]

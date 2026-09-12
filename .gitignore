@@ -12,3 +12,6 @@ secrets/
 # OS/editor metadata
 .vscode/
 .idea/
+
+# Interview notes: local only, never publish by default
+/private/

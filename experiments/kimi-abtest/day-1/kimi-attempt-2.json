@@ -1,0 +1,5 @@
+﻿{
+    "start":  "2026-09-12T09:51:39.5588043+08:00",
+    "mode":  "prompt stream-json",
+    "reason":  "Fresh retry after attempt 1 OAuth DNS failure; identical prompt and frozen inputs."
+}
