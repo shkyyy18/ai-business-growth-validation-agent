@@ -1,0 +1,48 @@
+name: Validate project records
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate UTF-8 text and JSON records
+        shell: python
+        run: |
+          import json
+          import pathlib
+          import sys
+
+          root = pathlib.Path('.')
+          errors = []
+          checked = 0
+          text_suffixes = {'.md', '.json', '.yml', '.yaml', '.ps1', '.txt'}
+          for path in root.rglob('*'):
+              if not path.is_file() or '.git' in path.parts or path.suffix.lower() not in text_suffixes:
+                  continue
+              try:
+                  raw = path.read_bytes()
+                  text = raw.decode('utf-8-sig')
+              except UnicodeDecodeError as exc:
+                  errors.append(f'{path}: not valid UTF-8 ({exc})')
+                  continue
+              if '\ufffd' in text:
+                  errors.append(f'{path}: contains Unicode replacement character U+FFFD')
+              if path.suffix.lower() == '.json':
+                  try:
+                      json.loads(text)
+                  except json.JSONDecodeError as exc:
+                      errors.append(f'{path}: invalid JSON ({exc})')
+              checked += 1
+
+          print(f'Validated {checked} files.')
+          if errors:
+              print('\n'.join(errors), file=sys.stderr)
+              sys.exit(1)

@@ -1,0 +1,5 @@
+# Keep repository text records consistently represented as UTF-8.
+*.md text working-tree-encoding=UTF-8
+*.json text working-tree-encoding=UTF-8
+*.yml text working-tree-encoding=UTF-8
+*.yaml text working-tree-encoding=UTF-8
