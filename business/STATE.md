@@ -104,3 +104,7 @@ M1-001 已确定为一个能力验证案例，使用你历史上的知识付费 
 在 GitHub 调研之后，新增 `docs/ai-business-consultant-module-contracts-v0.1.md`，把 AI商业顾问拆为 N0—N11 核心节点，并为每个节点定义目标、输入、输出、事实/假设边界、AI职责、人工确认、验收标准和自动化等级。
 
 当前仍是调研与方案设计阶段。下一步待用户确认的是：是否按 N0—N10 先跑通个人验证工作流，再在出现真实瓶颈后接入 MarkItDown、Pydantic AI、LangGraph 等组件。
+
+## 2026-09-13：补充 MVP 实施待办与验收门
+
+新增 `docs/ai-business-consultant-mvp-implementation-plan-v0.1.md`，明确 S0—S4 实施阶段、纳入和排除范围、业务验收门以及 GitHub 组件按实际瓶颈接入的条件。当前仍等待用户确认后再开始代码实现。

@@ -472,3 +472,7 @@ M1-001 使用用户历史上的知识付费 IP 课程作为案例样本，用来
 本次形成的是“待用户确认的方案设计”，不是开发决定。建议 P0 继续使用 Markdown/Git、一个模型接口和人工确认；MarkItDown、Pydantic AI 作为 P1/P0-P1 候选；LangGraph、GPT Researcher、Streamlit、Langfuse、Promptfoo、LiteLLM 仅在出现相应瓶颈后接入。
 
 本阶段继续保持边界：不写代码、不安装依赖、不克隆第三方仓库、不接入平台账号、不自动发布或自动销售。
+
+## 2026-09-13：形成 MVP 实施待办与验收门
+
+新增 `docs/ai-business-consultant-mvp-implementation-plan-v0.1.md`。当前方案明确分为 S0 确认、S1 文件工作流原型、S2 最小 Python 层、S3 真实小交付、S4 按瓶颈接入组件。用户确认前不写代码、不安装依赖；确认后也只实现一个最小切片。
