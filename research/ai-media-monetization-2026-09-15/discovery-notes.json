@@ -1,0 +1,95 @@
+{
+  "checked_local_date": "2026-09-15",
+  "scope": "initial_public_entry_discovery_not_industry_review",
+  "counts": {
+    "discovered_entities": 3,
+    "qualified_competitors": null,
+    "full_content_read": 0,
+    "verified_transactions": 0
+  },
+  "rules": [
+    "旧跨行业135身份/172作品/62条阅读不计入本AI行业批次",
+    "网页文案是发布者表述，不证明成交或效果",
+    "海外结构参考与国内平台样本分开",
+    "未核验样本覆盖，账号数量随分支/反例与信息增益调整"
+  ],
+  "records": [
+    {
+      "id": "AI-D001",
+      "subject": "歸藏的AI资讯（站点自标识，跨平台身份待核）",
+      "source_type": "site_self_identification_creator_identity_not_cross_verified",
+      "sources": [
+        "https://www.guizang.ai/",
+        "https://www.guizang.ai/articles"
+      ],
+      "observed": "页面列AI资讯与深度文章目录；目录可见Agent软件设计和AI编程实践题材。本次打开的首页/目录未核对到商务入口。",
+      "read_scope": "公开首页与文章目录，不等于已阅读各篇全文或观看视频",
+      "may_infer": "只作为内容题材与后续身份核查入口，不推断变现方式",
+      "not_established": [
+        "合作实际成交",
+        "课程销售",
+        "私域转化",
+        "复购",
+        "利润",
+        "商务入口"
+      ],
+      "full_content_read": false
+    },
+    {
+      "id": "AI-D002",
+      "subject": "AI超元域",
+      "source_type": "creator_owned_site",
+      "sources": [
+        "https://www.aivi.fyi/",
+        "https://www.aivi.fyi/about/"
+      ],
+      "observed": "首页可见AI编程/Agent等文章摘要；关于页有YouTube、B站、GitHub链接，以及Ko-fi支持和联系入口。未在本次读取页确认在线课程或付费社群。",
+      "read_scope": "公开首页与关于页；未阅读成组文章全文、视频或付费材料",
+      "may_infer": "可继续追踪技术内容、开源项目、支持与联系入口的关系；不能据此推断课程或社群变现",
+      "not_established": [
+        "购买人数",
+        "当前实付价格",
+        "续费率",
+        "利润",
+        "课内交付质量",
+        "在线课程入口",
+        "付费社群入口",
+        "支持金额"
+      ],
+      "full_content_read": false
+    },
+    {
+      "id": "AI-D003",
+      "subject": "The Rundown AI / University",
+      "source_type": "publisher_owned_sites",
+      "sources": [
+        "https://www.therundown.ai/",
+        "https://www.therundown.ai/ai-university",
+        "https://www.therundown.ai/advertise-with-us"
+      ],
+      "observed": "首页有AI内容/newsletter订阅、课程与广告入口；University公开列课程、指南、实时训练、咨询和社群等订阅交付，广告页列投放形式及咨询路径。",
+      "read_scope": "公开首页、University产品页、广告产品页已核对；未使用付费内容",
+      "may_infer": "可比较内容观众付费与广告主付费两类付款关系，以及持续交付的设计；不把邮件订阅等同微信私域",
+      "not_established": [
+        "收入",
+        "付费用户数核验",
+        "续费率",
+        "利润",
+        "中国平台适用性"
+      ],
+      "full_content_read": false,
+      "public_offer": {
+        "amount": 29,
+        "currency": "USD",
+        "period": "month",
+        "meaning": "产品页挂牌，未结账核验，不是本项目报价/购买建议",
+        "source": "https://www.therundown.ai/ai-university"
+      }
+    }
+  ],
+  "corrections": [
+    "初始检索未返回可用出处；后来实际打开页面后删除归藏商务入口、AI超元域课程/付费社群两项未经证实概括。",
+    "一个拟核对的访谈URL被网页工具拒绝打开；不作为已读节目说明或已发现主体，未绕过拒绝。",
+    "rundown.ai重定向到therundown.ai；University有效路径来自首页链接/ai-university，不使用未成功读取的/university。"
+  ]
+}

@@ -46,6 +46,8 @@ cd D:\AIWork\projects\ai-new-media-agent
 
 ## 续接入口
 
+2026-09-15主线更新：先读`docs/ai-media-mainline-2026-09-15.md`与v0.5画布；研究发起人的AI内容、转化、私域与复购，不恢复跨行业增长服务的旧扩采任务。
+
 启动时先读 `business/STATE.md` 和 `business/founder-profile.md`，再读其关联画布。每次收尾更新 STATE.md。历史文档中的下一步若与当前状态冲突，以当前状态和最新用户决策为准。
 
 ## 适用范围
