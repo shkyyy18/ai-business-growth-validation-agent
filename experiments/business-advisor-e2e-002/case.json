@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0",
+  "case_id": "business-advisor-e2e-002-public-research",
+  "mode": "real_partial_input",
+  "fingerprint_policy": "sha256-utf8-sig-lf-v1",
+  "public_input": {
+    "path": "experiments/business-advisor-e2e-002/public-corpus.json",
+    "sha256": "656333925881e261a4ad4248a603db64b424db0e78d3af769333e863ba4f4bf7"
+  },
+  "evidence": [
+    {
+      "id": "E01",
+      "kind": "context",
+      "path": "agent/AGENT.md",
+      "sha256": "bcb9e232913c782fc756285a1e17cfa135223dafa117b42208574a4c995f2b93",
+      "subject": "project",
+      "review_status": "source_checked",
+      "synthetic": false,
+      "assertion": "使命仍是商业问题、验证与产品化；新媒体只是可选增长渠道。"
+    },
+    {
+      "id": "E02",
+      "kind": "public_input",
+      "path": "experiments/business-advisor-e2e-002/public-corpus.json",
+      "sha256": "656333925881e261a4ad4248a603db64b424db0e78d3af769333e863ba4f4bf7",
+      "subject": "research_subject",
+      "review_status": "source_checked",
+      "synthetic": false,
+      "assertion": "合并发现池135身份172作品，62条已读平台AI文本；行业充分、原视频、客户结果均未验证。"
+    },
+    {
+      "id": "E03",
+      "kind": "founder_experience",
+      "path": "experiments/ip-course-method-extraction-v0.1.md",
+      "sha256": "ae42f506126733e68d0c65c86eca56ad6578c0c7ec5a8fed37103e6b34a8e8e2",
+      "subject": "founder",
+      "review_status": "source_checked",
+      "synthetic": false,
+      "assertion": "用户历史经验和方法提取；不是当前客户问题或需求验证。"
+    },
+    {
+      "id": "E04",
+      "kind": "selected_task",
+      "path": "experiments/ip-course-method-extraction-v0.1.md",
+      "sha256": "ae42f506126733e68d0c65c86eca56ad6578c0c7ec5a8fed37103e6b34a8e8e2",
+      "subject": "founder",
+      "review_status": "source_checked",
+      "synthetic": false,
+      "assertion": "先真实行业研究，按行业动态决定数量，不让孤立稿件替代素材积累。"
+    },
+    {
+      "id": "E05",
+      "kind": "hypothesis_canvas",
+      "path": "business/canvas/candidate-canvas-v0.4-public-research.md",
+      "sha256": "177ab88edd079fa50756b1666efd8dbf3a5e2d3db2b62137bc066ed7262648c9",
+      "subject": "project",
+      "review_status": "source_checked",
+      "synthetic": false,
+      "assertion": "v0.4更新实际公开研究交付，保留客户/价值/价格/形态未验证。"
+    },
+    {
+      "id": "E06",
+      "kind": "research_probe",
+      "path": "research/m1-professional-2026-09-14/report.md",
+      "sha256": "924515a85db9a3874aacc95835e4299cc42e301f06e3c55c6a0950873037a7b5",
+      "subject": "research_subject",
+      "review_status": "source_checked",
+      "synthetic": false,
+      "assertion": "新增37条平台AI文稿阅读，涉及专业课程/服务、交付与质疑；未验证音轨与订单。"
+    },
+    {
+      "id": "E07",
+      "kind": "delivery",
+      "path": "experiments/business-advisor-e2e-002/advisor-loop-run.md",
+      "sha256": "b5a813d28e5d09e3635a97e172ddb2cb50aea0ef6d375c63f941c3942acb05a3",
+      "subject": "project",
+      "review_status": "source_checked",
+      "synthetic": false,
+      "assertion": "对用户本次研究任务交付了有来源的顾问环节交接；不是客户采用或业务验收。"
+    },
+    {
+      "id": "E08",
+      "kind": "access_review",
+      "path": "research/m1-professional-2026-09-14/public-entry-probes.json",
+      "sha256": "f6a33fffda6bee341a0e2f1e70102d25e7c92822edc5bda82e0fe0a4ce379dcf",
+      "subject": "research_subject",
+      "review_status": "source_checked",
+      "synthetic": false,
+      "assertion": "三个普通公开主页HTTP200但正文0字节，不认定连续列表/商城访问成功。"
+    },
+    {
+      "id": "E09",
+      "kind": "research_probe",
+      "path": "experiments/business-advisor-e2e-002/content-families.json",
+      "sha256": "18951be6c2a506b19524f6a45f5a303baf8fd518f3dbdc9176f6a565bd1b1f3d",
+      "subject": "research_subject",
+      "review_status": "source_checked",
+      "synthetic": false,
+      "assertion": "相近文本与结构家族保留独立作品身份；不把相似度当抄袭概率或流量原因。"
+    },
+    {
+      "id": "E10",
+      "kind": "research_probe",
+      "path": "research/m2-live-review-reading-2026-09-14/report.md",
+      "subject": "research_subject",
+      "review_status": "source_checked",
+      "synthetic": false,
+      "assertion": "既有发现池的2条平台文本新增阅读；非新增作品、直播录像或经营结果。",
+      "sha256": "2c4061699196e810c078c5a4eabdf82055b4350c6410e80111cc572408c08e0a"
+    },
+    {
+      "id": "E11",
+      "kind": "research_probe",
+      "path": "experiments/business-advisor-e2e-002/public-product-signals.json",
+      "subject": "research_subject",
+      "review_status": "source_checked",
+      "synthetic": false,
+      "assertion": "9个已读身份的产品/支持/推广线索，价格/订单/利润未知；不是热销排行。",
+      "sha256": "ab6a9b3afa6eb72d7f8a69cda511af8121cff17af8fb8453809c97d1e6a0d4e5"
+    }
+  ],
+  "canvas": {
+    "客户与任务": "课程/服务型老师、顾问、培训师为探索范围；没有当前客户可做内容/直播诊断。",
+    "价值": "真实研究与可追溯对照优于凭空评稿是待验证价值；不声称AI已有行业网感。",
+    "本轮交付": "135身份/172作品发现池、62条文本阅读/42身份、家族归组、结构/产品/交付对照、全流程节点交接。",
+    "收入与成本": "价格/支付未知；本批付费数据调用0，完整模型费用和工时未知。",
+    "形态与决策": "研究诊断、单轮改写、交付优化、直播小实验是候选；不擅自替客户专家选产品。",
+    "风险": "推荐偏差、历史界面、未看音视频、原作者自述、缺真实订单、客户执行未验证。"
+  },
+  "node_notes": {
+    "N0": "沿用商业顾问总使命和用户要求；公开研究主动进行，客户实测单独补输入。",
+    "N1": "两批有来源发现池已合并；11页中10页贡献有效作品，135身份172作品，62条已读平台文本。",
+    "N2": "用用户既有方法组织真实资料，不把历史能力自述改成客户结果。",
+    "N3": "尚无当前客户；职业/口才/办公课是研究分支，不推测客户痛点、损失或付费意愿。",
+    "N4": "v0.4新增已交付研究事实；商业画布仍是假设，未改价格/定位。",
+    "N5": "先补有信息增益的原素材、独立分支及商品/交付证据；不以135身份宣布充分或固定配额结束。",
+    "N6": "尚无客户访谈；不读取银行隔离访谈或把公开视频当客户访谈。",
+    "N7": "离线数据/文本/交接实验已执行；客户实验缺授权、历史内容/直播、产品、基线和验收。",
+    "N8": "对用户交付研究内容库、拆解与跨环节交接；客户采用、拍摄发布、上播均未发生。",
+    "N9": "互动是快照，商品/资料/支持是作者线索；无订单、投流、利润或完整成本，不能算真实ROI。",
+    "N10": "来源归属、缺失主卡、引用文稿、内容家族已做研究复盘；没有客户经营结果可复盘。",
+    "N11": "将实际易错步骤纳入Skill并回归；没有重复客户交付/支付/工时证据，不宣布可售系统。"
+  },
+  "module_handoffs": {
+    "M1 内容研究与生产": "真实库与62条阅读已接通；职业案例、五点口才、购后支持和反例可回溯。原视频/行业充分性未验，不把平台文本当镜头深拆。",
+    "M2 直播与转化辅助": "补读2条直播复盘教学文本，连接录屏定位、进出曲线和建议执行；仍不是直播原素材。形成购后说明的小实验候选，不造完整直播承诺或真实数据。",
+    "M3 产品设计": "从职业咨询、口才训练营/工具、办公课程+支持提出候选；未验证价格/销量，专家选择和原产品课纲仍缺。",
+    "M4 私域交付": "购后入口、跨设备、兑换、礼包基础能力、问题咨询已形成具体对照；平台入口是历史描述，客户流程需重核。",
+    "M5 数据复盘": "真实数据缺失保留未知；进入事件/UV、千次观看GMV、广告GMV ROAS、利润ROI分开；算术测试不当直播实验。"
+  },
+  "decision": "研究到内容库及顾问交接链已实际执行，继续补独立分支、原素材与产品证据；客户私有输入/实测未到位只影响对应节点，不再阻塞公开研究。不能因资料增加或离线测试通过宣布客户/付费闭环跑通。"
+}

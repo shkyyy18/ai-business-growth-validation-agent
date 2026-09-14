@@ -1,0 +1,9 @@
+{
+  "purpose": "拟在全新隔离浏览器配置中查看普通公开课程聚合页",
+  "result": "tool_policy_rejected_before_execution",
+  "browser_launched": false,
+  "existing_browser_profile_or_cookies_read": false,
+  "screenshots_observed": 0,
+  "workaround_attempted": false,
+  "fallback": "沿用已保存公开HTML/惰性JSON；没有以另一进程启动方式绕过拒绝"
+}

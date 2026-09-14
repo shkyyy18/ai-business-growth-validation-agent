@@ -114,6 +114,13 @@ def validate_public_input(data):
     for key,flag in [("original_videos_viewed","original_video_viewed"),("verified_transcripts","verified_transcript")]:
         actual=sum(w.get("material",{}).get(flag) is True for w in works)
         if coverage.get(key)!=actual:raise ValueError("Reading count mismatch: "+key)
+    # Optional merged-corpus counts must remain consistent with material flags.
+    for key,flag in [("platform_text_read","platform_text_read"),("platform_asr_available","platform_asr_available")]:
+        if key in coverage and coverage[key] != sum(w.get("material",{}).get(flag) is True for w in works):
+            raise ValueError("Reading count mismatch: " + key)
+    if "accounts_with_text_read" in coverage:
+        read_authors={w["author_uid"] for w in works if w.get("material",{}).get("platform_text_read") is True}
+        if coverage["accounts_with_text_read"]!=len(read_authors):raise ValueError("Read-account count mismatch")
     if coverage.get("industry_sufficiency") is not False:
         raise ValueError("Partial-input source test cannot assert industry sufficiency")
 
@@ -128,7 +135,7 @@ def assess(case,data,checked):
     return {"case_id":case["case_id"],"run_kind":"offline_source_integrity_and_handoff", "network_calls":0,"source_integrity":"passed", "industry_research_complete":False,"customer_delivery_validated":False,"commercial_loop_validated":False,"nodes":nodes,"counts":data["coverage"],"evidence":checked,"limitations":["A hash proves file identity, not source truth or client authorization.","Node evidence presence is not node/business completion.","No continuous feed, original-media review or transactions were established by this run."]}
 
 def render_review(case,data,audit):
-    lines=["# 商业顾问端到端检查："+case["case_id"],"","**本次运行：真实部分输入的来源核验与节点交接，不是客户业务闭环跑通。**","","## 实际材料",f"- {len(data['accounts'])}个公开研究账号、{len(data['works'])}条离散主作品。不是我们的客户，也不是行业充分样本。","- 本命令离线运行，不采集、不调用模型、不生成原视频观察、成交或客户回答。","","## N0—N11交接","| 节点 | 文件证据 | 当前判断与下一动作 |","|---|---|---|"]
+    lines=["# 商业顾问端到端检查："+case["case_id"],"","**本次运行：真实部分输入的来源核验与节点交接，不是客户业务闭环跑通。**","","## 实际材料",f"- {len(data['accounts'])}个公开研究账号、{len(data['works'])}条公开发现作品（主作品与推荐项分别核验）。不是我们的客户，也不是行业充分样本。","- 本命令离线运行，不采集、不调用模型、不生成原视频观察、成交或客户回答。","","## N0—N11交接","| 节点 | 文件证据 | 当前判断与下一动作 |","|---|---|---|"]
     for n in audit['nodes']:
         state="有对应来源（不等于业务验收）" if not n['missing_evidence_kinds'] else "待补："+", ".join(n['missing_evidence_kinds'])
         note=n['note'].replace('|','／').replace('\n',' ')

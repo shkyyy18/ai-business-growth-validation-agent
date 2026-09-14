@@ -1,0 +1,112 @@
+{
+  "scope": "基于已读文本的顾问归组，不是自动去重作品或行业代表性分类",
+  "pairs": [
+    {
+      "work_ids": [
+        "7627822680881157861",
+        "7644776975822842042"
+      ],
+      "source_text_sha256": [
+        "d5507c9e1b64cb1d097228dc538efcdb206c3586e99985999ca2690b373276a7",
+        "235ea9178b19e5a94b6b027b2811a43430feddeddb8266bd5a8f35bd3c0dd231"
+      ],
+      "similarity_method": "difflib.SequenceMatcher autojunk=False; Unicode whitespace removed; exact ASR strings retained privately",
+      "ratio": 0.9125,
+      "likes_snapshots": [
+        313,
+        931
+      ],
+      "decision": "保留不同作品身份和互动快照，但作为相近内容家族对照，不计为独立有效性证明",
+      "limits": "不是抄袭概率；未核对音轨/视频/来源顺序/许可/投流/曝光，不能解释差异原因"
+    },
+    {
+      "work_ids": [
+        "7614496079367125733",
+        "7644064506406590629"
+      ],
+      "source_text_sha256": [
+        "ffa132cc4ebcdbeca20e64bb47b685f5ead0ad81924f6259c9a131b51377b9cf",
+        "29622328388321eb8e13c77e78f6b3b31021629e088c02bda9005780d1c3bf52"
+      ],
+      "similarity_method": "difflib.SequenceMatcher autojunk=False; Unicode whitespace removed; exact ASR strings retained privately",
+      "ratio": 0.5283,
+      "likes_snapshots": [
+        191,
+        11
+      ],
+      "decision": "保留不同作品身份和互动快照，但作为相近内容家族对照，不计为独立有效性证明",
+      "limits": "不是抄袭概率；未核对音轨/视频/来源顺序/许可/投流/曝光，不能解释差异原因"
+    },
+    {
+      "work_ids": [
+        "7636381036087314161",
+        "7587753012119212409"
+      ],
+      "source_text_sha256": [
+        "d5e6f550a41875bd46657becdea1417499419862750babbcb7fbda99af950dcc",
+        "c24e00ea85e69d1fda3646d3e6f7b84a5fb580d8a29a116f70ef1f3d582fccb7"
+      ],
+      "similarity_method": "difflib.SequenceMatcher autojunk=False; Unicode whitespace removed; exact ASR strings retained privately",
+      "ratio": 0.4763,
+      "likes_snapshots": [
+        1205,
+        118
+      ],
+      "decision": "保留不同作品身份和互动快照，但作为相近内容家族对照，不计为独立有效性证明",
+      "limits": "不是抄袭概率；未核对音轨/视频/来源顺序/许可/投流/曝光，不能解释差异原因"
+    }
+  ],
+  "families": [
+    {
+      "id": "F-career-fit",
+      "kind": "same_author_structure",
+      "work_ids": [
+        "7113032405635697950",
+        "7062677383601605924",
+        "7093843980248468766",
+        "7051890431763713316",
+        "7087931084612144391"
+      ],
+      "observation": "性格/工作困扰→作者咨询判断与案例→岗位适配→部分作品有课程/咨询承接；案例和薪资未独立核实"
+    },
+    {
+      "id": "F-speaking-five-actions",
+      "kind": "cross_author_language_family",
+      "work_ids": [
+        "7636381036087314161",
+        "7627822680881157861",
+        "7644776975822842042",
+        "7587753012119212409"
+      ],
+      "observation": "五点顺序、论据和资料领取较相近；作者/作品数不等于独立观点数"
+    },
+    {
+      "id": "F-speaking-practice",
+      "kind": "cross_author_argument_family",
+      "work_ids": [
+        "7614496079367125733",
+        "7644064506406590629"
+      ],
+      "observation": "练习不足循环→名人类比→行动，保留两种互动表现"
+    },
+    {
+      "id": "F-office-onboarding",
+      "kind": "same_author_delivery_sequence",
+      "work_ids": [
+        "7210626231383969082",
+        "7307877827095924019",
+        "7307878608217951538"
+      ],
+      "observation": "手机/电脑看课与配套资料下载，文本体现从访问到基础能力再到礼包的交付先后关系"
+    },
+    {
+      "id": "F-memory-skepticism",
+      "kind": "related_argument_not_independent_validation",
+      "work_ids": [
+        "7145344870557732132",
+        "7237770001267084547"
+      ],
+      "observation": "人群反问及训练效果迁移的质疑；不同发布身份不使之成为独立科学证据"
+    }
+  ]
+}

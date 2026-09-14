@@ -81,7 +81,9 @@
 
 ```powershell
 python tools/ai_business_consultant.py status
-python tools/ai_business_consultant.py run-case experiments/business-advisor-e2e-001/case.json
+python tools/ai_business_consultant.py run-case experiments/business-advisor-e2e-002/case.json
 ```
 
-真实部分输入：1个公开作者、2条离散作品元数据。默认输出在本地 `private/workbench/latest-case/`，不会上传GitHub。命令核对来源并生成N0—N11交接，**不等于行业研究、客户交付或商业闭环跑通**。使用边界、直播指标计算及回归测试见 `tools/README.md`。
+当前案例输入：两批公开页面快照与一次既有材料补充阅读，合并135个公开身份、172条作品，62条平台AI文稿已读（涉及42个身份）。这是包含相邻内容的发现池，不是135个合格竞品，也未观看原视频。默认输出在本地 `private/workbench/latest-case/`，不会上传GitHub；已有输出默认拒绝覆盖。命令核对来源并生成N0—N11交接，**不等于行业充分研究、客户交付或商业闭环跑通**。
+
+本轮成果总览见 `experiments/business-advisor-e2e-002/report.md`；实际内容导航见同目录 `content-library.md`，三个研究案例见 `three-worked-research-cases.md`。旧`e2e-001`保留为当时的固定快照。使用边界、直播指标计算及回归测试见 `tools/README.md`。

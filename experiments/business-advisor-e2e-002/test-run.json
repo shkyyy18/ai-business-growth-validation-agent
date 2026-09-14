@@ -1,0 +1,128 @@
+{
+  "executed_at": "2026-09-14T15:06:09.909121+00:00",
+  "scope": "working_tree_local_offline_verification_not_client_or_remote_CI",
+  "runs": [
+    {
+      "command": [
+        "python",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tests",
+        "-v"
+      ],
+      "exit_code": 0,
+      "test_methods": 59,
+      "process_elapsed_seconds": 0.7192,
+      "log_kind": "actual_local_execution_not_business_research_time",
+      "stdout": "",
+      "stderr": "test_bad_numeric_values (test_business_metrics.BusinessMetricsTests.test_bad_numeric_values) ... ok\ntest_explicit_formulas (test_business_metrics.BusinessMetricsTests.test_explicit_formulas) ... ok\ntest_inconsistent_denominators (test_business_metrics.BusinessMetricsTests.test_inconsistent_denominators) ... ok\ntest_invalid_window (test_business_metrics.BusinessMetricsTests.test_invalid_window) ... ok\ntest_missing_is_not_zero (test_business_metrics.BusinessMetricsTests.test_missing_is_not_zero) ... ok\ntest_naive_window (test_business_metrics.BusinessMetricsTests.test_naive_window) ... ok\ntest_no_unconfirmed_mapping (test_business_metrics.BusinessMetricsTests.test_no_unconfirmed_mapping) ... ok\ntest_revenue_does_not_imply_profit (test_business_metrics.BusinessMetricsTests.test_revenue_does_not_imply_profit) ... ok\ntest_unknown_fields_not_silently_mapped (test_business_metrics.BusinessMetricsTests.test_unknown_fields_not_silently_mapped) ... ok\ntest_zero_denominator_is_unknown (test_business_metrics.BusinessMetricsTests.test_zero_denominator_is_unknown) ... ok\ntest_zero_numerator_is_zero (test_business_metrics.BusinessMetricsTests.test_zero_numerator_is_zero) ... ok\ntest_aggregation_id_is_not_original_id (test_case_pipeline.CasePipelineTests.test_aggregation_id_is_not_original_id) ... ok\ntest_counts_not_industry_sufficiency (test_case_pipeline.CasePipelineTests.test_counts_not_industry_sufficiency) ... ok\ntest_cross_platform_bom_and_newline_fingerprints (test_case_pipeline.CasePipelineTests.test_cross_platform_bom_and_newline_fingerprints) ... ok\ntest_duplicate_evidence_rejected (test_case_pipeline.CasePipelineTests.test_duplicate_evidence_rejected) ... ok\ntest_duplicate_work_rejected (test_case_pipeline.CasePipelineTests.test_duplicate_work_rejected) ... ok\ntest_invalid_metrics_rejected (test_case_pipeline.CasePipelineTests.test_invalid_metrics_rejected) ... ok\ntest_malformed_top_level (test_case_pipeline.CasePipelineTests.test_malformed_top_level) ... ok\ntest_missing_client_evidence_not_promoted_by_likes (test_case_pipeline.CasePipelineTests.test_missing_client_evidence_not_promoted_by_likes) ... ok\ntest_missing_source_rejected (test_case_pipeline.CasePipelineTests.test_missing_source_rejected) ... ok\ntest_no_overwrite_without_force (test_case_pipeline.CasePipelineTests.test_no_overwrite_without_force) ... ok\ntest_no_unfounded_viral_classification (test_case_pipeline.CasePipelineTests.test_no_unfounded_viral_classification) ... ok\ntest_path_escape_rejected (test_case_pipeline.CasePipelineTests.test_path_escape_rejected) ... ok\ntest_public_subject_is_not_client (test_case_pipeline.CasePipelineTests.test_public_subject_is_not_client) ... ok\ntest_reading_count_mismatch (test_case_pipeline.CasePipelineTests.test_reading_count_mismatch) ... ok\ntest_real_captured_metadata_end_to_end_handoff (test_case_pipeline.CasePipelineTests.test_real_captured_metadata_end_to_end_handoff) ... ok\ntest_recommendation_boundary_required (test_case_pipeline.CasePipelineTests.test_recommendation_boundary_required) ... ok\ntest_reproducible_output (test_case_pipeline.CasePipelineTests.test_reproducible_output) ... ok\ntest_source_change_stops_before_writing (test_case_pipeline.CasePipelineTests.test_source_change_stops_before_writing) ... ok\ntest_synthetic_is_not_real_evidence (test_case_pipeline.CasePipelineTests.test_synthetic_is_not_real_evidence) ... ok\ntest_unknown_author_rejected (test_case_pipeline.CasePipelineTests.test_unknown_author_rejected) ... ok\ntest_direct_text (test_public_page_frames.FrameTests.test_direct_text) ... ok\ntest_duplicate_id_rejected (test_public_page_frames.FrameTests.test_duplicate_id_rejected) ... ok\ntest_invalid_utf8_length_rejected (test_public_page_frames.FrameTests.test_invalid_utf8_length_rejected) ... ok\ntest_json_chunk_boundary (test_public_page_frames.FrameTests.test_json_chunk_boundary) ... ok\ntest_ordinary_javascript_not_executed (test_public_page_frames.FrameTests.test_ordinary_javascript_not_executed) ... ok\ntest_text_length_is_bytes_and_embedded_headers_are_inert (test_public_page_frames.FrameTests.test_text_length_is_bytes_and_embedded_headers_are_inert) ... ok\ntest_truncated_text_rejected (test_public_page_frames.FrameTests.test_truncated_text_rejected) ... ok\ntest_unknown_frame_type_skipped (test_public_page_frames.FrameTests.test_unknown_frame_type_skipped) ... ok\ntest_unresolved_and_special_refs (test_public_page_frames.FrameTests.test_unresolved_and_special_refs) ... ok\ntest_count_mismatch_rejected (test_research_corpus.CorpusTests.test_count_mismatch_rejected) ... ok\ntest_duplicate_batch_rejected (test_research_corpus.CorpusTests.test_duplicate_batch_rejected) ... ok\ntest_false_read_flag_rejected (test_research_corpus.CorpusTests.test_false_read_flag_rejected) ... ok\ntest_frozen_second_case_handoff (test_research_corpus.CorpusTests.test_frozen_second_case_handoff) ... ok\ntest_identity_conflict_rejected (test_research_corpus.CorpusTests.test_identity_conflict_rejected) ... ok\ntest_merged_read_count_cannot_be_inflated (test_research_corpus.CorpusTests.test_merged_read_count_cannot_be_inflated) ... ok\ntest_original_video_claim_needs_other_importer (test_research_corpus.CorpusTests.test_original_video_claim_needs_other_importer) ... ok\ntest_published_corpus_replays_without_private_captures (test_research_corpus.CorpusTests.test_published_corpus_replays_without_private_captures) ... ok\ntest_query_only_retrieves_existing_material (test_research_corpus.CorpusTests.test_query_only_retrieves_existing_material) ... ok\ntest_real_two_batch_counts_and_boundaries (test_research_corpus.CorpusTests.test_real_two_batch_counts_and_boundaries) ... ok\ntest_repeatable (test_research_corpus.CorpusTests.test_repeatable) ... ok\ntest_same_works_in_distinct_batches_not_summed (test_research_corpus.CorpusTests.test_same_works_in_distinct_batches_not_summed) ... ok\ntest_stale_read_note_rejected (test_research_corpus.CorpusTests.test_stale_read_note_rejected) ... ok\ntest_supplemental_reading_changes_read_counts_not_discovery (test_research_corpus.CorpusTests.test_supplemental_reading_changes_read_counts_not_discovery) ... ok\ntest_title_only_is_not_reading (test_research_corpus.CorpusTests.test_title_only_is_not_reading) ... ok\ntest_unknown_author_rejected (test_research_corpus.CorpusTests.test_unknown_author_rejected) ... ok\ntest_canvas_generation (test_workbench.WorkbenchSmokeTests.test_canvas_generation) ... ok\ntest_status (test_workbench.WorkbenchSmokeTests.test_status) ... ok\ntest_validate (test_workbench.WorkbenchSmokeTests.test_validate) ... ok\n\n----------------------------------------------------------------------\nRan 59 tests in 0.648s\n\nOK\n"
+    },
+    {
+      "command": [
+        "python",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "experiments/m1-field-mapping-001",
+        "-p",
+        "test_mapping.py",
+        "-v"
+      ],
+      "exit_code": 0,
+      "test_methods": 14,
+      "process_elapsed_seconds": 0.0539,
+      "log_kind": "actual_local_execution_not_business_research_time",
+      "stdout": "",
+      "stderr": "test_account_id_survives_name_change (test_mapping.MappingChecks.test_account_id_survives_name_change) ... ok\ntest_conflicting_duplicate_not_silently_overwritten (test_mapping.MappingChecks.test_conflicting_duplicate_not_silently_overwritten) ... ok\ntest_cursor_stall_is_not_saturation (test_mapping.MappingChecks.test_cursor_stall_is_not_saturation) ... ok\ntest_description_is_not_reading (test_mapping.MappingChecks.test_description_is_not_reading) ... ok\ntest_duplicate_not_double_counted (test_mapping.MappingChecks.test_duplicate_not_double_counted) ... ok\ntest_invalid_metric_not_coerced (test_mapping.MappingChecks.test_invalid_metric_not_coerced) ... ok\ntest_missing_id_excluded (test_mapping.MappingChecks.test_missing_id_excluded) ... ok\ntest_recommendation_wrong_author_rejected (test_mapping.MappingChecks.test_recommendation_wrong_author_rejected) ... ok\ntest_restricted_and_error_fixtures_excluded (test_mapping.MappingChecks.test_restricted_and_error_fixtures_excluded) ... ok\ntest_statistics_wrong_id_rejected (test_mapping.MappingChecks.test_statistics_wrong_id_rejected) ... ok\ntest_unknown_metric_not_zero (test_mapping.MappingChecks.test_unknown_metric_not_zero) ... ok\ntest_unknown_shapes_rejected (test_mapping.MappingChecks.test_unknown_shapes_rejected) ... ok\ntest_valid_ids_and_metrics (test_mapping.MappingChecks.test_valid_ids_and_metrics) ... ok\ntest_zero_plays_not_a_denominator (test_mapping.MappingChecks.test_zero_plays_not_a_denominator) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 0.004s\n\nOK\n"
+    },
+    {
+      "command": [
+        "python",
+        "tools/ai_business_consultant.py",
+        "validate"
+      ],
+      "exit_code": 0,
+      "test_methods": null,
+      "process_elapsed_seconds": 0.0784,
+      "log_kind": "actual_local_execution_not_business_research_time",
+      "stdout": "项目记录校验通过。\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python",
+        "tools/ai_business_consultant.py",
+        "run-case",
+        "experiments/business-advisor-e2e-002/case.json",
+        "--output",
+        "private/workbench/e2e-002-final-verification"
+      ],
+      "exit_code": 0,
+      "test_methods": null,
+      "process_elapsed_seconds": 0.0666,
+      "log_kind": "actual_local_execution_not_business_research_time",
+      "stdout": "Source integrity: passed; N0-N11 handoff written.\nIndustry/customer/commercial validation: NOT COMPLETE.\nMissing-evidence nodes: N3, N6, N7, N8, N9, N10, N11\n",
+      "stderr": ""
+    }
+  ],
+  "total_test_methods": 73,
+  "all_passed": true,
+  "staged_repository_verification": {
+    "executed_at": "2026-09-14T15:07:31.298969+00:00",
+    "scope": "staged_repository_without_private_captures",
+    "utf8_json_files_checked": 282,
+    "text_errors": [],
+    "runs": [
+      {
+        "command": [
+          "python",
+          "-m",
+          "unittest",
+          "discover",
+          "-s",
+          "tests",
+          "-v"
+        ],
+        "exit_code": 0,
+        "test_methods": 59,
+        "process_elapsed_seconds": 0.7145,
+        "stdout": "",
+        "stderr": "test_bad_numeric_values (test_business_metrics.BusinessMetricsTests.test_bad_numeric_values) ... ok\ntest_explicit_formulas (test_business_metrics.BusinessMetricsTests.test_explicit_formulas) ... ok\ntest_inconsistent_denominators (test_business_metrics.BusinessMetricsTests.test_inconsistent_denominators) ... ok\ntest_invalid_window (test_business_metrics.BusinessMetricsTests.test_invalid_window) ... ok\ntest_missing_is_not_zero (test_business_metrics.BusinessMetricsTests.test_missing_is_not_zero) ... ok\ntest_naive_window (test_business_metrics.BusinessMetricsTests.test_naive_window) ... ok\ntest_no_unconfirmed_mapping (test_business_metrics.BusinessMetricsTests.test_no_unconfirmed_mapping) ... ok\ntest_revenue_does_not_imply_profit (test_business_metrics.BusinessMetricsTests.test_revenue_does_not_imply_profit) ... ok\ntest_unknown_fields_not_silently_mapped (test_business_metrics.BusinessMetricsTests.test_unknown_fields_not_silently_mapped) ... ok\ntest_zero_denominator_is_unknown (test_business_metrics.BusinessMetricsTests.test_zero_denominator_is_unknown) ... ok\ntest_zero_numerator_is_zero (test_business_metrics.BusinessMetricsTests.test_zero_numerator_is_zero) ... ok\ntest_aggregation_id_is_not_original_id (test_case_pipeline.CasePipelineTests.test_aggregation_id_is_not_original_id) ... ok\ntest_counts_not_industry_sufficiency (test_case_pipeline.CasePipelineTests.test_counts_not_industry_sufficiency) ... ok\ntest_cross_platform_bom_and_newline_fingerprints (test_case_pipeline.CasePipelineTests.test_cross_platform_bom_and_newline_fingerprints) ... ok\ntest_duplicate_evidence_rejected (test_case_pipeline.CasePipelineTests.test_duplicate_evidence_rejected) ... ok\ntest_duplicate_work_rejected (test_case_pipeline.CasePipelineTests.test_duplicate_work_rejected) ... ok\ntest_invalid_metrics_rejected (test_case_pipeline.CasePipelineTests.test_invalid_metrics_rejected) ... ok\ntest_malformed_top_level (test_case_pipeline.CasePipelineTests.test_malformed_top_level) ... ok\ntest_missing_client_evidence_not_promoted_by_likes (test_case_pipeline.CasePipelineTests.test_missing_client_evidence_not_promoted_by_likes) ... ok\ntest_missing_source_rejected (test_case_pipeline.CasePipelineTests.test_missing_source_rejected) ... ok\ntest_no_overwrite_without_force (test_case_pipeline.CasePipelineTests.test_no_overwrite_without_force) ... ok\ntest_no_unfounded_viral_classification (test_case_pipeline.CasePipelineTests.test_no_unfounded_viral_classification) ... ok\ntest_path_escape_rejected (test_case_pipeline.CasePipelineTests.test_path_escape_rejected) ... ok\ntest_public_subject_is_not_client (test_case_pipeline.CasePipelineTests.test_public_subject_is_not_client) ... ok\ntest_reading_count_mismatch (test_case_pipeline.CasePipelineTests.test_reading_count_mismatch) ... ok\ntest_real_captured_metadata_end_to_end_handoff (test_case_pipeline.CasePipelineTests.test_real_captured_metadata_end_to_end_handoff) ... ok\ntest_recommendation_boundary_required (test_case_pipeline.CasePipelineTests.test_recommendation_boundary_required) ... ok\ntest_reproducible_output (test_case_pipeline.CasePipelineTests.test_reproducible_output) ... ok\ntest_source_change_stops_before_writing (test_case_pipeline.CasePipelineTests.test_source_change_stops_before_writing) ... ok\ntest_synthetic_is_not_real_evidence (test_case_pipeline.CasePipelineTests.test_synthetic_is_not_real_evidence) ... ok\ntest_unknown_author_rejected (test_case_pipeline.CasePipelineTests.test_unknown_author_rejected) ... ok\ntest_direct_text (test_public_page_frames.FrameTests.test_direct_text) ... ok\ntest_duplicate_id_rejected (test_public_page_frames.FrameTests.test_duplicate_id_rejected) ... ok\ntest_invalid_utf8_length_rejected (test_public_page_frames.FrameTests.test_invalid_utf8_length_rejected) ... ok\ntest_json_chunk_boundary (test_public_page_frames.FrameTests.test_json_chunk_boundary) ... ok\ntest_ordinary_javascript_not_executed (test_public_page_frames.FrameTests.test_ordinary_javascript_not_executed) ... ok\ntest_text_length_is_bytes_and_embedded_headers_are_inert (test_public_page_frames.FrameTests.test_text_length_is_bytes_and_embedded_headers_are_inert) ... ok\ntest_truncated_text_rejected (test_public_page_frames.FrameTests.test_truncated_text_rejected) ... ok\ntest_unknown_frame_type_skipped (test_public_page_frames.FrameTests.test_unknown_frame_type_skipped) ... ok\ntest_unresolved_and_special_refs (test_public_page_frames.FrameTests.test_unresolved_and_special_refs) ... ok\ntest_count_mismatch_rejected (test_research_corpus.CorpusTests.test_count_mismatch_rejected) ... ok\ntest_duplicate_batch_rejected (test_research_corpus.CorpusTests.test_duplicate_batch_rejected) ... ok\ntest_false_read_flag_rejected (test_research_corpus.CorpusTests.test_false_read_flag_rejected) ... ok\ntest_frozen_second_case_handoff (test_research_corpus.CorpusTests.test_frozen_second_case_handoff) ... ok\ntest_identity_conflict_rejected (test_research_corpus.CorpusTests.test_identity_conflict_rejected) ... ok\ntest_merged_read_count_cannot_be_inflated (test_research_corpus.CorpusTests.test_merged_read_count_cannot_be_inflated) ... ok\ntest_original_video_claim_needs_other_importer (test_research_corpus.CorpusTests.test_original_video_claim_needs_other_importer) ... ok\ntest_published_corpus_replays_without_private_captures (test_research_corpus.CorpusTests.test_published_corpus_replays_without_private_captures) ... ok\ntest_query_only_retrieves_existing_material (test_research_corpus.CorpusTests.test_query_only_retrieves_existing_material) ... ok\ntest_real_two_batch_counts_and_boundaries (test_research_corpus.CorpusTests.test_real_two_batch_counts_and_boundaries) ... ok\ntest_repeatable (test_research_corpus.CorpusTests.test_repeatable) ... ok\ntest_same_works_in_distinct_batches_not_summed (test_research_corpus.CorpusTests.test_same_works_in_distinct_batches_not_summed) ... ok\ntest_stale_read_note_rejected (test_research_corpus.CorpusTests.test_stale_read_note_rejected) ... ok\ntest_supplemental_reading_changes_read_counts_not_discovery (test_research_corpus.CorpusTests.test_supplemental_reading_changes_read_counts_not_discovery) ... ok\ntest_title_only_is_not_reading (test_research_corpus.CorpusTests.test_title_only_is_not_reading) ... ok\ntest_unknown_author_rejected (test_research_corpus.CorpusTests.test_unknown_author_rejected) ... ok\ntest_canvas_generation (test_workbench.WorkbenchSmokeTests.test_canvas_generation) ... ok\ntest_status (test_workbench.WorkbenchSmokeTests.test_status) ... ok\ntest_validate (test_workbench.WorkbenchSmokeTests.test_validate) ... ok\n\n----------------------------------------------------------------------\nRan 59 tests in 0.634s\n\nOK\n"
+      },
+      {
+        "command": [
+          "python",
+          "-m",
+          "unittest",
+          "discover",
+          "-s",
+          "experiments/m1-field-mapping-001",
+          "-p",
+          "test_mapping.py",
+          "-v"
+        ],
+        "exit_code": 0,
+        "test_methods": 14,
+        "process_elapsed_seconds": 0.0572,
+        "stdout": "",
+        "stderr": "test_account_id_survives_name_change (test_mapping.MappingChecks.test_account_id_survives_name_change) ... ok\ntest_conflicting_duplicate_not_silently_overwritten (test_mapping.MappingChecks.test_conflicting_duplicate_not_silently_overwritten) ... ok\ntest_cursor_stall_is_not_saturation (test_mapping.MappingChecks.test_cursor_stall_is_not_saturation) ... ok\ntest_description_is_not_reading (test_mapping.MappingChecks.test_description_is_not_reading) ... ok\ntest_duplicate_not_double_counted (test_mapping.MappingChecks.test_duplicate_not_double_counted) ... ok\ntest_invalid_metric_not_coerced (test_mapping.MappingChecks.test_invalid_metric_not_coerced) ... ok\ntest_missing_id_excluded (test_mapping.MappingChecks.test_missing_id_excluded) ... ok\ntest_recommendation_wrong_author_rejected (test_mapping.MappingChecks.test_recommendation_wrong_author_rejected) ... ok\ntest_restricted_and_error_fixtures_excluded (test_mapping.MappingChecks.test_restricted_and_error_fixtures_excluded) ... ok\ntest_statistics_wrong_id_rejected (test_mapping.MappingChecks.test_statistics_wrong_id_rejected) ... ok\ntest_unknown_metric_not_zero (test_mapping.MappingChecks.test_unknown_metric_not_zero) ... ok\ntest_unknown_shapes_rejected (test_mapping.MappingChecks.test_unknown_shapes_rejected) ... ok\ntest_valid_ids_and_metrics (test_mapping.MappingChecks.test_valid_ids_and_metrics) ... ok\ntest_zero_plays_not_a_denominator (test_mapping.MappingChecks.test_zero_plays_not_a_denominator) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 0.004s\n\nOK\n"
+      },
+      {
+        "command": [
+          "python",
+          "tools/ai_business_consultant.py",
+          "validate"
+        ],
+        "exit_code": 0,
+        "test_methods": null,
+        "process_elapsed_seconds": 0.0629,
+        "stdout": "项目记录校验通过。\n",
+        "stderr": ""
+      }
+    ],
+    "all_passed": true
+  }
+}

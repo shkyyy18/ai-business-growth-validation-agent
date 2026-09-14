@@ -1,0 +1,50 @@
+[
+  {
+    "name": "career-profile",
+    "source_url": "https://www.douyin.com/user/MS4wLjABAAAAROLBcpxoHSvqZRP9wFXyQQULV5NpTnBHl3o2KGlFcFpNUxXLNuqPfu0k7gFOUulW",
+    "derived_from_work_id": "7051890431763713316",
+    "attempted_at_utc": "2026-09-14T14:40:58.223982+00:00",
+    "authentication_sent": false,
+    "purpose": "普通公开主页是否提供可归属连续作品/商品/直播入口，未登录不绕过验证",
+    "http_status": 200,
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot_path": "private/research/m1-professional-20260914/career-profile.html",
+    "has_public_pace_payload": false,
+    "has_render_data": false,
+    "parsed_continuous_feed": false,
+    "transaction_verified": false
+  },
+  {
+    "name": "office-profile",
+    "source_url": "https://www.douyin.com/user/MS4wLjABAAAAIGB7lFGRgKhJvWpgP7VMJA1Dpn9iJ7Mx0Wq6OUSm8K8",
+    "derived_from_work_id": "7210626231383969082",
+    "attempted_at_utc": "2026-09-14T14:41:01.628486+00:00",
+    "authentication_sent": false,
+    "purpose": "普通公开主页是否提供可归属连续作品/商品/直播入口，未登录不绕过验证",
+    "http_status": 200,
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot_path": "private/research/m1-professional-20260914/office-profile.html",
+    "has_public_pace_payload": false,
+    "has_render_data": false,
+    "parsed_continuous_feed": false,
+    "transaction_verified": false
+  },
+  {
+    "name": "speaking-profile",
+    "source_url": "https://www.douyin.com/user/MS4wLjABAAAAy-7qvHmeTlLRftpmqXNkUeTyDHqWFEcRX3H4g8g9NoIbDUFRPee-b-2DMrD3eR19",
+    "derived_from_work_id": "7636381036087314161",
+    "attempted_at_utc": "2026-09-14T14:41:01.975524+00:00",
+    "authentication_sent": false,
+    "purpose": "普通公开主页是否提供可归属连续作品/商品/直播入口，未登录不绕过验证",
+    "http_status": 200,
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot_path": "private/research/m1-professional-20260914/speaking-profile.html",
+    "has_public_pace_payload": false,
+    "has_render_data": false,
+    "parsed_continuous_feed": false,
+    "transaction_verified": false
+  }
+]

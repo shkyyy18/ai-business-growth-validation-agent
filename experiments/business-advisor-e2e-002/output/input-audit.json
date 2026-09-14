@@ -1,0 +1,244 @@
+{
+  "case_id": "business-advisor-e2e-002-public-research",
+  "run_kind": "offline_source_integrity_and_handoff",
+  "network_calls": 0,
+  "source_integrity": "passed",
+  "industry_research_complete": false,
+  "customer_delivery_validated": false,
+  "commercial_loop_validated": false,
+  "nodes": [
+    {
+      "id": "N0",
+      "name": "状态与上下文",
+      "record_status": "evidence_present",
+      "evidence_ids": [
+        "E01"
+      ],
+      "missing_evidence_kinds": [],
+      "note": "沿用商业顾问总使命和用户要求；公开研究主动进行，客户实测单独补输入。"
+    },
+    {
+      "id": "N1",
+      "name": "资料与来源",
+      "record_status": "evidence_present",
+      "evidence_ids": [
+        "E02"
+      ],
+      "missing_evidence_kinds": [],
+      "note": "两批有来源发现池已合并；11页中10页贡献有效作品，135身份172作品，62条已读平台文本。"
+    },
+    {
+      "id": "N2",
+      "name": "能力盘点",
+      "record_status": "evidence_present",
+      "evidence_ids": [
+        "E03"
+      ],
+      "missing_evidence_kinds": [],
+      "note": "用用户既有方法组织真实资料，不把历史能力自述改成客户结果。"
+    },
+    {
+      "id": "N3",
+      "name": "客户与问题",
+      "record_status": "needs_evidence",
+      "evidence_ids": [],
+      "missing_evidence_kinds": [
+        "client_problem"
+      ],
+      "note": "尚无当前客户；职业/口才/办公课是研究分支，不推测客户痛点、损失或付费意愿。"
+    },
+    {
+      "id": "N4",
+      "name": "商业画布",
+      "record_status": "evidence_present",
+      "evidence_ids": [
+        "E05"
+      ],
+      "missing_evidence_kinds": [],
+      "note": "v0.4新增已交付研究事实；商业画布仍是假设，未改价格/定位。"
+    },
+    {
+      "id": "N5",
+      "name": "假设与优先级",
+      "record_status": "evidence_present",
+      "evidence_ids": [
+        "E04"
+      ],
+      "missing_evidence_kinds": [],
+      "note": "先补有信息增益的原素材、独立分支及商品/交付证据；不以135身份宣布充分或固定配额结束。"
+    },
+    {
+      "id": "N6",
+      "name": "访谈验证",
+      "record_status": "needs_evidence",
+      "evidence_ids": [],
+      "missing_evidence_kinds": [
+        "client_interview"
+      ],
+      "note": "尚无客户访谈；不读取银行隔离访谈或把公开视频当客户访谈。"
+    },
+    {
+      "id": "N7",
+      "name": "最小实验",
+      "record_status": "needs_evidence",
+      "evidence_ids": [],
+      "missing_evidence_kinds": [
+        "client_baseline",
+        "experiment_agreement"
+      ],
+      "note": "离线数据/文本/交接实验已执行；客户实验缺授权、历史内容/直播、产品、基线和验收。"
+    },
+    {
+      "id": "N8",
+      "name": "交付与采用",
+      "record_status": "needs_evidence",
+      "evidence_ids": [
+        "E07"
+      ],
+      "missing_evidence_kinds": [
+        "client_acceptance"
+      ],
+      "note": "对用户交付研究内容库、拆解与跨环节交接；客户采用、拍摄发布、上播均未发生。"
+    },
+    {
+      "id": "N9",
+      "name": "结果与成本",
+      "record_status": "needs_evidence",
+      "evidence_ids": [],
+      "missing_evidence_kinds": [
+        "cost_record",
+        "execution_result",
+        "payment_outcome"
+      ],
+      "note": "互动是快照，商品/资料/支持是作者线索；无订单、投流、利润或完整成本，不能算真实ROI。"
+    },
+    {
+      "id": "N10",
+      "name": "结果复盘",
+      "record_status": "needs_evidence",
+      "evidence_ids": [],
+      "missing_evidence_kinds": [
+        "result_review"
+      ],
+      "note": "来源归属、缺失主卡、引用文稿、内容家族已做研究复盘；没有客户经营结果可复盘。"
+    },
+    {
+      "id": "N11",
+      "name": "复制与产品化判断",
+      "record_status": "needs_evidence",
+      "evidence_ids": [],
+      "missing_evidence_kinds": [
+        "repeatability_review"
+      ],
+      "note": "将实际易错步骤纳入Skill并回归；没有重复客户交付/支付/工时证据，不宣布可售系统。"
+    }
+  ],
+  "counts": {
+    "observed_page_count": 11,
+    "pages_with_attributed_works": 10,
+    "observed_account_count": 135,
+    "observed_work_count": 172,
+    "platform_asr_available": 81,
+    "platform_text_read": 62,
+    "accounts_with_text_read": 42,
+    "original_videos_viewed": 0,
+    "verified_transcripts": 0,
+    "full_video_deep_analyses": 0,
+    "industry_sufficiency": false
+  },
+  "evidence": [
+    {
+      "id": "E01",
+      "kind": "context",
+      "subject": "project",
+      "path": "agent/AGENT.md",
+      "sha256": "bcb9e232913c782fc756285a1e17cfa135223dafa117b42208574a4c995f2b93",
+      "assertion": "使命仍是商业问题、验证与产品化；新媒体只是可选增长渠道。"
+    },
+    {
+      "id": "E02",
+      "kind": "public_input",
+      "subject": "research_subject",
+      "path": "experiments/business-advisor-e2e-002/public-corpus.json",
+      "sha256": "656333925881e261a4ad4248a603db64b424db0e78d3af769333e863ba4f4bf7",
+      "assertion": "合并发现池135身份172作品，62条已读平台AI文本；行业充分、原视频、客户结果均未验证。"
+    },
+    {
+      "id": "E03",
+      "kind": "founder_experience",
+      "subject": "founder",
+      "path": "experiments/ip-course-method-extraction-v0.1.md",
+      "sha256": "ae42f506126733e68d0c65c86eca56ad6578c0c7ec5a8fed37103e6b34a8e8e2",
+      "assertion": "用户历史经验和方法提取；不是当前客户问题或需求验证。"
+    },
+    {
+      "id": "E04",
+      "kind": "selected_task",
+      "subject": "founder",
+      "path": "experiments/ip-course-method-extraction-v0.1.md",
+      "sha256": "ae42f506126733e68d0c65c86eca56ad6578c0c7ec5a8fed37103e6b34a8e8e2",
+      "assertion": "先真实行业研究，按行业动态决定数量，不让孤立稿件替代素材积累。"
+    },
+    {
+      "id": "E05",
+      "kind": "hypothesis_canvas",
+      "subject": "project",
+      "path": "business/canvas/candidate-canvas-v0.4-public-research.md",
+      "sha256": "177ab88edd079fa50756b1666efd8dbf3a5e2d3db2b62137bc066ed7262648c9",
+      "assertion": "v0.4更新实际公开研究交付，保留客户/价值/价格/形态未验证。"
+    },
+    {
+      "id": "E06",
+      "kind": "research_probe",
+      "subject": "research_subject",
+      "path": "research/m1-professional-2026-09-14/report.md",
+      "sha256": "924515a85db9a3874aacc95835e4299cc42e301f06e3c55c6a0950873037a7b5",
+      "assertion": "新增37条平台AI文稿阅读，涉及专业课程/服务、交付与质疑；未验证音轨与订单。"
+    },
+    {
+      "id": "E07",
+      "kind": "delivery",
+      "subject": "project",
+      "path": "experiments/business-advisor-e2e-002/advisor-loop-run.md",
+      "sha256": "b5a813d28e5d09e3635a97e172ddb2cb50aea0ef6d375c63f941c3942acb05a3",
+      "assertion": "对用户本次研究任务交付了有来源的顾问环节交接；不是客户采用或业务验收。"
+    },
+    {
+      "id": "E08",
+      "kind": "access_review",
+      "subject": "research_subject",
+      "path": "research/m1-professional-2026-09-14/public-entry-probes.json",
+      "sha256": "f6a33fffda6bee341a0e2f1e70102d25e7c92822edc5bda82e0fe0a4ce379dcf",
+      "assertion": "三个普通公开主页HTTP200但正文0字节，不认定连续列表/商城访问成功。"
+    },
+    {
+      "id": "E09",
+      "kind": "research_probe",
+      "subject": "research_subject",
+      "path": "experiments/business-advisor-e2e-002/content-families.json",
+      "sha256": "18951be6c2a506b19524f6a45f5a303baf8fd518f3dbdc9176f6a565bd1b1f3d",
+      "assertion": "相近文本与结构家族保留独立作品身份；不把相似度当抄袭概率或流量原因。"
+    },
+    {
+      "id": "E10",
+      "kind": "research_probe",
+      "subject": "research_subject",
+      "path": "research/m2-live-review-reading-2026-09-14/report.md",
+      "sha256": "2c4061699196e810c078c5a4eabdf82055b4350c6410e80111cc572408c08e0a",
+      "assertion": "既有发现池的2条平台文本新增阅读；非新增作品、直播录像或经营结果。"
+    },
+    {
+      "id": "E11",
+      "kind": "research_probe",
+      "subject": "research_subject",
+      "path": "experiments/business-advisor-e2e-002/public-product-signals.json",
+      "sha256": "ab6a9b3afa6eb72d7f8a69cda511af8121cff17af8fb8453809c97d1e6a0d4e5",
+      "assertion": "9个已读身份的产品/支持/推广线索，价格/订单/利润未知；不是热销排行。"
+    }
+  ],
+  "limitations": [
+    "A hash proves file identity, not source truth or client authorization.",
+    "Node evidence presence is not node/business completion.",
+    "No continuous feed, original-media review or transactions were established by this run."
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "case_id": "business-advisor-e2e-002-public-research",
+  "decision": "研究到内容库及顾问交接链已实际执行，继续补独立分支、原素材与产品证据；客户私有输入/实测未到位只影响对应节点，不再阻塞公开研究。不能因资料增加或离线测试通过宣布客户/付费闭环跑通。",
+  "module_handoffs": {
+    "M1 内容研究与生产": "真实库与62条阅读已接通；职业案例、五点口才、购后支持和反例可回溯。原视频/行业充分性未验，不把平台文本当镜头深拆。",
+    "M2 直播与转化辅助": "补读2条直播复盘教学文本，连接录屏定位、进出曲线和建议执行；仍不是直播原素材。形成购后说明的小实验候选，不造完整直播承诺或真实数据。",
+    "M3 产品设计": "从职业咨询、口才训练营/工具、办公课程+支持提出候选；未验证价格/销量，专家选择和原产品课纲仍缺。",
+    "M4 私域交付": "购后入口、跨设备、兑换、礼包基础能力、问题咨询已形成具体对照；平台入口是历史描述，客户流程需重核。",
+    "M5 数据复盘": "真实数据缺失保留未知；进入事件/UV、千次观看GMV、广告GMV ROAS、利润ROI分开；算术测试不当直播实验。"
+  },
+  "missing": [
+    {
+      "node": "N3",
+      "kinds": [
+        "client_problem"
+      ]
+    },
+    {
+      "node": "N6",
+      "kinds": [
+        "client_interview"
+      ]
+    },
+    {
+      "node": "N7",
+      "kinds": [
+        "client_baseline",
+        "experiment_agreement"
+      ]
+    },
+    {
+      "node": "N8",
+      "kinds": [
+        "client_acceptance"
+      ]
+    },
+    {
+      "node": "N9",
+      "kinds": [
+        "cost_record",
+        "execution_result",
+        "payment_outcome"
+      ]
+    },
+    {
+      "node": "N10",
+      "kinds": [
+        "result_review"
+      ]
+    },
+    {
+      "node": "N11",
+      "kinds": [
+        "repeatability_review"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "scope": "既有发现池中2条新增阅读，作品/账号不增加；不能算新增采集或直播实测",
+  "notes": [
+    {
+      "work_id": "7275134954995043640",
+      "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+      "source_json_path": "frame:7[3].shipin.relatedRecommend[4]",
+      "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+      "platform_asr_sha256": "07d684461e6187d15e91f60ba7ccb14c833406addd83f980c610fb90c24587cb",
+      "read_scope": "已读全部可用平台AI文本；不是直播录像或音轨核验",
+      "branch_provisional": "知识付费直播复盘教学",
+      "structure_observation": "下播复盘困惑→数据与内容两个维度→进出曲线/互动例子→复盘表领取",
+      "research_reason_and_limits": "50赞仍补到数据/内容区分；进入率下降不一定是画面导致，掉人段不能无条件删除，互动有回复不等于有效成交",
+      "monetization_signal": "resource_cta",
+      "status": "语言层阅读，非直播间完整拆解",
+      "original_video_viewed": false,
+      "commercial_outcome_verified": false
+    },
+    {
+      "work_id": "7299394465284902170",
+      "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+      "source_json_path": "frame:7[3].shipin.relatedRecommend[8]",
+      "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+      "platform_asr_sha256": "dd2605ebe0494474204cbbebfe49ee1ed7dfcacaeb3b9a9cd08bab0e5b4c19e7",
+      "read_scope": "已读全部可用平台AI文本；不是直播录像或音轨核验",
+      "branch_provisional": "知识付费直播复盘教学",
+      "structure_observation": "五项复盘原则→录屏定位→问题配方案→新人细节与片段选择→主播理解确认",
+      "research_reason_and_limits": "30赞仍提供录屏与建议执行的对照；只看前20分钟、孵化人数和效率改善是作者经验，非固定规则或独立结果",
+      "monetization_signal": "service_experience_claim",
+      "status": "语言层阅读，非直播间完整拆解",
+      "original_video_viewed": false,
+      "commercial_outcome_verified": false
+    }
+  ]
+}

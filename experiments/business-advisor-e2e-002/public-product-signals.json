@@ -1,0 +1,323 @@
+{
+  "scope": "9个已读公开身份的商品/支持/推广线索；不是热销排行或商业验证",
+  "products": [
+    {
+      "author_identity": "douyin-sec:MS4wLjABAAAAROLBcpxoHSvqZRP9wFXyQQULV5NpTnBHl3o2KGlFcFpNUxXLNuqPfu0k7gFOUulW",
+      "observed_names": [
+        "职场课代表"
+      ],
+      "observed_offer_or_support": "职业规划课程/咨询",
+      "evidence_type": "platform_AI_text_author_statement_not_verified_listing",
+      "what_was_observed": "文本有课程查看与直接咨询邀请；其他作品以作者案例描述判断过程。",
+      "source_work_ids": [
+        "7051890431763713316",
+        "7062677383601605924",
+        "7093843980248468766"
+      ],
+      "sources": [
+        {
+          "work_id": "7051890431763713316",
+          "source_url": "https://www.douyin.com/shipin/7333212763306723391",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[0]",
+          "source_snapshot_sha256": "2fe25cbe89c1a7398bf84272179533da577dde86e8baddb3fe7f394cf905b46d",
+          "platform_asr_sha256": "d19967f9b8116433429379a64ac15f9f6d8c8ac26a69170fbf38774b3bd5848b"
+        },
+        {
+          "work_id": "7062677383601605924",
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[0]",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "platform_asr_sha256": "915439b0742408b63197d7d9070beafd240410d253648ccd2339bbc874d1f6e4"
+        },
+        {
+          "work_id": "7093843980248468766",
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[8]",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "platform_asr_sha256": "5d308cf0717fdb9e52368a15f31bc272a9680944f3534db588fab15fd1e3fd1c"
+        }
+      ],
+      "listed_price": null,
+      "verified_order_count": null,
+      "verified_revenue": null,
+      "verified_profit": null,
+      "refund_rate": null,
+      "actual_delivery_verified": false,
+      "transaction_verified": false,
+      "needs_verification": "课程内容、定价、咨询时长、客户授权、真实成交与结果",
+      "transfer_limit": "语音文稿中的客户故事与薪资为自述，不作我们案例。"
+    },
+    {
+      "author_identity": "douyin-sec:MS4wLjABAAAAy-7qvHmeTlLRftpmqXNkUeTyDHqWFEcRX3H4g8g9NoIbDUFRPee-b-2DMrD3eR19",
+      "observed_names": [
+        "康康•自信表达教练"
+      ],
+      "observed_offer_or_support": "口才训练资料/训练支持/工具推荐",
+      "evidence_type": "platform_AI_text_author_statement_not_verified_listing",
+      "what_was_observed": "明确资料领取与自称学员数量；另一条推荐具名AI口才工具及功能。",
+      "source_work_ids": [
+        "7636381036087314161",
+        "7644542898554589093",
+        "7635880276753731173"
+      ],
+      "sources": [
+        {
+          "work_id": "7636381036087314161",
+          "source_url": "https://www.douyin.com/shipin/7352152052753041435",
+          "source_json_path": "frame:7[3].shipin.mainVideo",
+          "source_snapshot_sha256": "9071d88766ae260c47dbbb952b1a00a22fa8f04799f696f77ef8d327d301a2a3",
+          "platform_asr_sha256": "d5e6f550a41875bd46657becdea1417499419862750babbcb7fbda99af950dcc"
+        },
+        {
+          "work_id": "7644542898554589093",
+          "source_url": "https://www.douyin.com/shipin/7352152052753041435",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[11]",
+          "source_snapshot_sha256": "9071d88766ae260c47dbbb952b1a00a22fa8f04799f696f77ef8d327d301a2a3",
+          "platform_asr_sha256": "92cf15d51920efff1d3ed6f7c3c4d1b723700e081c0c527d9834989b91d64bed"
+        },
+        {
+          "work_id": "7635880276753731173",
+          "source_url": "https://www.douyin.com/shipin/7352152052753041435",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[8]",
+          "source_snapshot_sha256": "9071d88766ae260c47dbbb952b1a00a22fa8f04799f696f77ef8d327d301a2a3",
+          "platform_asr_sha256": "c88b2399e64e5592feffd09d39db7107f7433d068b8e27575939b6427de0b7c9"
+        }
+      ],
+      "listed_price": null,
+      "verified_order_count": null,
+      "verified_revenue": null,
+      "verified_profit": null,
+      "refund_rate": null,
+      "actual_delivery_verified": false,
+      "transaction_verified": false,
+      "needs_verification": "工具是否自营或推广、收费项、资料领取后的承接、交付与退款、订单",
+      "transfer_limit": "免费手册人数/学员数非销量；工具功能和效果未实测。"
+    },
+    {
+      "author_identity": "douyin-sec:MS4wLjABAAAAmXfxgLvn6Op_7O-E06ufVrTEIUPLVV6x4sYRNPHcpjU",
+      "observed_names": [
+        "自信口才柚柚老师"
+      ],
+      "observed_offer_or_support": "口才训练营",
+      "evidence_type": "platform_AI_text_author_statement_not_verified_listing",
+      "what_was_observed": "文本先介绍分阶段练习，末尾邀请进入训练营。",
+      "source_work_ids": [
+        "7622674708405012601"
+      ],
+      "sources": [
+        {
+          "work_id": "7622674708405012601",
+          "source_url": "https://www.douyin.com/shipin/7352152052753041435",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[12]",
+          "source_snapshot_sha256": "9071d88766ae260c47dbbb952b1a00a22fa8f04799f696f77ef8d327d301a2a3",
+          "platform_asr_sha256": "9795de297f4b28d9cc5c8ab1fdc31982e706f767a6d81bd4c73e7ab8239f3b92"
+        }
+      ],
+      "listed_price": null,
+      "verified_order_count": null,
+      "verified_revenue": null,
+      "verified_profit": null,
+      "refund_rate": null,
+      "actual_delivery_verified": false,
+      "transaction_verified": false,
+      "needs_verification": "班型、价格、具体反馈机制、老师工时、入营与完课、训练结果",
+      "transfer_limit": "短期效果保证不迁移；按任务结果而非自信口号评估。"
+    },
+    {
+      "author_identity": "douyin-sec:MS4wLjABAAAAIGB7lFGRgKhJvWpgP7VMJA1Dpn9iJ7Mx0Wq6OUSm8K8",
+      "observed_names": [
+        "丁老师电脑知识"
+      ],
+      "observed_offer_or_support": "零基础电脑七合一课程与配套资料",
+      "evidence_type": "platform_AI_text_author_statement_not_verified_listing",
+      "what_was_observed": "文本列举电脑基础/办公软件等模块，并演示跨设备看课与资料获取。",
+      "source_work_ids": [
+        "7210626231383969082",
+        "7307877827095924019",
+        "7307878608217951538"
+      ],
+      "sources": [
+        {
+          "work_id": "7210626231383969082",
+          "source_url": "https://www.douyin.com/shipin/7260920984927258660",
+          "source_json_path": "frame:7[3].shipin.mainVideo",
+          "source_snapshot_sha256": "8bfb490e0882ce53475e28f5728f61046bfa3918043e5bd0060426c9a1f19f78",
+          "platform_asr_sha256": "8d1e61dda2fd53fc1d9082e025545b16956125d68852aeec1c62bf6bc20c061f"
+        },
+        {
+          "work_id": "7307877827095924019",
+          "source_url": "https://www.douyin.com/shipin/7260920984927258660",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[3]",
+          "source_snapshot_sha256": "8bfb490e0882ce53475e28f5728f61046bfa3918043e5bd0060426c9a1f19f78",
+          "platform_asr_sha256": "d2507dcc87b3072808f7dd94be4a8be105ec73d20a3470c5140224c32c7f58f3"
+        },
+        {
+          "work_id": "7307878608217951538",
+          "source_url": "https://www.douyin.com/shipin/7260920984927258660",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[12]",
+          "source_snapshot_sha256": "8bfb490e0882ce53475e28f5728f61046bfa3918043e5bd0060426c9a1f19f78",
+          "platform_asr_sha256": "9c340c70bdaab8d02ee020759aae69a6a37156c6f3b2e8c71c835e553f168b24"
+        }
+      ],
+      "listed_price": null,
+      "verified_order_count": null,
+      "verified_revenue": null,
+      "verified_profit": null,
+      "refund_rate": null,
+      "actual_delivery_verified": false,
+      "transaction_verified": false,
+      "needs_verification": "实际商品详情、模块版本、定价、订单、资料许可、售后服务边界",
+      "transfer_limit": "交付教程证明作者讲过这个流程，不证明功能现行、礼包授权或客户已收到。"
+    },
+    {
+      "author_identity": "douyin-sec:MS4wLjABAAAAcnLmLPVkZ6-LFQAKAgC1ZDrFQsITtjMut9I8_O1kXzY",
+      "observed_names": [
+        "Excel小鱼老师"
+      ],
+      "observed_offer_or_support": "办公课程及问题支持",
+      "evidence_type": "platform_AI_text_author_statement_not_verified_listing",
+      "what_was_observed": "说明首次确认与再次学习入口，承诺协助课程或工作表格问题。",
+      "source_work_ids": [
+        "7639209765877069385"
+      ],
+      "sources": [
+        {
+          "work_id": "7639209765877069385",
+          "source_url": "https://www.douyin.com/shipin/7260920984927258660",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[5]",
+          "source_snapshot_sha256": "8bfb490e0882ce53475e28f5728f61046bfa3918043e5bd0060426c9a1f19f78",
+          "platform_asr_sha256": "42388a4c470aec28a1599b1112af0a54c59e11d6c29c8fe19038aea3a0774134"
+        }
+      ],
+      "listed_price": null,
+      "verified_order_count": null,
+      "verified_revenue": null,
+      "verified_profit": null,
+      "refund_rate": null,
+      "actual_delivery_verified": false,
+      "transaction_verified": false,
+      "needs_verification": "一对一支持期限/次数/范围、工作场景资料隐私、响应时效与工时",
+      "transfer_limit": "不把作者支持承诺自动复制为客户承诺。"
+    },
+    {
+      "author_identity": "douyin-sec:MS4wLjABAAAApxnJ0V8KDxMmk242vZZBW6wKKk2WuKSXeEFMdQBfYeI",
+      "observed_names": [
+        "冰冰jie电脑入门办公制表"
+      ],
+      "observed_offer_or_support": "办公课购后观看",
+      "evidence_type": "platform_AI_text_author_statement_not_verified_listing",
+      "what_was_observed": "演示用购买身份进入电脑端课程并便于复访。",
+      "source_work_ids": [
+        "7210535537600449827"
+      ],
+      "sources": [
+        {
+          "work_id": "7210535537600449827",
+          "source_url": "https://www.douyin.com/shipin/7260920984927258660",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[6]",
+          "source_snapshot_sha256": "8bfb490e0882ce53475e28f5728f61046bfa3918043e5bd0060426c9a1f19f78",
+          "platform_asr_sha256": "9be7f798ad27e59cead29afc2fd48de976e982f2cf553600528020e7c34f7912"
+        }
+      ],
+      "listed_price": null,
+      "verified_order_count": null,
+      "verified_revenue": null,
+      "verified_profit": null,
+      "refund_rate": null,
+      "actual_delivery_verified": false,
+      "transaction_verified": false,
+      "needs_verification": "商品、价目、有效期、设备支持和当前观看入口",
+      "transfer_limit": "商品交易未知；从操作演示不能计算转化或复购。"
+    },
+    {
+      "author_identity": "douyin-sec:MS4wLjABAAAAV8U2MQvurprLzTfpZp7OuOCqR_gzzRg_bl0JhHagIDM",
+      "observed_names": [
+        "毅钢教授舞韵风 旗袍舞韵"
+      ],
+      "observed_offer_or_support": "舞蹈课件购后观看",
+      "evidence_type": "platform_AI_text_author_statement_not_verified_listing",
+      "what_was_observed": "文本说明从已购订单进入课件学习。",
+      "source_work_ids": [
+        "7035934302881778978"
+      ],
+      "sources": [
+        {
+          "work_id": "7035934302881778978",
+          "source_url": "https://www.douyin.com/shipin/7260920984927258660",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[15]",
+          "source_snapshot_sha256": "8bfb490e0882ce53475e28f5728f61046bfa3918043e5bd0060426c9a1f19f78",
+          "platform_asr_sha256": "8d67355c26764276aab1ba36976b13faeae4ef4973e7a33497dc434bc2b68397"
+        }
+      ],
+      "listed_price": null,
+      "verified_order_count": null,
+      "verified_revenue": null,
+      "verified_profit": null,
+      "refund_rate": null,
+      "actual_delivery_verified": false,
+      "transaction_verified": false,
+      "needs_verification": "课件详情、服务方式、价格和订单；领域与办公/口才分开",
+      "transfer_limit": "单条交付线索，不能评估舞蹈课程市场或教学效果。"
+    },
+    {
+      "author_identity": "douyin-sec:MS4wLjABAAAA2bKXK7C0Tus8hcj2726VCtxMqmI66hyK6G70DSQ78MwttpXY70-A53m3K_z2VuXx",
+      "observed_names": [
+        "林歇秋很努力"
+      ],
+      "observed_offer_or_support": "课程兑换与观看（细分待定）",
+      "evidence_type": "platform_AI_text_author_statement_not_verified_listing",
+      "what_was_observed": "说明首次弹窗/手动兑换及后续返回学习两条分支。",
+      "source_work_ids": [
+        "7647453735014141194"
+      ],
+      "sources": [
+        {
+          "work_id": "7647453735014141194",
+          "source_url": "https://www.douyin.com/shipin/7260920984927258660",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[17]",
+          "source_snapshot_sha256": "8bfb490e0882ce53475e28f5728f61046bfa3918043e5bd0060426c9a1f19f78",
+          "platform_asr_sha256": "2f5b2cf84a40e23ff5127f93b4cb9708e1020b79d4d5c1d5087a66aea9d2bb36"
+        }
+      ],
+      "listed_price": null,
+      "verified_order_count": null,
+      "verified_revenue": null,
+      "verified_profit": null,
+      "refund_rate": null,
+      "actual_delivery_verified": false,
+      "transaction_verified": false,
+      "needs_verification": "具体课程所属行业、商品/主体、现行兑换规则、客服",
+      "transfer_limit": "不因文稿提直播间就认定已看过直播。"
+    },
+    {
+      "author_identity": "douyin-sec:MS4wLjABAAAAVRySxtfdxhJCtvAZPXzg4znxqsflNHVKyWKpEiakdpw",
+      "observed_names": [
+        "暴走老张教卖课"
+      ],
+      "observed_offer_or_support": "课程平台推广/卖课方法（相邻）",
+      "evidence_type": "platform_AI_text_author_statement_not_verified_listing",
+      "what_was_observed": "全流程讲解中推广第三方课程承接平台和后续升单复购思路。",
+      "source_work_ids": [
+        "7595172811392516968"
+      ],
+      "sources": [
+        {
+          "work_id": "7595172811392516968",
+          "source_url": "https://www.douyin.com/shipin/7260920984927258660",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[10]",
+          "source_snapshot_sha256": "8bfb490e0882ce53475e28f5728f61046bfa3918043e5bd0060426c9a1f19f78",
+          "platform_asr_sha256": "6d967b9b0afbb1ae034595918b16e3b901f633dbb82a83a4ec4891a199a0d380"
+        }
+      ],
+      "listed_price": null,
+      "verified_order_count": null,
+      "verified_revenue": null,
+      "verified_profit": null,
+      "refund_rate": null,
+      "actual_delivery_verified": false,
+      "transaction_verified": false,
+      "needs_verification": "是否推广合作、费用条款、平台支持、资质规则与实际账单",
+      "transfer_limit": "免费/利润最大化/收入阈值都是作者说法，非本项目核实结论。"
+    }
+  ]
+}
