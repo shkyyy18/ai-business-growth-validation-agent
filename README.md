@@ -75,3 +75,13 @@
 - `experiments/`：具体验证实验。
 - `content/`：内容及新媒体获客材料。
 - `docs/decision-log.md`：决策记录。
+
+
+## 可运行检查入口
+
+```powershell
+python tools/ai_business_consultant.py status
+python tools/ai_business_consultant.py run-case experiments/business-advisor-e2e-001/case.json
+```
+
+真实部分输入：1个公开作者、2条离散作品元数据。默认输出在本地 `private/workbench/latest-case/`，不会上传GitHub。命令核对来源并生成N0—N11交接，**不等于行业研究、客户交付或商业闭环跑通**。使用边界、直播指标计算及回归测试见 `tools/README.md`。

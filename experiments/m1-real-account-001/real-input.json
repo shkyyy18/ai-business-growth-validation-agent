@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "case_id": "m1-real-account-001",
+  "data_kind": "real_public_metadata",
+  "industry_scope": "personal IP / knowledge services on Douyin; provisional research scope, not validated market boundary",
+  "accounts": [
+    {
+      "uid": "2686861114358302",
+      "sec_uid": "MS4wLjABAAAAQ_bgnEh8ss-9U62jQeE3Na8vi5ls0du0JR4lTgogp_kPIzJMOaVyDDuiY8TlcLCH",
+      "name": "进击的李同学（重庆小班9月）",
+      "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQ_bgnEh8ss-9U62jQeE3Na8vi5ls0du0JR4lTgogp_kPIzJMOaVyDDuiY8TlcLCH",
+      "followers_snapshot": 227264,
+      "total_likes_snapshot": 1283869,
+      "observed_at_utc": "2026-09-14T13:14:04.330990+00:00",
+      "identity_evidence": "matching awemeInfo.authorInfo.uid and secUid on two distinct main-work pages",
+      "continuous_feed_obtained": false,
+      "commercial_sales": null,
+      "tier": null,
+      "client_relationship": "public research subject; not our customer"
+    }
+  ],
+  "works": [
+    {
+      "work_id": "7676828027086523658",
+      "author_uid": "2686861114358302",
+      "title": "一下午拍30条，矩阵号怎么拍？",
+      "source_url": "https://www.douyin.com/shipin/7314025932749146164",
+      "original_url": "https://www.douyin.com/video/7676828027086523658",
+      "published_at_cst": "2026-08-22T20:13:40+08:00",
+      "observed_at_utc": "2026-09-14T13:14:03.223129+00:00",
+      "duration_raw": 263274,
+      "duration_unit": "not independently verified; retained as upstream raw value",
+      "metrics": {
+        "likes": 1316,
+        "comments": 16,
+        "collections": 1146,
+        "shares": 377,
+        "views": null,
+        "completion_rate": null,
+        "first_five_seconds_completion": null,
+        "transactions": null
+      },
+      "raw_stats": {
+        "commentCount": 16,
+        "diggCount": 1316,
+        "shareCount": 377,
+        "playCount": 0,
+        "collectCount": 1146,
+        "downloadCount": 0,
+        "forwardCount": 0,
+        "liveWatchCount": 0,
+        "recommendCount": 0
+      },
+      "metrics_caveat": "Public page snapshots may be cached. raw playCount=0 is not verified actual zero views and is normalized to unknown; no rate denominator available.",
+      "source_json_path": "frame:7[3].shipin.awemeInfo",
+      "source_sha256": "9244c6767cf0c91132fd7569fecd8a46ceeeff5955e86fca4b5526824175a965",
+      "material": {
+        "original_video_viewed": false,
+        "verified_transcript": false,
+        "platform_ai_text_excerpt_read": true,
+        "main_vs_recommendation_verified": true
+      },
+      "viral_classification": null,
+      "research_value": "candidate only; no within-account baseline or industry coverage"
+    },
+    {
+      "work_id": "7473093159707348235",
+      "author_uid": "2686861114358302",
+      "title": "一分钟学会如何用Deepseek生产出80分的脚本！",
+      "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+      "original_url": "https://www.douyin.com/video/7473093159707348235",
+      "published_at_cst": "2025-02-19T20:19:24+08:00",
+      "observed_at_utc": "2026-09-14T13:14:04.330990+00:00",
+      "duration_raw": 154344,
+      "duration_unit": "not independently verified; retained as upstream raw value",
+      "metrics": {
+        "likes": 2429,
+        "comments": 289,
+        "collections": 2379,
+        "shares": 638,
+        "views": null,
+        "completion_rate": null,
+        "first_five_seconds_completion": null,
+        "transactions": null
+      },
+      "raw_stats": {
+        "commentCount": 289,
+        "diggCount": 2429,
+        "shareCount": 638,
+        "playCount": 0,
+        "collectCount": 2379,
+        "downloadCount": 40,
+        "forwardCount": 0,
+        "liveWatchCount": 0,
+        "recommendCount": 0
+      },
+      "metrics_caveat": "Public page snapshots may be cached. raw playCount=0 is not verified actual zero views and is normalized to unknown; no rate denominator available.",
+      "source_json_path": "frame:7[3].shipin.awemeInfo",
+      "source_sha256": "ce4093cc0bcddeaa7f4b611d6af773a614afee42554cab3ba73f3f9fdc5522fe",
+      "material": {
+        "original_video_viewed": false,
+        "verified_transcript": false,
+        "platform_ai_text_excerpt_read": false,
+        "main_vs_recommendation_verified": true
+      },
+      "viral_classification": null,
+      "research_value": "candidate only; no within-account baseline or industry coverage"
+    }
+  ],
+  "coverage": {
+    "observed_account_count": 1,
+    "observed_work_count": 2,
+    "continuous_feed": false,
+    "original_videos_viewed": 0,
+    "verified_transcripts": 0,
+    "industry_sufficiency": false,
+    "stopping_reason": "bounded source-access experiment; not content saturation"
+  },
+  "costs": {
+    "paid_data_api_calls_this_experiment": 0,
+    "installs": 0,
+    "model_cost": null,
+    "human_minutes": null,
+    "total_cost": null
+  }
+}

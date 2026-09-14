@@ -1,0 +1,38 @@
+[
+  {
+    "file": "user_posts_page1.json",
+    "source": "https://raw.githubusercontent.com/Evil0ctal/Douyin_TikTok_Download_API/a40370473991321dd4771ee3eb25789db8340cce/tests/fixtures/douyin/user_posts_page1.json",
+    "sha256": "876dbcf06a996e603b9f223d78ee8938b3067bc2d8ed0ad58f5c6cd10ffe68d3",
+    "retrieved_at_utc": "2026-09-14T11:59:34.397811+00:00",
+    "evidence_type": "upstream_synthetic_test_fixture",
+    "industry_sample": false,
+    "live_douyin_request": false
+  },
+  {
+    "file": "risk_control_captcha.json",
+    "source": "https://raw.githubusercontent.com/Evil0ctal/Douyin_TikTok_Download_API/a40370473991321dd4771ee3eb25789db8340cce/tests/fixtures/douyin/risk_control_captcha.json",
+    "sha256": "66677b5b9922daeb023dab15449f3fae6c19f2d895888c110b7dc5788b2f4b15",
+    "retrieved_at_utc": "2026-09-14T11:59:34.886856+00:00",
+    "evidence_type": "upstream_synthetic_test_fixture",
+    "industry_sample": false,
+    "live_douyin_request": false
+  },
+  {
+    "file": "video_private.json",
+    "source": "https://raw.githubusercontent.com/Evil0ctal/Douyin_TikTok_Download_API/a40370473991321dd4771ee3eb25789db8340cce/tests/fixtures/douyin/video_private.json",
+    "sha256": "afcbdeb7b615e9bf7976b3f586d1159591d58b98be6b9e335c779c67de54f51c",
+    "retrieved_at_utc": "2026-09-14T11:59:35.321509+00:00",
+    "evidence_type": "upstream_synthetic_test_fixture",
+    "industry_sample": false,
+    "live_douyin_request": false
+  },
+  {
+    "file": "video_deleted.json",
+    "source": "https://raw.githubusercontent.com/Evil0ctal/Douyin_TikTok_Download_API/a40370473991321dd4771ee3eb25789db8340cce/tests/fixtures/douyin/video_deleted.json",
+    "sha256": "1e8ecbca999374626da43987c86b59ab3add740733bf0db81ae7405fd37abe97",
+    "retrieved_at_utc": "2026-09-14T11:59:35.773591+00:00",
+    "evidence_type": "upstream_synthetic_test_fixture",
+    "industry_sample": false,
+    "live_douyin_request": false
+  }
+]

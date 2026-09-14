@@ -3,3 +3,9 @@
 *.json text working-tree-encoding=UTF-8
 *.yml text working-tree-encoding=UTF-8
 *.yaml text working-tree-encoding=UTF-8
+
+# Preserve downloaded synthetic fixture bytes for upstream SHA256 verification.
+experiments/m1-field-mapping-001/fixtures/user_posts_page1.json -text
+experiments/m1-field-mapping-001/fixtures/risk_control_captcha.json -text
+experiments/m1-field-mapping-001/fixtures/video_private.json -text
+experiments/m1-field-mapping-001/fixtures/video_deleted.json -text

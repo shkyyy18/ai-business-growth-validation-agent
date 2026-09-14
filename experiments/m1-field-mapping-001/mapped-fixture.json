@@ -1,0 +1,126 @@
+{
+  "evidence_type": "synthetic_fixture_only",
+  "industry_sample": false,
+  "source": "fixtures/user_posts_page1.json",
+  "accounts": [
+    {
+      "account_id": "MS4wLjABAAAA_SYNTHETIC_DOUYIN_AUTHOR_0001",
+      "uid_raw": "1000000000000000001",
+      "name": "Synthetic Creator",
+      "followers_raw": 128400,
+      "account_total_likes_raw": 3894512,
+      "fixture_only": true,
+      "baseline": null,
+      "monetization": null
+    }
+  ],
+  "works": [
+    {
+      "work_id": "7000000000000000001",
+      "account_id": "MS4wLjABAAAA_SYNTHETIC_DOUYIN_AUTHOR_0001",
+      "source": "fixtures/user_posts_page1.json",
+      "fixture_only": true,
+      "original_url_raw": "https://www.iesdouyin.com/share/video/7000000000000000001/",
+      "link_verified": false,
+      "published_epoch_raw": 1716200000,
+      "platform_capture_time": null,
+      "post_type_raw": 0,
+      "description": "Sunrise over the harbour\nShot on a very cold morning #sunrise #harbour",
+      "description_is_transcript": false,
+      "metrics": {
+        "likes": {
+          "raw_field": "statistics.digg_count",
+          "raw_value": 98230,
+          "value": 98230,
+          "real_world_verified": false
+        },
+        "comments": {
+          "raw_field": "statistics.comment_count",
+          "raw_value": 1284,
+          "value": 1284,
+          "real_world_verified": false
+        },
+        "saves": {
+          "raw_field": "statistics.collect_count",
+          "raw_value": 5121,
+          "value": 5121,
+          "real_world_verified": false
+        },
+        "shares": {
+          "raw_field": "statistics.share_count",
+          "raw_value": 3020,
+          "value": 3020,
+          "real_world_verified": false
+        },
+        "plays": {
+          "raw_field": "statistics.play_count",
+          "raw_value": 0,
+          "value": null,
+          "reason": "meaning_and_paid_traffic_scope_unverified"
+        }
+      },
+      "transcript": null,
+      "video_viewed": false,
+      "viral_label": null,
+      "monetization": null
+    },
+    {
+      "work_id": "7000000000000000002",
+      "account_id": "MS4wLjABAAAA_SYNTHETIC_DOUYIN_AUTHOR_0001",
+      "source": "fixtures/user_posts_page1.json",
+      "fixture_only": true,
+      "original_url_raw": "https://www.iesdouyin.com/share/note/7000000000000000002/",
+      "link_verified": false,
+      "published_epoch_raw": 1716300000,
+      "platform_capture_time": null,
+      "post_type_raw": 68,
+      "description": "Six frames from the market\nAll shot on film #filmphotography #market",
+      "description_is_transcript": false,
+      "metrics": {
+        "likes": {
+          "raw_field": "statistics.digg_count",
+          "raw_value": 4821,
+          "value": 4821,
+          "real_world_verified": false
+        },
+        "comments": {
+          "raw_field": "statistics.comment_count",
+          "raw_value": 93,
+          "value": 93,
+          "real_world_verified": false
+        },
+        "saves": {
+          "raw_field": "statistics.collect_count",
+          "raw_value": 612,
+          "value": 612,
+          "real_world_verified": false
+        },
+        "shares": {
+          "raw_field": "statistics.share_count",
+          "raw_value": 88,
+          "value": 88,
+          "real_world_verified": false
+        },
+        "plays": {
+          "raw_field": "statistics.play_count",
+          "raw_value": 0,
+          "value": null,
+          "reason": "meaning_and_paid_traffic_scope_unverified"
+        }
+      },
+      "transcript": null,
+      "video_viewed": false,
+      "viral_label": null,
+      "monetization": null
+    }
+  ],
+  "issues": [],
+  "pagination": {
+    "has_more_raw": 1,
+    "next_cursor_raw": 1716300000000,
+    "total_raw": 213,
+    "complete_account_verified": false
+  },
+  "content_read_count": 0,
+  "deep_analysis_count": 0
+}

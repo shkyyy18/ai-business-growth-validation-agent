@@ -1,4 +1,4 @@
-﻿# Local-only files
+# Local-only files
 .DS_Store
 Thumbs.db
 *.tmp
@@ -15,3 +15,14 @@ secrets/
 
 # Interview notes: local only, never publish by default
 /private/
+
+# Local runtime/imports and third-party raw research captures
+__pycache__/
+*.py[cod]
+/workspace/imports/
+/workspace/outputs/import-manifest.json
+/research/github-round2-2026-09-14/*__*/
+/experiments/m1-data-access-001/*probes.json
+/experiments/m1-data-access-001/due-diligence-doc-tails.json
+/experiments/m1-real-account-001/public-probes.json
+/experiments/m1-real-account-001/page-inspection.json

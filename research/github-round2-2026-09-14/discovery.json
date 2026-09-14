@@ -1,0 +1,464 @@
+[
+  {
+    "query": "douyin mcp",
+    "url": "https://api.github.com/search/repositories?q=douyin+mcp&sort=stars&per_page=7",
+    "retrieved_at_utc": "2026-09-14T10:30:43.611847+00:00",
+    "total_count": 111,
+    "items": [
+      {
+        "full_name": "Evil0ctal/Douyin_TikTok_Download_API",
+        "html_url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+        "description": "🚀 Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, PostgreSQL archive, one docker compose up. 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。",
+        "stargazers_count": 20106,
+        "pushed_at": "2026-09-14T07:16:24Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+        }
+      },
+      {
+        "full_name": "yzfly/douyin-mcp-server",
+        "html_url": "https://github.com/yzfly/douyin-mcp-server",
+        "description": "提取抖音无水印视频链接，视频文案，douyin-mcp-server，mcp，claude skill，支持龙虾",
+        "stargazers_count": 1269,
+        "pushed_at": "2026-07-02T07:21:26Z",
+        "archived": true,
+        "default_branch": "main",
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+        }
+      },
+      {
+        "full_name": "ZJU-REAL/Easel",
+        "html_url": "https://github.com/ZJU-REAL/Easel",
+        "description": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
+        "stargazers_count": 1083,
+        "pushed_at": "2026-09-14T09:47:53Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+        }
+      },
+      {
+        "full_name": "xixihhhh/clipforge",
+        "html_url": "https://github.com/xixihhhh/clipforge",
+        "description": "ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店 / 快手 / 小红书 / TikTok Shop 卖货短视频。0 成本批量出片、开源无水印、本地自部署。也支持一句话主题成片。Open-source AI e-commerce/UGC short-video generator.",
+        "stargazers_count": 797,
+        "pushed_at": "2026-09-12T07:20:45Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "agpl-3.0",
+          "name": "GNU Affero General Public License v3.0",
+          "spdx_id": "AGPL-3.0",
+          "url": "https://api.github.com/licenses/agpl-3.0",
+          "node_id": "MDc6TGljZW5zZTE="
+        }
+      },
+      {
+        "full_name": "anYuJia/better-douyin",
+        "html_url": "https://github.com/anYuJia/better-douyin",
+        "description": "打造更好用的douyin，支持作者级下载、播放、点赞收藏、私信、通知、mcp服务接入ai控制，内置ai可以在私信与好友ai聊天。douyin download",
+        "stargazers_count": 349,
+        "pushed_at": "2026-09-12T19:06:05Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "other",
+          "name": "Other",
+          "spdx_id": "NOASSERTION",
+          "url": null,
+          "node_id": "MDc6TGljZW5zZTA="
+        }
+      },
+      {
+        "full_name": "CCCpan/chinese-sensitive-words-mcp",
+        "html_url": "https://github.com/CCCpan/chinese-sensitive-words-mcp",
+        "description": "中文敏感词/违禁词检测 MCP Server | 支持小红书/抖音/快手/B站 | 风险分级+安全替换建议 | 微信: chenganp | 邮箱: 345048305@qq.com",
+        "stargazers_count": 113,
+        "pushed_at": "2026-03-15T03:32:20Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "WJZ-P/douyin-upload-mcp-skill",
+        "html_url": "https://github.com/WJZ-P/douyin-upload-mcp-skill",
+        "description": "基于浏览器自动化的抖音视频/图文上传 MCP & Skill，适用于openclaw或任何支持skill，mcp的agent.  o(￣▽￣)ブ",
+        "stargazers_count": 82,
+        "pushed_at": "2026-04-01T02:57:17Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "agpl-3.0",
+          "name": "GNU Affero General Public License v3.0",
+          "spdx_id": "AGPL-3.0",
+          "url": "https://api.github.com/licenses/agpl-3.0",
+          "node_id": "MDc6TGljZW5zZTE="
+        }
+      }
+    ]
+  },
+  {
+    "query": "抖音 搜索 爆款",
+    "url": "https://api.github.com/search/repositories?q=%E6%8A%96%E9%9F%B3+%E6%90%9C%E7%B4%A2+%E7%88%86%E6%AC%BE&sort=stars&per_page=7",
+    "retrieved_at_utc": "2026-09-14T10:30:46.364562+00:00",
+    "total_count": 22,
+    "items": [
+      {
+        "full_name": "why20261/douyin-daily-hot-keywords",
+        "html_url": "https://github.com/why20261/douyin-daily-hot-keywords",
+        "description": "抖音每日最热作品查询工具。当用户查询抖音热榜、抖音日榜、抖音高赞作品、抖音赛道排名、抖音热门内容时使用。触发词：抖音热榜、抖音日榜、抖音排名、抖音爆款、抖音高赞、抖音最热、抖音TOP榜、抖音赛道榜单。支持四大能力：   (1) 关键词搜索视频/图文，可按点赞数、发布时间、时长、内容类型筛选排序；   (2) 实时热榜查询，获取抖音热搜词条与热度数据；   (3) 博主作品抓取，按主页链接或 sec_uid 获取公开作品列表；   (4) 视频评论分析，按视频链接或 aweme_id 获取评论内容与互动数据。",
+        "stargazers_count": 1,
+        "pushed_at": "2026-09-05T08:19:56Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "why20261/douyin-social",
+        "html_url": "https://github.com/why20261/douyin-social",
+        "description": "抖音社媒运营：串起抖音热搜榜、关键词视频搜索、达人主页数据，完成「热点选题 → 脚本卖点挖掘 → 粉丝人群画像匹配」的内容引流与种草闭环。当用户要做抖音内容运营、找选题、看热搜和话题、拆解爆款视频卖点、看达人粉丝画像、做人群匹配、规划内容日历时必须触发。关键词：抖音、社媒运营、热搜、话题、选题、爆款视频、粉丝画像、人群匹配、种草、内容日历。",
+        "stargazers_count": 1,
+        "pushed_at": "2026-09-07T09:36:12Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "why20261/douyin-searchs-pro",
+        "html_url": "https://github.com/why20261/douyin-searchs-pro",
+        "description": "抖音爆款作品查询工具。根据关键词搜索抖音热门爆款作品，支持按日期范围筛选，支持按视频时长筛选，结果以结构化展示。当用户查找抖音热门内容、搜索抖音爆款视频、查询抖音作品数据时使用。触发词：抖音爆款、抖音热门、抖音热榜、抖音作品查询、抖音搜索、爆款视频、热门视频。",
+        "stargazers_count": 0,
+        "pushed_at": "2026-09-10T03:50:10Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "why20261/douyin-search-tool",
+        "html_url": "https://github.com/why20261/douyin-search-tool",
+        "description": "抖音作品查询工具。根据关键词搜索抖音热门爆款作品，搜索抖音综合排序作品，获取抖音最新发布作品，支持按日期范围筛选，支持视频时长筛选，最大支持1次返回10000条搜索结果。当用户查找抖音热门内容、搜索抖音爆款视频或图文、搜索抖音最新发布视频或图文、查询抖音作品数据时使用。触发词：抖音作品查询、抖音爆款、抖音最新、抖音高赞、抖音热门、抖音热榜、抖音搜索、爆款视频、热门视频。",
+        "stargazers_count": 0,
+        "pushed_at": "2026-09-09T08:18:09Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "why20261/douyin-realtime-searchs",
+        "html_url": "https://github.com/why20261/douyin-realtime-searchs",
+        "description": "抖音作品实时搜索工具。根据用户输入的关键词实时搜索抖音最新作品，支持按排序方式、发布时间和视频时长筛选，返回实时数据（非缓存/历史数据）。当用户明确要求「实时」「最新」「现在」「当前」搜索抖音内容，搜索抖音爆款视频，查询抖音作品数据，查找抖音热门内容，或对已有数据时效性存疑时使用。触发词：抖音实时搜索、抖音最新作品、实时抖音热门、当前抖音数据、抖音实时、抖音爆款、抖音热门、抖音作品查询、抖音搜索、爆款视频、热门视频查询。",
+        "stargazers_count": 0,
+        "pushed_at": "2026-09-10T06:29:41Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "why20261/douyin-scrapers",
+        "html_url": "https://github.com/why20261/douyin-scrapers",
+        "description": "爬取抖音爆款视频和互动数据，支持自然语言搜索请求（如\"搜索一下AI视频\"）、关键词搜索、热榜获取、视频信息提取等。",
+        "stargazers_count": 0,
+        "pushed_at": "2026-09-10T03:24:07Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "why20261/douyin-search-scraper-guaikei",
+        "html_url": "https://github.com/why20261/douyin-search-scraper-guaikei",
+        "description": "爬取抖音爆款视频和文案数据，支持抖音搜索、抖音博主作品、抖音视频详情、抖音热榜、抖音评论等模块。支持四大能力：   (1) 关键词搜索视频/图文，可按点赞数、发布时间、时长、内容类型筛选排序；   (2) 实时热榜查询，获取抖音热搜词条与热度数据；   (3) 博主作品抓取，按主页链接或 sec_uid 获取公开作品列表；   (4) 视频评论分析，按视频链接或 aweme_id 获取评论内容与互动数据。",
+        "stargazers_count": 0,
+        "pushed_at": "2026-09-07T08:36:25Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      }
+    ]
+  },
+  {
+    "query": "douyin analysis skill",
+    "url": "https://api.github.com/search/repositories?q=douyin+analysis+skill&sort=stars&per_page=7",
+    "retrieved_at_utc": "2026-09-14T10:30:49.106651+00:00",
+    "total_count": 26,
+    "items": [
+      {
+        "full_name": "pengyueren/Douyin-Account-Analysis-Skill",
+        "html_url": "https://github.com/pengyueren/Douyin-Account-Analysis-Skill",
+        "description": "快速分析你的抖音账号或你指定抖音账号，给出视频拆解结论+改进建议+对标账号+粉丝破圈方法。",
+        "stargazers_count": 18,
+        "pushed_at": "2026-06-03T02:11:45Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "shuhaolin63-hash/short_video_analysis_tool-skills",
+        "html_url": "https://github.com/shuhaolin63-hash/short_video_analysis_tool-skills",
+        "description": "短视频数据采集与分析工具skills：一键抓取元数据+评论、NLP话题聚类、多维度Excel导出、封面下载、词云生成。基于Douyin_TikTok_Download_API，支持抖音/TikTok/B站。",
+        "stargazers_count": 6,
+        "pushed_at": "2026-07-24T14:29:48Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "duyi2076/duyi-douyin-video-breakdown",
+        "html_url": "https://github.com/duyi2076/duyi-douyin-video-breakdown",
+        "description": "V3 public-core Douyin video breakdown Skill: evidence, deep analysis, reusable structure, and local HTML report",
+        "stargazers_count": 3,
+        "pushed_at": "2026-08-19T03:22:17Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "other",
+          "name": "Other",
+          "spdx_id": "NOASSERTION",
+          "url": null,
+          "node_id": "MDc6TGljZW5zZTA="
+        }
+      },
+      {
+        "full_name": "superlink-owen/douyin-link-storyboard",
+        "html_url": "https://github.com/superlink-owen/douyin-link-storyboard",
+        "description": "Douyin competitor account analysis skill for Codex",
+        "stargazers_count": 2,
+        "pushed_at": "2026-06-11T12:20:52Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": null
+      },
+      {
+        "full_name": "shanyeai/hotbee-social-data-skills",
+        "html_url": "https://github.com/shanyeai/hotbee-social-data-skills",
+        "description": "Six open Agent Skills for Douyin, Rednote, Bilibili, hot rankings, transcription, and video analysis through HotBee.",
+        "stargazers_count": 2,
+        "pushed_at": "2026-09-12T07:04:32Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit-0",
+          "name": "MIT No Attribution",
+          "spdx_id": "MIT-0",
+          "url": "https://api.github.com/licenses/mit-0",
+          "node_id": "MDc6TGljZW5zZTQx"
+        }
+      },
+      {
+        "full_name": "MooYiSaMa/douyin-creator-style-analyzer",
+        "html_url": "https://github.com/MooYiSaMa/douyin-creator-style-analyzer",
+        "description": "Codex skill for evidence-backed Douyin creator style analysis: image notes, videos, visual aesthetics, copywriting, and experimental TikTok support.",
+        "stargazers_count": 2,
+        "pushed_at": "2026-08-03T12:58:37Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "maom98622-netizen/douyin-blogger-analysis-skill",
+        "html_url": "https://github.com/maom98622-netizen/douyin-blogger-analysis-skill",
+        "description": "抖音博主全量视频提取、转录、语义校正与知识库重构 Skill",
+        "stargazers_count": 1,
+        "pushed_at": "2026-09-09T05:55:00Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": null
+      }
+    ]
+  },
+  {
+    "query": "视频 转写 本地",
+    "url": "https://api.github.com/search/repositories?q=%E8%A7%86%E9%A2%91+%E8%BD%AC%E5%86%99+%E6%9C%AC%E5%9C%B0&sort=stars&per_page=7",
+    "retrieved_at_utc": "2026-09-14T10:30:51.865659+00:00",
+    "total_count": 133,
+    "items": [
+      {
+        "full_name": "xiaohuailabs/xiaohu-video-translate",
+        "html_url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+        "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+        "stargazers_count": 646,
+        "pushed_at": "2026-06-08T10:24:52Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "imlewc/video-to-subtitle-summary-skill",
+        "html_url": "https://github.com/imlewc/video-to-subtitle-summary-skill",
+        "description": "视频转字幕与AI总结 （抖音/小红书/B 站等）支持 faster-whisper 本地转写和 YouTube 字幕抓取 | Convert short videos to subtitles with AI summary ",
+        "stargazers_count": 196,
+        "pushed_at": "2026-07-19T03:31:48Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "cacity/VideoHub",
+        "html_url": "https://github.com/cacity/VideoHub",
+        "description": "VideoHub 是一款本地化多平台视频处理与智能剪辑工具，支持 YouTube、抖音/TikTok、Instagram、Bilibili 和 Twitter/X，提供视频下载、Whisper 转写、字幕翻译与润色、多模型 AI 配音、影视解说、故事剪辑、音乐卡点及剧集批量处理，并可通过 Codex、Claude Code 等智能助手以自然语言完成完整工作流。",
+        "stargazers_count": 151,
+        "pushed_at": "2026-09-07T02:50:08Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "Jehuge/video-Ai-note",
+        "html_url": "https://github.com/Jehuge/video-Ai-note",
+        "description": "一个智能视频笔记生成工具，支持自动提取视频音频、转写文字，并使用 AI 生成结构化笔记,新增bilibili 视频下载功能。  完全本地化处理，保护数据隐私 支持 Ollama 等本地大模型，无需联网即可使用。",
+        "stargazers_count": 117,
+        "pushed_at": "2026-09-06T13:55:27Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": null
+      },
+      {
+        "full_name": "yaojingang/yao-open-tools",
+        "html_url": "https://github.com/yaojingang/yao-open-tools",
+        "description": "Yao 的开源小工具集合：聚焦本地优先的 AI 编码、网页截图、视频转写、终端诊断和磁盘空间分析工作流。",
+        "stargazers_count": 89,
+        "pushed_at": "2026-09-11T00:59:04Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "like-attract/video-to-note",
+        "html_url": "https://github.com/like-attract/video-to-note",
+        "description": "本地优先的视频→结构化笔记服务：B站/抖音/本地视频，平台字幕+本地Whisper离线转写，LLM 生成带时间轴笔记；桌面应用 / MCP / Agent Skill 三种接入。",
+        "stargazers_count": 68,
+        "pushed_at": "2026-09-11T14:41:54Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      {
+        "full_name": "ljb1020/video-batch-download",
+        "html_url": "https://github.com/ljb1020/video-batch-download",
+        "description": "批量下载自媒体视频并在本地转写文案的 AI Agent Skill，支持抖音、B站、快手、小红书和微博；无需登录，自动获取无登录态的最高画质，可集成任意 AI Agent。",
+        "stargazers_count": 53,
+        "pushed_at": "2026-08-16T20:13:08Z",
+        "archived": false,
+        "default_branch": "main",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      }
+    ]
+  }
+]

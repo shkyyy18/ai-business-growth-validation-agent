@@ -1,0 +1,102 @@
+[
+  {
+    "source_url": "https://www.douyin.com/shipin/7314025932749146164",
+    "checked_at_utc": "2026-09-14T13:14:03.223129+00:00",
+    "authentication_sent": false,
+    "original_video_viewed": false,
+    "http_status": 200,
+    "bytes": 959759,
+    "sha256": "9244c6767cf0c91132fd7569fecd8a46ceeeff5955e86fca4b5526824175a965",
+    "truncated": false,
+    "candidates": [
+      {
+        "source_json_path": "frame:7[3].shipin.mainVideo",
+        "link_card": {
+          "text": "一下午拍30条，矩阵号怎么拍？ #自媒体 #短视频 #矩阵 #做账号 #拍摄",
+          "nickname": "进击的李同学（重庆小班9月）",
+          "videoUrl": "https://www.douyin.com/video/7676828027086523658",
+          "duration": 263274,
+          "updateTS": 1787400820,
+          "diggCount": 1316
+        }
+      },
+      {
+        "awemeId": "7676828027086523658",
+        "awemeType": 0,
+        "desc": "一下午拍30条，矩阵号怎么拍？ #自媒体 #短视频 #矩阵 #做账号 #拍摄",
+        "itemTitle": "一下午拍30条，矩阵号怎么拍？",
+        "createTime": 1787400820,
+        "stats": {
+          "commentCount": 16,
+          "diggCount": 1316,
+          "shareCount": 377,
+          "playCount": 0,
+          "collectCount": 1146,
+          "downloadCount": 0,
+          "forwardCount": 0,
+          "liveWatchCount": 0,
+          "recommendCount": 0
+        },
+        "author": {
+          "uid": "2686861114358302",
+          "secUid": "MS4wLjABAAAAQ_bgnEh8ss-9U62jQeE3Na8vi5ls0du0JR4lTgogp_kPIzJMOaVyDDuiY8TlcLCH",
+          "nickname": "进击的李同学（重庆小班9月）",
+          "followerCount": 227264,
+          "totalFavorited": 1283869
+        },
+        "source_json_path": "frame:7[3].shipin.awemeInfo"
+      }
+    ],
+    "frame_count": 11
+  },
+  {
+    "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+    "checked_at_utc": "2026-09-14T13:14:04.330990+00:00",
+    "authentication_sent": false,
+    "original_video_viewed": false,
+    "http_status": 200,
+    "bytes": 987764,
+    "sha256": "ce4093cc0bcddeaa7f4b611d6af773a614afee42554cab3ba73f3f9fdc5522fe",
+    "truncated": false,
+    "candidates": [
+      {
+        "source_json_path": "frame:7[3].shipin.mainVideo",
+        "link_card": {
+          "text": "一分钟学会如何用Deepseek生产出80分的脚本！ #重庆新媒体运营 #短视频运营 #干货分享 #Deepseek #Deepseek教程",
+          "nickname": "进击的李同学（重庆小班9月）",
+          "videoUrl": "https://www.douyin.com/video/7473093159707348235",
+          "duration": 154344,
+          "updateTS": 1739967564,
+          "diggCount": 2429
+        }
+      },
+      {
+        "awemeId": "7473093159707348235",
+        "awemeType": 0,
+        "desc": "一分钟学会如何用Deepseek生产出80分的脚本！ #重庆新媒体运营 #短视频运营 #干货分享 #Deepseek #Deepseek教程",
+        "itemTitle": "一分钟学会如何用Deepseek生产出80分的脚本！",
+        "createTime": 1739967564,
+        "stats": {
+          "commentCount": 289,
+          "diggCount": 2429,
+          "shareCount": 638,
+          "playCount": 0,
+          "collectCount": 2379,
+          "downloadCount": 40,
+          "forwardCount": 0,
+          "liveWatchCount": 0,
+          "recommendCount": 0
+        },
+        "author": {
+          "uid": "2686861114358302",
+          "secUid": "MS4wLjABAAAAQ_bgnEh8ss-9U62jQeE3Na8vi5ls0du0JR4lTgogp_kPIzJMOaVyDDuiY8TlcLCH",
+          "nickname": "进击的李同学（重庆小班9月）",
+          "followerCount": 227264,
+          "totalFavorited": 1283869
+        },
+        "source_json_path": "frame:7[3].shipin.awemeInfo"
+      }
+    ],
+    "frame_count": 11
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "test_cases_run": 14,
+  "failures": 0,
+  "errors": 0,
+  "successful": true,
+  "scope": "our offline mapper only; not live API or industry validation"
+}

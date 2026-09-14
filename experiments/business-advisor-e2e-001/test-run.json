@@ -1,0 +1,38 @@
+{
+  "checked_at_utc": "2026-09-14T13:33:00.639328+00:00",
+  "test_kind": "offline code behavior, not business validation",
+  "runs": [
+    {
+      "command": [
+        "python",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tests",
+        "-v"
+      ],
+      "exit_code": 0,
+      "tests_run": 34,
+      "process_seconds": 0.578,
+      "result": "passed"
+    },
+    {
+      "command": [
+        "python",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "experiments/m1-field-mapping-001",
+        "-p",
+        "test_mapping.py",
+        "-v"
+      ],
+      "exit_code": 0,
+      "tests_run": 14,
+      "process_seconds": 0.063,
+      "result": "passed"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "case_id": "business-advisor-e2e-001",
+  "run_kind": "offline_source_integrity_and_handoff",
+  "network_calls": 0,
+  "source_integrity": "passed",
+  "industry_research_complete": false,
+  "customer_delivery_validated": false,
+  "commercial_loop_validated": false,
+  "nodes": [
+    {
+      "id": "N0",
+      "name": "状态与上下文",
+      "record_status": "evidence_present",
+      "evidence_ids": [
+        "E01"
+      ],
+      "missing_evidence_kinds": [],
+      "note": "沿用商业顾问总使命，不把M1等同全部顾问，也不重启旧课程销售。"
+    },
+    {
+      "id": "N1",
+      "name": "资料与来源",
+      "record_status": "evidence_present",
+      "evidence_ids": [
+        "E02"
+      ],
+      "missing_evidence_kinds": [],
+      "note": "取得两页主作品的必要公开字段并核对同作者；连续列表、原视频、成交仍缺。"
+    },
+    {
+      "id": "N2",
+      "name": "能力盘点",
+      "record_status": "evidence_present",
+      "evidence_ids": [
+        "E03"
+      ],
+      "missing_evidence_kinds": [],
+      "note": "用户历史方法是能力自述；当前能复现字段核验，不能据此证明完整行业判断或销售效果。"
+    },
+    {
+      "id": "N3",
+      "name": "客户与问题",
+      "record_status": "needs_evidence",
+      "evidence_ids": [],
+      "missing_evidence_kinds": [
+        "client_problem"
+      ],
+      "note": "客户候选已明确，但研究对象不是客户。不能替其编造内容痛点、损失或预算。"
+    },
+    {
+      "id": "N4",
+      "name": "商业画布",
+      "record_status": "evidence_present",
+      "evidence_ids": [
+        "E04"
+      ],
+      "missing_evidence_kinds": [],
+      "note": "v0.3对齐M1试用假设；价格、收益与最终产品形态不预设。"
+    },
+    {
+      "id": "N5",
+      "name": "假设与优先级",
+      "record_status": "evidence_present",
+      "evidence_ids": [
+        "E05"
+      ],
+      "missing_evidence_kinds": [],
+      "note": "当前优先补连续作品和原内容链路，暂不生成脚本；这是实验优先级，不是市场排序已证实。"
+    },
+    {
+      "id": "N6",
+      "name": "访谈验证",
+      "record_status": "needs_evidence",
+      "evidence_ids": [],
+      "missing_evidence_kinds": [
+        "client_interview"
+      ],
+      "note": "主线没有可归属到当前客户的已完成访谈；不把用户的方法讨论当客户需求访谈。"
+    },
+    {
+      "id": "N7",
+      "name": "最小实验",
+      "record_status": "needs_evidence",
+      "evidence_ids": [],
+      "missing_evidence_kinds": [
+        "client_baseline",
+        "experiment_agreement"
+      ],
+      "note": "已有来源能力小测，但客户实验还缺本人同意、单一任务、基线、验收和资源边界。"
+    },
+    {
+      "id": "N8",
+      "name": "交付与采用",
+      "record_status": "needs_evidence",
+      "evidence_ids": [],
+      "missing_evidence_kinds": [
+        "client_acceptance",
+        "delivery"
+      ],
+      "note": "已有真实部分输入的研究中间件，不是可用内容库或客户交付；无客户采用与发布。"
+    },
+    {
+      "id": "N9",
+      "name": "结果与成本",
+      "record_status": "needs_evidence",
+      "evidence_ids": [],
+      "missing_evidence_kinds": [
+        "cost_record",
+        "execution_result",
+        "payment_outcome"
+      ],
+      "note": "有赞评藏转快照，没有业务归因、直播、课程成交、支付和完整费用；不能算ROI。"
+    },
+    {
+      "id": "N10",
+      "name": "结果复盘",
+      "record_status": "needs_evidence",
+      "evidence_ids": [],
+      "missing_evidence_kinds": [
+        "result_review"
+      ],
+      "note": "可以复盘取数质量并停止重复空页访问；不能冒充客户经营结果复盘。"
+    },
+    {
+      "id": "N11",
+      "name": "复制与产品化判断",
+      "record_status": "needs_evidence",
+      "evidence_ids": [],
+      "missing_evidence_kinds": [
+        "repeatability_review"
+      ],
+      "note": "保留轻量文件工具和研究Skill草案；无重复交付/成本/需求证据，不宣布可售Agent。"
+    }
+  ],
+  "counts": {
+    "observed_account_count": 1,
+    "observed_work_count": 2,
+    "continuous_feed": false,
+    "original_videos_viewed": 0,
+    "verified_transcripts": 0,
+    "industry_sufficiency": false,
+    "stopping_reason": "bounded source-access experiment; not content saturation"
+  },
+  "evidence": [
+    {
+      "id": "E01",
+      "kind": "context",
+      "subject": "project",
+      "path": "agent/AGENT.md",
+      "sha256": "bcb9e232913c782fc756285a1e17cfa135223dafa117b42208574a4c995f2b93",
+      "assertion": "内部商业顾问职责与证据边界，非对外软件验收。"
+    },
+    {
+      "id": "E02",
+      "kind": "public_input",
+      "subject": "research_subject",
+      "path": "experiments/m1-real-account-001/real-input.json",
+      "sha256": "a418268baa7f600f5281c5dbd65b43f1633ea766daead973a17f4b002529933d",
+      "assertion": "从公开主作品字段核对同一作者两条作品；不是当前客户。"
+    },
+    {
+      "id": "E03",
+      "kind": "founder_experience",
+      "subject": "founder",
+      "path": "business/founder-profile.md",
+      "sha256": "921e1917c41ee902b437a178d5b8e14bbf2bb9e062b10b541f216ed049b83709",
+      "assertion": "历史能力来自自述和项目记录；未升级为当前客户结果。"
+    },
+    {
+      "id": "E04",
+      "kind": "hypothesis_canvas",
+      "subject": "project",
+      "path": "business/canvas/candidate-canvas-v0.3-m1.md",
+      "sha256": "15591594f57f3872d8b7008c9e097f4e6fdf22728bd1b8843c2b3cf355310ca1",
+      "assertion": "顾问整理的M1工作假设，不是用户已确认报价或客户需求。"
+    },
+    {
+      "id": "E05",
+      "kind": "selected_task",
+      "subject": "founder",
+      "path": "experiments/ip-course-method-extraction-v0.1.md",
+      "sha256": "ae42f506126733e68d0c65c86eca56ad6578c0c7ec5a8fed37103e6b34a8e8e2",
+      "assertion": "用户已选择M1试验并强调真实行业样本、动态研究规模。"
+    },
+    {
+      "id": "E06",
+      "kind": "research_probe",
+      "subject": "research_subject",
+      "path": "experiments/m1-real-account-001/report.md",
+      "sha256": "0a8a17871abbfd36bc9117bbf6bbe92ea7895514432e2db84dd39ced23d20c51",
+      "assertion": "记录实际可得字段、材料层级与未完成项。"
+    }
+  ],
+  "limitations": [
+    "A hash proves file identity, not source truth or client authorization.",
+    "Node evidence presence is not node/business completion.",
+    "No continuous feed, original-media review or transactions were established by this run."
+  ]
+}

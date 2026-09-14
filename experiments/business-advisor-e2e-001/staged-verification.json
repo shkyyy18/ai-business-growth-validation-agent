@@ -1,0 +1,39 @@
+{
+  "checked_at_utc": "2026-09-14T13:34:49.634061+00:00",
+  "scope": "exported Git index, not entire local working tree",
+  "utf8_json_files_checked": 238,
+  "record_errors": [],
+  "synthetic_upstream_fixture_hashes": "4 matched",
+  "offline_tests": [
+    {
+      "command": [
+        "python",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tests",
+        "-v"
+      ],
+      "exit_code": 0,
+      "tests_run": 34
+    },
+    {
+      "command": [
+        "python",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "experiments/m1-field-mapping-001",
+        "-p",
+        "test_mapping.py",
+        "-v"
+      ],
+      "exit_code": 0,
+      "tests_run": 14
+    }
+  ],
+  "raw_and_private_materials_exported": false,
+  "caveat": "Pattern and file-list review is not a guarantee against all sensitive data. Third-party raw snapshots and private paths excluded."
+}
