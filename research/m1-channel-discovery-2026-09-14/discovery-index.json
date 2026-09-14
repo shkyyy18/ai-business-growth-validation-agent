@@ -1,0 +1,4017 @@
+{
+  "scope": "public_discovery_not_industry_census",
+  "pages": [
+    {
+      "name": "career",
+      "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+      "snapshot_path": "private/research/m1-public-followup-20260914/career.html",
+      "file_modified_at_utc": "2026-09-14T13:45:45.475322+00:00",
+      "sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+      "bytes": 1118638,
+      "authentication_sent": false,
+      "cards_seen": 21
+    },
+    {
+      "name": "live-review",
+      "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+      "snapshot_path": "private/research/m1-public-followup-20260914/live-review.html",
+      "file_modified_at_utc": "2026-09-14T13:45:46.452713+00:00",
+      "sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+      "bytes": 949728,
+      "authentication_sent": false,
+      "cards_seen": 14
+    },
+    {
+      "name": "li-production",
+      "source_url": "https://www.douyin.com/shipin/7314025932749146164",
+      "snapshot_path": "private/research/m1-public-followup-20260914/li-production.html",
+      "file_modified_at_utc": "2026-09-14T13:46:46.952370+00:00",
+      "sha256": "4c84ee44a8d4418d9df357c1c00c1930f2c0b031f833fb6a06baf31f6cf66cf6",
+      "bytes": 960022,
+      "authentication_sent": false,
+      "cards_seen": 9
+    },
+    {
+      "name": "li-script",
+      "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+      "snapshot_path": "private/research/m1-public-followup-20260914/li-script.html",
+      "file_modified_at_utc": "2026-09-14T13:46:47.749516+00:00",
+      "sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+      "bytes": 986518,
+      "authentication_sent": false,
+      "cards_seen": 20
+    },
+    {
+      "name": "ecom-script",
+      "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+      "snapshot_path": "private/research/m1-public-followup-20260914/ecom-script.html",
+      "file_modified_at_utc": "2026-09-14T13:46:48.771573+00:00",
+      "sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+      "bytes": 1050993,
+      "authentication_sent": false,
+      "cards_seen": 19
+    },
+    {
+      "name": "knowledge-service",
+      "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+      "snapshot_path": "private/research/m1-public-followup-20260914/knowledge-service.html",
+      "file_modified_at_utc": "2026-09-14T13:50:53.419436+00:00",
+      "sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+      "bytes": 944474,
+      "authentication_sent": false,
+      "cards_seen": 15
+    }
+  ],
+  "counts": {
+    "pages": 6,
+    "card_appearances": 98,
+    "unique_works": 98,
+    "stable_identity_accounts": 80,
+    "works_without_stable_author": 0,
+    "works_with_platform_asr": 44,
+    "original_videos_viewed": 0,
+    "audio_verified_transcripts": 0,
+    "text_read": 23,
+    "deep_analyses": 0
+  },
+  "conflicts": [],
+  "accounts": [
+    {
+      "sec_uid": "MS4wLjABAAAAROLBcpxoHSvqZRP9wFXyQQULV5NpTnBHl3o2KGlFcFpNUxXLNuqPfu0k7gFOUulW",
+      "observed_names": [
+        "职场课代表"
+      ],
+      "work_ids": [
+        "7113032405635697950",
+        "7062677383601605924",
+        "7093843980248468766"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAZ4x3XkVpLDE7uqOXGWXGwMtU3DfVt-4Mdsjom0E0IStdsT7O7gckZpiJH3zuCWEj",
+      "observed_names": [
+        "故乡的野菜_"
+      ],
+      "work_ids": [
+        "7160606254568656163"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAeg3hnYokCHoIgRnHKnam-CnJIDNIdG84jV0impcW6X8",
+      "observed_names": [
+        "文冰事业疗愈师"
+      ],
+      "work_ids": [
+        "7068508691808505129",
+        "7081989962496855330"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAqWavMdCdtSFCXPA8rU9mdvsBqhix_pZMDl1C3_xbd7o",
+      "observed_names": [
+        "Sherry"
+      ],
+      "work_ids": [
+        "7049583296509971726"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAApyAFJeco7Bd6R_0yVtsRJwKbxlkI7Sh6ZLGP5ysiYukQAxlFwdc7zQuzKSI5Qy74",
+      "observed_names": [
+        "李天益不焦虑好睡眠"
+      ],
+      "work_ids": [
+        "7263463913822489912"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAA2MCgIXRspwoiW3iGOk1qr4t6OHKWmmvpPbNBIdGXHCuS766LCfawl3917vBHkxOI",
+      "observed_names": [
+        "梨园长"
+      ],
+      "work_ids": [
+        "7166622222432341263"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAARSxfomM_oAJleHxttJxN32CJ9tWozEDXqktHEpKRBLs",
+      "observed_names": [
+        "复仇狂魔予小梦"
+      ],
+      "work_ids": [
+        "7209960540305755453"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAA9-7AujrGEs9ZJdYZPgyi8xd1Few8LMkoObj9iBFbH1Y",
+      "observed_names": [
+        "老明读书"
+      ],
+      "work_ids": [
+        "6991060240850488613"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAov8xhBDgYI4VfUYJTTr9wjkK39XlQzIg26jtwGFMv5C_pDLQHg__bxGD8V0469WS",
+      "observed_names": [
+        "林火火"
+      ],
+      "work_ids": [
+        "7271839368279592211"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAq2IsPWLH0w_iAXBZ1RD8eamo22JN1IWjTqmPiawQiac",
+      "observed_names": [
+        "吕老师聊心理"
+      ],
+      "work_ids": [
+        "7077901590182595844"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAqu53bDds3ST4PWusf71Oak4M1A4WgyZLDTON0lu8OPs",
+      "observed_names": [
+        "00是土一"
+      ],
+      "work_ids": [
+        "7173638778005818676"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAA5FjC4Ml0qL_-UDrxiuiLhI58He7wO0gMKJamTXAD38",
+      "observed_names": [
+        "花大钱"
+      ],
+      "work_ids": [
+        "7248603596827151675"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAApH5K2AueCxnusOpL58aJXR5QiUduHxC9ryu6IO-PWC4",
+      "observed_names": [
+        "早安郭郭"
+      ],
+      "work_ids": [
+        "7086787883540958505"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAt-TSsNOeChYASydDJaW4Me0yLpJOr1KaU__d8Us2iIs",
+      "observed_names": [
+        "星座小容女"
+      ],
+      "work_ids": [
+        "6925093324286217486",
+        "6952059687516917023"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAAYvJpvwemzE_9yY9yfoYtl2t3YitRiIJpuDC7zfZI1ObvGVY5mvlSwDK1RkYWnm3",
+      "observed_names": [
+        "我是田有福"
+      ],
+      "work_ids": [
+        "7083816793541840158"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAGdKxVMSPEHPVwLwbiTf6MAtKI716iGmXuuZn7Wej4Dc",
+      "observed_names": [
+        "声昔TV"
+      ],
+      "work_ids": [
+        "7212841424125955331"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAASms63YXGbePb2XNgYY1nyIlDpSwTNAre-E8wTLugsF4",
+      "observed_names": [
+        "万万姐"
+      ],
+      "work_ids": [
+        "7159110620548287779"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAEE0joxFJySInVb-ACXHnfcv-DBQWOMomiTsYonkuTW4",
+      "observed_names": [
+        "清华陈晶工作室"
+      ],
+      "work_ids": [
+        "7360588595779931443"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAvVd8wMoof3BTzFrrMQwSXQujnDYY9duKuBYHfObwXQI",
+      "observed_names": [
+        "刘星辰"
+      ],
+      "work_ids": [
+        "7321562636322213147"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAPAHPxjK8Bj5Tz_v3GD8sNSjNOhLVmDgA-x717gUwWQU",
+      "observed_names": [
+        "宋老师(AI+知识付费)"
+      ],
+      "work_ids": [
+        "7297672216408247604",
+        "7326987324183661876",
+        "7278756858163105076"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAGXh88h8xMrN6V4ZTLQOmfvmCSgt76xC2dBMv-KQyUuZhVF_fOukDkKtceJJBmEh1",
+      "observed_names": [
+        "大川-内容流程"
+      ],
+      "work_ids": [
+        "7290565491591007499",
+        "7345066683943357706",
+        "7320603470443056434"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAaxRVWe3DvjVQ-_kVsOVz0c-DBqPkHLM-U5m1GN_W29OSqKAZUEdRV9Typ3vpJGP9",
+      "observed_names": [
+        "直播陪跑糖老师（知识付费）"
+      ],
+      "work_ids": [
+        "7275134954995043640"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAyXuBXRe4MX2chLe-ilWAZS3TNB2x2xIZLQGYVwxtkIiJEGnE9PheESlYLl3rTeZu",
+      "observed_names": [
+        "崔老师可漂亮"
+      ],
+      "work_ids": [
+        "7325662029136645416"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAlRIol0kyZ-bequomd0jyJ-MsIQwCBDYjWsA9Qu_ug8yGk2vpZGcb7pt6emqFKCqv",
+      "observed_names": [
+        "老斌知识付费直播"
+      ],
+      "work_ids": [
+        "7299394465284902170"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAHHQRrbETDLngAOmY6zSumk9h-wfsnJBlTDpRvwyrqfI",
+      "observed_names": [
+        "九斤-全域素材破局流量（9月有课）"
+      ],
+      "work_ids": [
+        "7361786743516925236",
+        "7633003606392272305",
+        "7636368112976042853",
+        "7638266678635287930",
+        "7629335192775460709"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAARXCksyeclUrcsFn4UldPvT2wUk_MHUETabcvk6bClWujSgYKjdDSAXB1PTH4h9SV",
+      "observed_names": [
+        "轩哥电商"
+      ],
+      "work_ids": [
+        "7346930014002220326"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAmUQu7tVOqNOMfQBYRfIRdr66hTZPcJMqUGRh0PmrnL3Y3VQauJIbE56v1IiRjh-K",
+      "observed_names": [
+        "Joe"
+      ],
+      "work_ids": [
+        "7103812368475426062"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAQ_bgnEh8ss-9U62jQeE3Na8vi5ls0du0JR4lTgogp_kPIzJMOaVyDDuiY8TlcLCH",
+      "observed_names": [
+        "进击的李同学（重庆小班9月）"
+      ],
+      "work_ids": [
+        "7676828027086523658",
+        "7473093159707348235",
+        "7637845969786260771"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAvX4X84t2h_SuW4mjsVnTNFHKlOd0D_VrlPk7XULBZ-6ymV_hNjAl7TueoUSUvsAt",
+      "observed_names": [
+        "冲哥AI实战派（周二广州线下课）"
+      ],
+      "work_ids": [
+        "7671271184339918449"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAW-pBiaQy7q62G5CTWHjCYjopbAlpEmv6NRFQYMgTA6c",
+      "observed_names": [
+        "乐哥软件开发"
+      ],
+      "work_ids": [
+        "7670817013493542335"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAHuRpN40akzLPMIoAuXwLEL0DG3gLo4ewBx0S8MBQxcE",
+      "observed_names": [
+        "旧事"
+      ],
+      "work_ids": [
+        "7672789250252885248",
+        "7675791828695764260"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAj5nvXm7alWKFbL9tLb4Iyg4xMcla_8tTg4cLa3NqLtA6UMk8kDSAB3ZNMWLWP1R2",
+      "observed_names": [
+        "摘星数智-AI时代来了"
+      ],
+      "work_ids": [
+        "7676321182659972387"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAApkgXAuSCSSJP4aASZIbEyQe2RNYj8pj9XtIjX64nk4pLov0HKSNqJCpaOh7fqZil",
+      "observed_names": [
+        "AI办公社"
+      ],
+      "work_ids": [
+        "7673770697693146598"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAJY21R3XkMNB3Ko-sbcLuP3rHqnfw7m61xSB7XoXxQ3U",
+      "observed_names": [
+        "科普课堂-AIGC"
+      ],
+      "work_ids": [
+        "7641230621209103668"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAk1jnUCCFWCFKYSyIR--IJS3_c5oWSzSWXHuHWU1lI4g",
+      "observed_names": [
+        "老曹的Ai公众号规则"
+      ],
+      "work_ids": [
+        "7657085068220943679"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAsOAl6HWJOmyc89a-ih429XXVVxBs_jkMhcRqH6uAF9g",
+      "observed_names": [
+        "AI（实体店赋能）起号事务所—老张"
+      ],
+      "work_ids": [
+        "7533826795922951481"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAO42-2ekrBSQW0ubBRH0nn4HfLYRGXLXtF4B81NovN-k",
+      "observed_names": [
+        "大哲瞎叨叨"
+      ],
+      "work_ids": [
+        "7595209849560375226"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAASDDh5yVI4QGt2aRxLqrYbmkHybVjjZ1DEvW0VFyxTuXipSZz6dN3olEB9PtR3WQf",
+      "observed_names": [
+        "卡卡笔记"
+      ],
+      "work_ids": [
+        "7474989508639935770"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAA5ILAQnRBbyfWEUdsoWp23V_jmZEWK0gCTiev4Or7OR8",
+      "observed_names": [
+        "苏酒儿电商"
+      ],
+      "work_ids": [
+        "7467137660239236410"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAvIhwQNHXbEusH2ASIQy9sh8wvHkdTKCIL_p9SVxkamI",
+      "observed_names": [
+        "小法的工具库"
+      ],
+      "work_ids": [
+        "7473165838434962742"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAn_B8iRtdBaNABxCuRjWVSnE6AdCCRrtSKClgNNQXs6TZ9yyR56WJSnzadZOpD3qE",
+      "observed_names": [
+        "阿梓闯德国"
+      ],
+      "work_ids": [
+        "7465909044528614719"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAA3oAEH38ZDcevNn9-2MEJ_avFFhiWlxcLCoMwqIu9NVZZgoRD7bV3GpSu1t-lho0J",
+      "observed_names": [
+        "木木六"
+      ],
+      "work_ids": [
+        "7468619011345960242"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAow4E8yCjItAOlvffFkkCb_1GfMRNsM5Og4e--Ze8dU4",
+      "observed_names": [
+        "有点东西喔"
+      ],
+      "work_ids": [
+        "7466797947091537206"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAAfEpJG-F1GECWc4DEwF50Ou2mCG9rG-AtWexA7AqU2k",
+      "observed_names": [
+        "扬名Ai创业"
+      ],
+      "work_ids": [
+        "7473847493411802406"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAZFru3_DjK3n31q0D6E13eJN6Q6-cP2XaLAduUoRgV71XQkgqZKZfBbvLutUaq1BK",
+      "observed_names": [
+        "揪揪ai"
+      ],
+      "work_ids": [
+        "7636995101549399350"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAJ5G0pPmGfftwAjTtQWXWjJNYG4S5ccu_l_dbVfWM3rit4oX7dPfJB3zkIMe2TIQS",
+      "observed_names": [
+        "岛花佩佩"
+      ],
+      "work_ids": [
+        "7617415414137861587"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAA5_OP115ZeE8m3Y-uuCGJO3h934aispyCb1E7F6yiaoxHzxGrA6QxlW5k8wBXajLH",
+      "observed_names": [
+        "二狗学Ai"
+      ],
+      "work_ids": [
+        "7490378618523192585"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAADCB_J5r2IjIf-FLuafVVil2WjOFq65Jm1oT-y_byhKdnf5j1sgRGIrIfPCzWFwcS",
+      "observed_names": [
+        "李小咔"
+      ],
+      "work_ids": [
+        "7602680920771994761"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAA23h4xc3YWnxMC9srlfmojGzLgumgiyItllnZ6YZL00sHs9bIpzhU1ugfnRGqsfwO",
+      "observed_names": [
+        "腾怼怼"
+      ],
+      "work_ids": [
+        "7474104791128345893"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAANZ3j3AWf1hL2bd_FN3W2beGsc31ooViuS0dO__uY8Nw",
+      "observed_names": [
+        "Ai先生"
+      ],
+      "work_ids": [
+        "7576314429353458870"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAM_JHxxk3O0WEPvm8o4nPiGVQ_M75KIvUMoeb93VolIgv0xCKDs6pfT71fbpVKbdy",
+      "observed_names": [
+        "76339025517"
+      ],
+      "work_ids": [
+        "7469339586859191591"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAxk161QTYStSjVjhQbS6jRt6vm6Rtni7QAEWlKn0vjIiZHxhuwp9NU8VuG95NUxim",
+      "observed_names": [
+        "萌萌IP流量获客"
+      ],
+      "work_ids": [
+        "7465317975483108659"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAVB9O-R8D_wh6nRXYwALbZ65G42OmwnoLKcNy2EkjZbFIiaGvGC0rx2MxbDtVUITz",
+      "observed_names": [
+        "美业人-洋帆"
+      ],
+      "work_ids": [
+        "7474236518823939386"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAATss_Og50jhO4uFZQCY5F6d09LlnJ_at6bamVlFWgOVY",
+      "observed_names": [
+        "云飞 深创院"
+      ],
+      "work_ids": [
+        "7469439189797440825"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAArNoVP-Qg5pXrN3Tjjq9nANilUZ1OWDa39n-SNLUuPMo",
+      "observed_names": [
+        "如玉说电商"
+      ],
+      "work_ids": [
+        "7638560999456460067",
+        "7633391988489850153",
+        "7637062223709359379"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAA7MK1s148qyIv9NBbEIRJ62Z_NMJnPp67cyOyiXGL8KUM3o9F3AiY6b3pk678WwPL",
+      "observed_names": [
+        "大实话宝儿姐小号"
+      ],
+      "work_ids": [
+        "7625064816213871908"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAtKykodKTwgNFA4BfzbT5bcSRt3hHTSc7Dlr-Si86iBE",
+      "observed_names": [
+        "天天校长"
+      ],
+      "work_ids": [
+        "7598078142289772662"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAb08tGwYIIVCzo9rpV-LnMNvmadUZPHzP1zbEMCDpYuQ",
+      "observed_names": [
+        "静静教主"
+      ],
+      "work_ids": [
+        "7631231414524622713"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAolNHPJ_UHVS6BGvNSiJ0KM0_KZpPkLz6k46A47NsgjpLqI4BlncngSnrUDB0NnYF",
+      "observed_names": [
+        "刘不刘"
+      ],
+      "work_ids": [
+        "7597424077268547705"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAA854CYIj4RFJJF5qIlzE_E68A_vvsBKpaVSykfB1nd22x8myRNJCrA097OdFELPWw",
+      "observed_names": [
+        "老娘"
+      ],
+      "work_ids": [
+        "7621106456636530171"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAApqmx-xoDewSDJk2M_-GfT-V0jiFrzruvLTI9KnzDsYg",
+      "observed_names": [
+        "实干的KK"
+      ],
+      "work_ids": [
+        "7624850454983531684"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAA37Dc4Es03jCxSZGRYg8ZtSCh8EnWzlbP6Krr874qqpQ",
+      "observed_names": [
+        "黑七七的科技生活"
+      ],
+      "work_ids": [
+        "7630658908188626239"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAgAcHCN3b-jtYpB3CZuU1jrBkdaHE_7L2o40XL219_srpZm0wA7ql92DTiuqM3mAx",
+      "observed_names": [
+        "蔓蔓教剪辑"
+      ],
+      "work_ids": [
+        "7637550675690025955"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAATfbcCLprYQJDqkt4INEsNey_UjnPVPex133kivfXaoM3M3OOZ7o5yGPbn_mgJLnq",
+      "observed_names": [
+        "正帅学长"
+      ],
+      "work_ids": [
+        "7629009559566273811"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAA6Ve6YYK99NTWU5Udc3vbNjthska4PDsgcUrQuPInUXk",
+      "observed_names": [
+        "天才小户"
+      ],
+      "work_ids": [
+        "7636423557743950245"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAsACVXo4Qyxk3lz1XdOgqa38amL5CQRPRP1usgQo4ddjLmZ1NtF4HHF_r9CCulecs",
+      "observed_names": [
+        "红衣男孩"
+      ],
+      "work_ids": [
+        "7634114520236148450"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAAMu50qsdelgPwWK9eeAE3huhmzQA_7SmlbjrVSMCs1E",
+      "observed_names": [
+        "陈姑娘私域高变现"
+      ],
+      "work_ids": [
+        "7312441928132414771"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAA66hZfTz7DElBpkGjebf6Bw-3dJTVwS0CPb4i0GVYduY",
+      "observed_names": [
+        "陶金金"
+      ],
+      "work_ids": [
+        "7329756063698406667"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAxTAUTVYSW2kTOSlGA5a0HZXlgM7NKkvvZX548Q7gsLI",
+      "observed_names": [
+        "私域王校长"
+      ],
+      "work_ids": [
+        "7353585738585230618"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAA5IXhICnjtOETeUh9-dGc1DmAho0E8DYOh81J2dxub5_mt15AOn24HGeAnKKSYumL",
+      "observed_names": [
+        "谭师傅Pro"
+      ],
+      "work_ids": [
+        "7352842088758791458"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAztlMOplyrmxHKeaW60-nvZH0aplpti5J_aIJdtkL8Ww",
+      "observed_names": [
+        "C宾高端咨询"
+      ],
+      "work_ids": [
+        "7368803820123475211"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAahzvBGFlkJzCag8jNzFC9eQVsgkmQFf1m1fpHtINSXwEuX7mlLKUEqFPbTtYxEes",
+      "observed_names": [
+        "创客匠人"
+      ],
+      "work_ids": [
+        "7309013514436300073"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAdtIxrTNgCE22uJ6VIB-MCBMK-0zZQQlGJK3eG1_0-iO8hOdazzTfSyFdpnjHFula",
+      "observed_names": [
+        "泽宇商业咨询"
+      ],
+      "work_ids": [
+        "7386984655389527296",
+        "7311364105309408575"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAqT5UvnWvf3olKARxJrDZhAB4dbGTy2Zq6l-3Myp9jp0",
+      "observed_names": [
+        "恬恬知识IP赋能"
+      ],
+      "work_ids": [
+        "7352890022497914139"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAACgAl2f2HS1B5cdXBu65sGAdCkTgUyNP7rORxNCZokvA",
+      "observed_names": [
+        "管管Tk创就业训练营"
+      ],
+      "work_ids": [
+        "7338823643213991220"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAA391ZDPyZKhjVXsPl4F2ZjoB3cjFUVovtrjcW8hgDsf1JdL8o5Vz2SaoQiv1zE2KQ",
+      "observed_names": [
+        "连老师（知识IP直播运营）"
+      ],
+      "work_ids": [
+        "7377301167740652839"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAIdnHtt5PIeVsI-QzhAT5ocbA6wIlm9SFa6OkFMdaYpG7leY5aTtcZq_b83J2-FZn",
+      "observed_names": [
+        "田一珺-知课教育信息咨询"
+      ],
+      "work_ids": [
+        "7356546823701499170"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAA09ac_acHBBwvtkQuKXIfBnUiS6kt0dQp5mN-TLlsd_k",
+      "observed_names": [
+        "泽宇专注高客单"
+      ],
+      "work_ids": [
+        "7347918925377604904"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAid3TQ_w71lXj2QyK3xyJIAebWHRU0lngF8jHeNvZN3M",
+      "observed_names": [
+        "刘哲涛 内容营销战略"
+      ],
+      "work_ids": [
+        "7342457794622213427"
+      ]
+    },
+    {
+      "sec_uid": "MS4wLjABAAAAKC5wl4BfXrMVHooFrzZV8fYEKoPXEIQno-efiSois6mOFvpqd_OEVScBmEJtU3Lm",
+      "observed_names": [
+        "美迪（9月线下课）"
+      ],
+      "work_ids": [
+        "7346936637386968329"
+      ]
+    }
+  ],
+  "unresolved_author_work_ids": [],
+  "works": [
+    {
+      "work_id": "7113032405635697950",
+      "canonical_url": "https://www.douyin.com/video/7113032405635697950",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.mainVideo",
+          "relationship": "main",
+          "author_name": "职场课代表",
+          "author_sec_uid": "MS4wLjABAAAAROLBcpxoHSvqZRP9wFXyQQULV5NpTnBHl3o2KGlFcFpNUxXLNuqPfu0k7gFOUulW",
+          "author_uid": "2678058326164141",
+          "identity_basis": "awemeInfo.authorInfo",
+          "title": "指导敏感、内耗粉丝转行，工作舒适，月薪13000#职业规划 #求职 #转行 #高薪职业 #失业",
+          "published_at_unix": 1656131917,
+          "duration_ms": 41495,
+          "likes": 1017,
+          "main_named_stats": {
+            "commentCount": 151,
+            "diggCount": 1017,
+            "shareCount": 57,
+            "playCount": 0,
+            "collectCount": 284,
+            "downloadCount": 7,
+            "forwardCount": 0,
+            "liveWatchCount": 0,
+            "recommendCount": 0
+          },
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 324,
+          "platform_asr_sha256": "983e1fbc6727c1b99461734474fbd9a893ab5fe0d298645fc48042cfca14b45c"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7062677383601605924",
+      "canonical_url": "https://www.douyin.com/video/7062677383601605924",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[0]",
+          "relationship": "recommendation_or_list",
+          "author_name": "职场课代表",
+          "author_sec_uid": "MS4wLjABAAAAROLBcpxoHSvqZRP9wFXyQQULV5NpTnBHl3o2KGlFcFpNUxXLNuqPfu0k7gFOUulW",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "玻璃心、敏感脆弱的人，千万别去做这样特征的工作，适合做这几种工作。指导粉丝成功转行。#职业规划 #求职 #找工作 #干货 ",
+          "published_at_unix": 1644407727,
+          "duration_ms": 63391,
+          "likes": 6584,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 484,
+          "platform_asr_sha256": "915439b0742408b63197d7d9070beafd240410d253648ccd2339bbc874d1f6e4"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7160606254568656163",
+      "canonical_url": "https://www.douyin.com/video/7160606254568656163",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[1]",
+          "relationship": "recommendation_or_list",
+          "author_name": "故乡的野菜_",
+          "author_sec_uid": "MS4wLjABAAAAZ4x3XkVpLDE7uqOXGWXGwMtU3DfVt-4Mdsjom0E0IStdsT7O7gckZpiJH3zuCWEj",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "这个人格才是越老越吃香！infp大后期逆袭底层逻辑，从内耗到自我价值实现，废物也能人生开挂#大数据推荐给有需要的人 #INFP #内耗 #焦虑",
+          "published_at_unix": 1667208569,
+          "duration_ms": 251334,
+          "likes": 1320,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": true,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7068508691808505129",
+      "canonical_url": "https://www.douyin.com/video/7068508691808505129",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[2]",
+          "relationship": "recommendation_or_list",
+          "author_name": "文冰事业疗愈师",
+          "author_sec_uid": "MS4wLjABAAAAeg3hnYokCHoIgRnHKnam-CnJIDNIdG84jV0impcW6X8",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "懒，拖延，行动力差，空想者INFP如何自救？ \n#MBTI职业性格测试 #MBTI#行动力#懒#拖延#完美主义#内耗#职业规划#职业发展#想象力#目标#计划#正反馈#个人成长#自我提升#改变",
+          "published_at_unix": 1645765431,
+          "duration_ms": 187629,
+          "likes": 2893,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 901,
+          "platform_asr_sha256": "665eeed290d201f4fab1bf1fe63b4c43aec6765b1f91fcdc76b16479ab1751e0"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7049583296509971726",
+      "canonical_url": "https://www.douyin.com/video/7049583296509971726",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[3]",
+          "relationship": "recommendation_or_list",
+          "author_name": "Sherry",
+          "author_sec_uid": "MS4wLjABAAAAqWavMdCdtSFCXPA8rU9mdvsBqhix_pZMDl1C3_xbd7o",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "如何走出精神内耗🔥\n怎么选择未来就业方向🙋\n如何找到自己的天赋👌\n这条视频含金量很高✨\n建议保存收藏⚠️\n#vlog日常 #精神内耗 #就业 #天赋异禀@DOU+小课堂 @DOU+小助手 @抖音小助手 ",
+          "published_at_unix": 1641359026,
+          "duration_ms": 261829,
+          "likes": 24,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": true,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7263463913822489912",
+      "canonical_url": "https://www.douyin.com/video/7263463913822489912",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[4]",
+          "relationship": "recommendation_or_list",
+          "author_name": "李天益不焦虑好睡眠",
+          "author_sec_uid": "MS4wLjABAAAApyAFJeco7Bd6R_0yVtsRJwKbxlkI7Sh6ZLGP5ysiYukQAxlFwdc7zQuzKSI5Qy74",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "内耗型人格的人，活得都很累！出路到底在哪里？#植物神经紊乱 #精神内耗有多累 #胡思乱想 #失眠 #焦虑抑郁症",
+          "published_at_unix": 1691156986,
+          "duration_ms": 143367,
+          "likes": 633,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 701,
+          "platform_asr_sha256": "1f0f0d193e82d1eee4b7f9894140d67be355337649e29b3660f69aa7e2ffb1d0"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7166622222432341263",
+      "canonical_url": "https://www.douyin.com/video/7166622222432341263",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[5]",
+          "relationship": "recommendation_or_list",
+          "author_name": "梨园长",
+          "author_sec_uid": "MS4wLjABAAAA2MCgIXRspwoiW3iGOk1qr4t6OHKWmmvpPbNBIdGXHCuS766LCfawl3917vBHkxOI",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "工作痛苦怎么办？减少精神内耗，把感情留给该爱的人，在职场做个没有感情的打工人 #职场 #二十多岁的我们 #精神内耗 #痛苦 #应届生就业",
+          "published_at_unix": 1668609271,
+          "duration_ms": 114729,
+          "likes": 2640,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 652,
+          "platform_asr_sha256": "e650d452d6dbff921db6d07c5d6b8663b6abc91e5f6ec52b0c8a9aa8c562c437"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7209960540305755453",
+      "canonical_url": "https://www.douyin.com/video/7209960540305755453",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[6]",
+          "relationship": "recommendation_or_list",
+          "author_name": "复仇狂魔予小梦",
+          "author_sec_uid": "MS4wLjABAAAARSxfomM_oAJleHxttJxN32CJ9tWozEDXqktHEpKRBLs",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "该怎么收拾那些欺负过你的人 #讨好型人格 #拒绝内耗 #拥抱敏感韧性而活 #复仇 分享几个不挨欺负的招，任何长久都关系都不是因为你对别人的屈服，而是来自他人对你的敬畏。善良，只拿去针对自己喜欢的人，和喜欢自己的人就可以了@DOU+小助手",
+          "published_at_unix": 1678699769,
+          "duration_ms": 102767,
+          "likes": 231130,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 692,
+          "platform_asr_sha256": "75e0a8a2454ed4b548288c4a5703203c4fc2fed12253d1fdf03b9cc094721a40"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "6991060240850488613",
+      "canonical_url": "https://www.douyin.com/video/6991060240850488613",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[7]",
+          "relationship": "recommendation_or_list",
+          "author_name": "老明读书",
+          "author_sec_uid": "MS4wLjABAAAA9-7AujrGEs9ZJdYZPgyi8xd1Few8LMkoObj9iBFbH1Y",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "所谓的“活得通透”，就是把内耗降到了极低水平。#讨好型人格 #内耗",
+          "published_at_unix": 1627733056,
+          "duration_ms": 238398,
+          "likes": 68871,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": true,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7093843980248468766",
+      "canonical_url": "https://www.douyin.com/video/7093843980248468766",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[8]",
+          "relationship": "recommendation_or_list",
+          "author_name": "职场课代表",
+          "author_sec_uid": "MS4wLjABAAAAROLBcpxoHSvqZRP9wFXyQQULV5NpTnBHl3o2KGlFcFpNUxXLNuqPfu0k7gFOUulW",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "讨好型人格适合哪种工作？指导粉丝跳槽舒适好工作！#职业规划 #找工作 #求职 #赚钱 #讨好型人格 ",
+          "published_at_unix": 1651664265,
+          "duration_ms": 89351,
+          "likes": 1409,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 662,
+          "platform_asr_sha256": "5d308cf0717fdb9e52368a15f31bc272a9680944f3534db588fab15fd1e3fd1c"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7271839368279592211",
+      "canonical_url": "https://www.douyin.com/video/7271839368279592211",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[9]",
+          "relationship": "recommendation_or_list",
+          "author_name": "林火火",
+          "author_sec_uid": "MS4wLjABAAAAov8xhBDgYI4VfUYJTTr9wjkK39XlQzIg26jtwGFMv5C_pDLQHg__bxGD8V0469WS",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "IPFP最可怕人格，实至名归的精神内耗之王#INFP人格 #我的精神世界",
+          "published_at_unix": 1693107048,
+          "duration_ms": 31207,
+          "likes": 560207,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 201,
+          "platform_asr_sha256": "787e36b66570c4fb568533874777e16665f8929b354ae18782ae0e1759e86c00"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7077901590182595844",
+      "canonical_url": "https://www.douyin.com/video/7077901590182595844",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[10]",
+          "relationship": "recommendation_or_list",
+          "author_name": "吕老师聊心理",
+          "author_sec_uid": "MS4wLjABAAAAq2IsPWLH0w_iAXBZ1RD8eamo22JN1IWjTqmPiawQiac",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "陷入精神内耗，反刍思维，胡思乱想，你该怎么办#精神内耗 #胡思乱想 #反刍思维 #心理咨询师 #逻辑思维 #父母课堂 #缓解焦虑 ",
+          "published_at_unix": 1647952384,
+          "duration_ms": 119873,
+          "likes": 6766,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 719,
+          "platform_asr_sha256": "a89767759af3150a26a51f26bc15dec0f9a64f470087bb09b6d33231ee04e7e2"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7173638778005818676",
+      "canonical_url": "https://www.douyin.com/video/7173638778005818676",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[11]",
+          "relationship": "recommendation_or_list",
+          "author_name": "00是土一",
+          "author_sec_uid": "MS4wLjABAAAAqu53bDds3ST4PWusf71Oak4M1A4WgyZLDTON0lu8OPs",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "容易内耗的高敏感人群和讨好型人格看过来～当我意识到这些，我不再陷入精神内耗。希望对你和你的朋友有所帮助( ̀⌄ ́)希望大家都能更好的享受生命，感受一切美好#girlstalk #内耗 #社交 #个人成长 #情感",
+          "published_at_unix": 1670242940,
+          "duration_ms": 248940,
+          "likes": 4892,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": true,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7248603596827151675",
+      "canonical_url": "https://www.douyin.com/video/7248603596827151675",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[12]",
+          "relationship": "recommendation_or_list",
+          "author_name": "花大钱",
+          "author_sec_uid": "MS4wLjABAAAAA5FjC4Ml0qL_-UDrxiuiLhI58He7wO0gMKJamTXAD38",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "三部纪录片，暴力反内耗。\n#女生必看 #提升自己 #认知 #纪录片 #纪录片推荐",
+          "published_at_unix": 1687697049,
+          "duration_ms": 111134,
+          "likes": 110161,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 767,
+          "platform_asr_sha256": "d02c0dde7f08b8ac66138fe828c5d57688e16f25337b54b34aea2c8abdf58286"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7086787883540958505",
+      "canonical_url": "https://www.douyin.com/video/7086787883540958505",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[13]",
+          "relationship": "recommendation_or_list",
+          "author_name": "早安郭郭",
+          "author_sec_uid": "MS4wLjABAAAApH5K2AueCxnusOpL58aJXR5QiUduHxC9ryu6IO-PWC4",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "你适合什么职业？提前规划自己的未来！#mbit性格测试 #infp人格 ",
+          "published_at_unix": 1650021386,
+          "duration_ms": 117476,
+          "likes": 575,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 653,
+          "platform_asr_sha256": "1ae3db1ef318c01ce82ceaa44cad20b5c02f6c1e8bf9b804dcdef2dab8bfdc90"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "6925093324286217486",
+      "canonical_url": "https://www.douyin.com/video/6925093324286217486",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[14]",
+          "relationship": "recommendation_or_list",
+          "author_name": "星座小容女",
+          "author_sec_uid": "MS4wLjABAAAAt-TSsNOeChYASydDJaW4Me0yLpJOr1KaU__d8Us2iIs",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "干货~isfp适合的工作#mbti #mbti职业性格测试 #mbti职业性格 #isfp人格",
+          "published_at_unix": 1612374032,
+          "duration_ms": 574066,
+          "likes": 8389,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "6952059687516917023",
+      "canonical_url": "https://www.douyin.com/video/6952059687516917023",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[15]",
+          "relationship": "recommendation_or_list",
+          "author_name": "星座小容女",
+          "author_sec_uid": "MS4wLjABAAAAt-TSsNOeChYASydDJaW4Me0yLpJOr1KaU__d8Us2iIs",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "enfp适合的工作#抖音小助手 #抖音热门 #mbti #mbti职业性格 #enfp",
+          "published_at_unix": 1618652538,
+          "duration_ms": 280154,
+          "likes": 4309,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": true,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7083816793541840158",
+      "canonical_url": "https://www.douyin.com/video/7083816793541840158",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[16]",
+          "relationship": "recommendation_or_list",
+          "author_name": "我是田有福",
+          "author_sec_uid": "MS4wLjABAAAAAYvJpvwemzE_9yY9yfoYtl2t3YitRiIJpuDC7zfZI1ObvGVY5mvlSwDK1RkYWnm3",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "INFP：又菜又爱玩#mbti #mbti职业性格测试 #mbti人类图鉴 #心理学 ",
+          "published_at_unix": 1649329640,
+          "duration_ms": 100934,
+          "likes": 7120,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7212841424125955331",
+      "canonical_url": "https://www.douyin.com/video/7212841424125955331",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[17]",
+          "relationship": "recommendation_or_list",
+          "author_name": "声昔TV",
+          "author_sec_uid": "MS4wLjABAAAAGdKxVMSPEHPVwLwbiTf6MAtKI716iGmXuuZn7Wej4Dc",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "INFJ适合什么行业的工作？#mbti人类图鉴 #mbti #心理学 #infj #infj型人格 @抖音小助手",
+          "published_at_unix": 1679370520,
+          "duration_ms": 242415,
+          "likes": 9826,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": true,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7159110620548287779",
+      "canonical_url": "https://www.douyin.com/video/7159110620548287779",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[18]",
+          "relationship": "recommendation_or_list",
+          "author_name": "万万姐",
+          "author_sec_uid": "MS4wLjABAAAASms63YXGbePb2XNgYY1nyIlDpSwTNAre-E8wTLugsF4",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "上班的倦怠感怎么解？三招降低内耗。#不想上班 #精神内耗 #职场",
+          "published_at_unix": 1666860343,
+          "duration_ms": 52592,
+          "likes": 8758,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 302,
+          "platform_asr_sha256": "10fb8dc3db88f121c473a799978263f492777bb990f4cef4baf6a0abed3d7571"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7081989962496855330",
+      "canonical_url": "https://www.douyin.com/video/7081989962496855330",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+          "source_snapshot_sha256": "b609b82456e7df23954f5e8a7b147dad9a36f0cc280adb789fb6720db537d516",
+          "observed_at_utc": "2026-09-14T13:45:45.475322+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[19]",
+          "relationship": "recommendation_or_list",
+          "author_name": "文冰事业疗愈师",
+          "author_sec_uid": "MS4wLjABAAAAeg3hnYokCHoIgRnHKnam-CnJIDNIdG84jV0impcW6X8",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "INFP幻想者—最适合的4种工作类型：\n1、创新艺术类\n2、教育咨询类\n3、健康保健类\n4、组织发展类 \n#infp #INFP #infp人格 #MBTI #mbti人类图鉴 #mbti人格测试 #职业性格 #职业选择",
+          "published_at_unix": 1648904283,
+          "duration_ms": 223967,
+          "likes": 3075,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 969,
+          "platform_asr_sha256": "b7cea936be4791308f0b2c68448d29e6dddfce71fb1cf979e591a7d8f7a62ef5"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7360588595779931443",
+      "canonical_url": "https://www.douyin.com/video/7360588595779931443",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+          "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+          "observed_at_utc": "2026-09-14T13:45:46.452713+00:00",
+          "source_json_path": "frame:7[3].shipin.mainVideo",
+          "relationship": "main",
+          "author_name": "清华陈晶工作室",
+          "author_sec_uid": "MS4wLjABAAAAEE0joxFJySInVb-ACXHnfcv-DBQWOMomiTsYonkuTW4",
+          "author_uid": "167591868372224",
+          "identity_basis": "awemeInfo.authorInfo",
+          "title": "直播应该怎样做复盘#个人ip #知识付费 #商业思维 #干货分享 #创业",
+          "published_at_unix": 1713770594,
+          "duration_ms": 59814,
+          "likes": 90,
+          "main_named_stats": {
+            "commentCount": 2,
+            "diggCount": 90,
+            "shareCount": 11,
+            "playCount": 0,
+            "collectCount": 28,
+            "downloadCount": 0,
+            "forwardCount": 0,
+            "liveWatchCount": 0,
+            "recommendCount": 0
+          },
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7321562636322213147",
+      "canonical_url": "https://www.douyin.com/video/7321562636322213147",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+          "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+          "observed_at_utc": "2026-09-14T13:45:46.452713+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[0]",
+          "relationship": "recommendation_or_list",
+          "author_name": "刘星辰",
+          "author_sec_uid": "MS4wLjABAAAAvVd8wMoof3BTzFrrMQwSXQujnDYY9duKuBYHfObwXQI",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "做知识付费的主播该怎么进行直播复盘 #个人ip #创业思维 #价值观",
+          "published_at_unix": 1704684165,
+          "duration_ms": 165159,
+          "likes": 36,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7297672216408247604",
+      "canonical_url": "https://www.douyin.com/video/7297672216408247604",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+          "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+          "observed_at_utc": "2026-09-14T13:45:46.452713+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[1]",
+          "relationship": "recommendation_or_list",
+          "author_name": "宋老师(AI+知识付费)",
+          "author_sec_uid": "MS4wLjABAAAAPAHPxjK8Bj5Tz_v3GD8sNSjNOhLVmDgA-x717gUwWQU",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "自媒体博主这3个表格内行人都拥有了....\n#知识博主#卖课#做课#知识付费 #自媒体博主",
+          "published_at_unix": 1699121764,
+          "duration_ms": 97801,
+          "likes": 178,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 667,
+          "platform_asr_sha256": "7a397067872541aec1175c27eda60d62ced040c5cdbc2ec09aaea997ace0b22e"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7290565491591007499",
+      "canonical_url": "https://www.douyin.com/video/7290565491591007499",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+          "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+          "observed_at_utc": "2026-09-14T13:45:46.452713+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[2]",
+          "relationship": "recommendation_or_list",
+          "author_name": "大川-内容流程",
+          "author_sec_uid": "MS4wLjABAAAAGXh88h8xMrN6V4ZTLQOmfvmCSgt76xC2dBMv-KQyUuZhVF_fOukDkKtceJJBmEh1",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "付费单品直播间的数据如何复盘？ #千川 #直播复盘",
+          "published_at_unix": 1697467089,
+          "duration_ms": 102434,
+          "likes": 4322,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 658,
+          "platform_asr_sha256": "dc456a8b6953967840b4178771c34d9bcd33d96de693c67137cde10d7d305829"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7345066683943357706",
+      "canonical_url": "https://www.douyin.com/video/7345066683943357706",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+          "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+          "observed_at_utc": "2026-09-14T13:45:46.452713+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[3]",
+          "relationship": "recommendation_or_list",
+          "author_name": "大川-内容流程",
+          "author_sec_uid": "MS4wLjABAAAAGXh88h8xMrN6V4ZTLQOmfvmCSgt76xC2dBMv-KQyUuZhVF_fOukDkKtceJJBmEh1",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "付费直播间复盘三大步骤！#电商人 #大川电商",
+          "published_at_unix": 1710156613,
+          "duration_ms": 90141,
+          "likes": 2915,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7275134954995043640",
+      "canonical_url": "https://www.douyin.com/video/7275134954995043640",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+          "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+          "observed_at_utc": "2026-09-14T13:45:46.452713+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[4]",
+          "relationship": "recommendation_or_list",
+          "author_name": "直播陪跑糖老师（知识付费）",
+          "author_sec_uid": "MS4wLjABAAAAaxRVWe3DvjVQ-_kVsOVz0c-DBqPkHLM-U5m1GN_W29OSqKAZUEdRV9Typ3vpJGP9",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "总是还有不会复盘的老师，这次再讲讲两个点#知识付费 #精准复盘 #直播",
+          "published_at_unix": 1693874371,
+          "duration_ms": 85401,
+          "likes": 50,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 531,
+          "platform_asr_sha256": "07d684461e6187d15e91f60ba7ccb14c833406addd83f980c610fb90c24587cb"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7320603470443056434",
+      "canonical_url": "https://www.douyin.com/video/7320603470443056434",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+          "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+          "observed_at_utc": "2026-09-14T13:45:46.452713+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[5]",
+          "relationship": "recommendation_or_list",
+          "author_name": "大川-内容流程",
+          "author_sec_uid": "MS4wLjABAAAAGXh88h8xMrN6V4ZTLQOmfvmCSgt76xC2dBMv-KQyUuZhVF_fOukDkKtceJJBmEh1",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "付费单品直播间如何复盘，roi打不正，放不了量都是复盘问题#大川电商",
+          "published_at_unix": 1704460826,
+          "duration_ms": 105001,
+          "likes": 1490,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7326987324183661876",
+      "canonical_url": "https://www.douyin.com/video/7326987324183661876",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+          "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+          "observed_at_utc": "2026-09-14T13:45:46.452713+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[6]",
+          "relationship": "recommendation_or_list",
+          "author_name": "宋老师(AI+知识付费)",
+          "author_sec_uid": "MS4wLjABAAAAPAHPxjK8Bj5Tz_v3GD8sNSjNOhLVmDgA-x717gUwWQU",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "知识博主卖课老师直播看数据只看这7个\n#知识博主#知识付费#做课#卖课#直播卖课",
+          "published_at_unix": 1705947280,
+          "duration_ms": 60719,
+          "likes": 475,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7325662029136645416",
+      "canonical_url": "https://www.douyin.com/video/7325662029136645416",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+          "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+          "observed_at_utc": "2026-09-14T13:45:46.452713+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[7]",
+          "relationship": "recommendation_or_list",
+          "author_name": "崔老师可漂亮",
+          "author_sec_uid": "MS4wLjABAAAAyXuBXRe4MX2chLe-ilWAZS3TNB2x2xIZLQGYVwxtkIiJEGnE9PheESlYLl3rTeZu",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "做直播会复盘才能拿结果，复盘正确成功一半，快来学习用起来#知识付费 #复盘 #主播",
+          "published_at_unix": 1705638623,
+          "duration_ms": 77973,
+          "likes": 1001,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7299394465284902170",
+      "canonical_url": "https://www.douyin.com/video/7299394465284902170",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+          "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+          "observed_at_utc": "2026-09-14T13:45:46.452713+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[8]",
+          "relationship": "recommendation_or_list",
+          "author_name": "老斌知识付费直播",
+          "author_sec_uid": "MS4wLjABAAAAlRIol0kyZ-bequomd0jyJ-MsIQwCBDYjWsA9Qu_ug8yGk2vpZGcb7pt6emqFKCqv",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "5个新人主播直播复盘的核心方法，对于知识付费直播间从0到1帮助会比较大，建议认真看完。#知识付费 #知识变现 #知识主播",
+          "published_at_unix": 1699522720,
+          "duration_ms": 174011,
+          "likes": 30,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 844,
+          "platform_asr_sha256": "dd2605ebe0494474204cbbebfe49ee1ed7dfcacaeb3b9a9cd08bab0e5b4c19e7"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7361786743516925236",
+      "canonical_url": "https://www.douyin.com/video/7361786743516925236",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+          "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+          "observed_at_utc": "2026-09-14T13:45:46.452713+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[9]",
+          "relationship": "recommendation_or_list",
+          "author_name": "九斤-全域素材破局流量（9月有课）",
+          "author_sec_uid": "MS4wLjABAAAAHHQRrbETDLngAOmY6zSumk9h-wfsnJBlTDpRvwyrqfI",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "打纯付费的直播间，到底该如何去复盘数据，难道点击率.千次展现这些真的很重要吗？#九斤素材决定人群 #九斤抢量打法",
+          "published_at_unix": 1714049552,
+          "duration_ms": 159634,
+          "likes": 900,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7346930014002220326",
+      "canonical_url": "https://www.douyin.com/video/7346930014002220326",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+          "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+          "observed_at_utc": "2026-09-14T13:45:46.452713+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[10]",
+          "relationship": "recommendation_or_list",
+          "author_name": "轩哥电商",
+          "author_sec_uid": "MS4wLjABAAAARXCksyeclUrcsFn4UldPvT2wUk_MHUETabcvk6bClWujSgYKjdDSAXB1PTH4h9SV",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "付费直播间怎么复盘优化#如何投放巨量千川 #干货分享",
+          "published_at_unix": 1710590456,
+          "duration_ms": 110635,
+          "likes": 24,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7278756858163105076",
+      "canonical_url": "https://www.douyin.com/video/7278756858163105076",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+          "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+          "observed_at_utc": "2026-09-14T13:45:46.452713+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[11]",
+          "relationship": "recommendation_or_list",
+          "author_name": "宋老师(AI+知识付费)",
+          "author_sec_uid": "MS4wLjABAAAAPAHPxjK8Bj5Tz_v3GD8sNSjNOhLVmDgA-x717gUwWQU",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "卖课复盘非常重要，复盘过去自己让未来更成功\n#卖课复盘#知识博主#做课#知识付费 #抖音课堂",
+          "published_at_unix": 1694717713,
+          "duration_ms": 92972,
+          "likes": 589,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 642,
+          "platform_asr_sha256": "46fa4da1c2435e296b2f8c62c650f33265f0018d56423e455b3756263f8ea197"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7103812368475426062",
+      "canonical_url": "https://www.douyin.com/video/7103812368475426062",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+          "source_snapshot_sha256": "cbae0cefae03de1678bb86745fa556a073c4739e8856d53cbad9d6574f20bb36",
+          "observed_at_utc": "2026-09-14T13:45:46.452713+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[12]",
+          "relationship": "recommendation_or_list",
+          "author_name": "Joe",
+          "author_sec_uid": "MS4wLjABAAAAmUQu7tVOqNOMfQBYRfIRdr66hTZPcJMqUGRh0PmrnL3Y3VQauJIbE56v1IiRjh-K",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "知识付费训练营复盘，做好训练营核心是服务于人，SOP、运营工具缺一不可#知识付费 #社群运营 #教育培训 #培训 @DOU+小助手",
+          "published_at_unix": 1653985210,
+          "duration_ms": 59034,
+          "likes": 8,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7676828027086523658",
+      "canonical_url": "https://www.douyin.com/video/7676828027086523658",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7314025932749146164",
+          "source_snapshot_sha256": "4c84ee44a8d4418d9df357c1c00c1930f2c0b031f833fb6a06baf31f6cf66cf6",
+          "observed_at_utc": "2026-09-14T13:46:46.952370+00:00",
+          "source_json_path": "frame:7[3].shipin.mainVideo",
+          "relationship": "main",
+          "author_name": "进击的李同学（重庆小班9月）",
+          "author_sec_uid": "MS4wLjABAAAAQ_bgnEh8ss-9U62jQeE3Na8vi5ls0du0JR4lTgogp_kPIzJMOaVyDDuiY8TlcLCH",
+          "author_uid": "2686861114358302",
+          "identity_basis": "awemeInfo.authorInfo",
+          "title": "一下午拍30条，矩阵号怎么拍？ #自媒体 #短视频 #矩阵 #做账号 #拍摄",
+          "published_at_unix": 1787400820,
+          "duration_ms": 263274,
+          "likes": 1316,
+          "main_named_stats": {
+            "commentCount": 16,
+            "diggCount": 1316,
+            "shareCount": 377,
+            "playCount": 0,
+            "collectCount": 1146,
+            "downloadCount": 0,
+            "forwardCount": 0,
+            "liveWatchCount": 0,
+            "recommendCount": 0
+          },
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": true,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7671271184339918449",
+      "canonical_url": "https://www.douyin.com/video/7671271184339918449",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7314025932749146164",
+          "source_snapshot_sha256": "4c84ee44a8d4418d9df357c1c00c1930f2c0b031f833fb6a06baf31f6cf66cf6",
+          "observed_at_utc": "2026-09-14T13:46:46.952370+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[0]",
+          "relationship": "recommendation_or_list",
+          "author_name": "冲哥AI实战派（周二广州线下课）",
+          "author_sec_uid": "MS4wLjABAAAAvX4X84t2h_SuW4mjsVnTNFHKlOd0D_VrlPk7XULBZ-6ymV_hNjAl7TueoUSUvsAt",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "一个人怎么做矩阵？全套账号布局➕时间安排 #客多多传媒总部 #自媒体运营 #实体店老板 #短视频获客矩阵 #商家做抖音",
+          "published_at_unix": 1786107008,
+          "duration_ms": 72935,
+          "likes": 12,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 522,
+          "platform_asr_sha256": "2ea5445df27de0d24c69cec83f91eb24cca0fcf181e68550c3dabd571670f81a"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7670817013493542335",
+      "canonical_url": "https://www.douyin.com/video/7670817013493542335",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7314025932749146164",
+          "source_snapshot_sha256": "4c84ee44a8d4418d9df357c1c00c1930f2c0b031f833fb6a06baf31f6cf66cf6",
+          "observed_at_utc": "2026-09-14T13:46:46.952370+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[1]",
+          "relationship": "recommendation_or_list",
+          "author_name": "乐哥软件开发",
+          "author_sec_uid": "MS4wLjABAAAAW-pBiaQy7q62G5CTWHjCYjopbAlpEmv6NRFQYMgTA6c",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "AI 短视频矩阵系统（可承接各种软硬件开发） #短视频运营学习",
+          "published_at_unix": 1786001263,
+          "duration_ms": 62634,
+          "likes": 1,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 267,
+          "platform_asr_sha256": "95f224b22e118d0159bb2c39b3fb3178a34aea56c66395d491142676f0f1eb46"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7672789250252885248",
+      "canonical_url": "https://www.douyin.com/video/7672789250252885248",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7314025932749146164",
+          "source_snapshot_sha256": "4c84ee44a8d4418d9df357c1c00c1930f2c0b031f833fb6a06baf31f6cf66cf6",
+          "observed_at_utc": "2026-09-14T13:46:46.952370+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[2]",
+          "relationship": "recommendation_or_list",
+          "author_name": "旧事",
+          "author_sec_uid": "MS4wLjABAAAAHuRpN40akzLPMIoAuXwLEL0DG3gLo4ewBx0S8MBQxcE",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "矩阵新玩法保姆级思路！ AI辅助创作流程，可批量原创，控制字数，降AI味，一键排版和配图！#矩阵 #自媒体 #流量主 #AI写文",
+          "published_at_unix": 1786460466,
+          "duration_ms": 148678,
+          "likes": 18,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 366,
+          "platform_asr_sha256": "de8da4221d23daa6305751db568bae962d8e88783c13c30cdb44ed6c8622da38"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7676321182659972387",
+      "canonical_url": "https://www.douyin.com/video/7676321182659972387",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7314025932749146164",
+          "source_snapshot_sha256": "4c84ee44a8d4418d9df357c1c00c1930f2c0b031f833fb6a06baf31f6cf66cf6",
+          "observed_at_utc": "2026-09-14T13:46:46.952370+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[3]",
+          "relationship": "recommendation_or_list",
+          "author_name": "摘星数智-AI时代来了",
+          "author_sec_uid": "MS4wLjABAAAAj5nvXm7alWKFbL9tLb4Iyg4xMcla_8tTg4cLa3NqLtA6UMk8kDSAB3ZNMWLWP1R2",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "一人玩转百号矩阵 #短视频矩阵 #短视频运营 #ai大数据获客 #大数据推广 #剪映视频制作",
+          "published_at_unix": 1787282806,
+          "duration_ms": 52634,
+          "likes": 1,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 314,
+          "platform_asr_sha256": "ecffa891167c6629cc2d4573f8d15e8b957c0ab2b4308d8798322b1175814d31"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7673770697693146598",
+      "canonical_url": "https://www.douyin.com/video/7673770697693146598",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7314025932749146164",
+          "source_snapshot_sha256": "4c84ee44a8d4418d9df357c1c00c1930f2c0b031f833fb6a06baf31f6cf66cf6",
+          "observed_at_utc": "2026-09-14T13:46:46.952370+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[4]",
+          "relationship": "recommendation_or_list",
+          "author_name": "AI办公社",
+          "author_sec_uid": "MS4wLjABAAAApkgXAuSCSSJP4aASZIbEyQe2RNYj8pj9XtIjX64nk4pLov0HKSNqJCpaOh7fqZil",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "做短视频矩阵，别再盲目花钱雇美工剪辑了#AI工具 #短视频矩阵 #电商干货 #实体店运营 #AI创作",
+          "published_at_unix": 1786688971,
+          "duration_ms": 73067,
+          "likes": 6,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 399,
+          "platform_asr_sha256": "47385d20590acb672acde3dbcfeebd25d4783c2e8b35dcb1fbc7dd1d2e3f4013"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7675791828695764260",
+      "canonical_url": "https://www.douyin.com/video/7675791828695764260",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7314025932749146164",
+          "source_snapshot_sha256": "4c84ee44a8d4418d9df357c1c00c1930f2c0b031f833fb6a06baf31f6cf66cf6",
+          "observed_at_utc": "2026-09-14T13:46:46.952370+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[5]",
+          "relationship": "recommendation_or_list",
+          "author_name": "旧事",
+          "author_sec_uid": "MS4wLjABAAAAHuRpN40akzLPMIoAuXwLEL0DG3gLo4ewBx0S8MBQxcE",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "AI辅助创作流，一个人也能运营30个号？ #AI写作 #公众号运营 #流量主 #矩阵 #自媒体",
+          "published_at_unix": 1787159566,
+          "duration_ms": 159638,
+          "likes": 18,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 638,
+          "platform_asr_sha256": "bee62fdae2283af41b26bc90e22aaf9c12b3875b952f31ebdc2e816209317f26"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7641230621209103668",
+      "canonical_url": "https://www.douyin.com/video/7641230621209103668",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7314025932749146164",
+          "source_snapshot_sha256": "4c84ee44a8d4418d9df357c1c00c1930f2c0b031f833fb6a06baf31f6cf66cf6",
+          "observed_at_utc": "2026-09-14T13:46:46.952370+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[6]",
+          "relationship": "recommendation_or_list",
+          "author_name": "科普课堂-AIGC",
+          "author_sec_uid": "MS4wLjABAAAAJY21R3XkMNB3Ko-sbcLuP3rHqnfw7m61xSB7XoXxQ3U",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "挑战100节AI课程 今日教你账号矩阵 #ai#AI教学#AI生图#抖音小助手dou上热门",
+          "published_at_unix": 1779465600,
+          "duration_ms": 120419,
+          "likes": 23,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 622,
+          "platform_asr_sha256": "28ccf876aeeda52f9ebc7b90643b87701bf1050176ffddd61ba22439bd866640"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7657085068220943679",
+      "canonical_url": "https://www.douyin.com/video/7657085068220943679",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7314025932749146164",
+          "source_snapshot_sha256": "4c84ee44a8d4418d9df357c1c00c1930f2c0b031f833fb6a06baf31f6cf66cf6",
+          "observed_at_utc": "2026-09-14T13:46:46.952370+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[7]",
+          "relationship": "recommendation_or_list",
+          "author_name": "老曹的Ai公众号规则",
+          "author_sec_uid": "MS4wLjABAAAAk1jnUCCFWCFKYSyIR--IJS3_c5oWSzSWXHuHWU1lI4g",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "矩阵号限流不是因为号多！ 矩阵号福音到了！三层机制解决！#公众号运营 #公众号流量主 #公众号流量主矩阵怎么做 #公众号流量主怎么做",
+          "published_at_unix": 1782804051,
+          "duration_ms": 159986,
+          "likes": 33,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 1015,
+          "platform_asr_sha256": "b90694ef30dd199c414bec0e98a0a5c715e993f602ce2d4d64128dce450e3038"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7473093159707348235",
+      "canonical_url": "https://www.douyin.com/video/7473093159707348235",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.mainVideo",
+          "relationship": "main",
+          "author_name": "进击的李同学（重庆小班9月）",
+          "author_sec_uid": "MS4wLjABAAAAQ_bgnEh8ss-9U62jQeE3Na8vi5ls0du0JR4lTgogp_kPIzJMOaVyDDuiY8TlcLCH",
+          "author_uid": "2686861114358302",
+          "identity_basis": "awemeInfo.authorInfo",
+          "title": "一分钟学会如何用Deepseek生产出80分的脚本！ #重庆新媒体运营 #短视频运营 #干货分享 #Deepseek #Deepseek教程",
+          "published_at_unix": 1739967564,
+          "duration_ms": 154344,
+          "likes": 2429,
+          "main_named_stats": {
+            "commentCount": 289,
+            "diggCount": 2429,
+            "shareCount": 638,
+            "playCount": 0,
+            "collectCount": 2379,
+            "downloadCount": 40,
+            "forwardCount": 0,
+            "liveWatchCount": 0,
+            "recommendCount": 0
+          },
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7533826795922951481",
+      "canonical_url": "https://www.douyin.com/video/7533826795922951481",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[0]",
+          "relationship": "recommendation_or_list",
+          "author_name": "AI（实体店赋能）起号事务所—老张",
+          "author_sec_uid": "MS4wLjABAAAAsOAl6HWJOmyc89a-ih429XXVVxBs_jkMhcRqH6uAF9g",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "1分钟时间教会你如何用DeepSeek，和出爆款选题和爆款文案#知识分享 #DeepSeep #ai #智能体",
+          "published_at_unix": 1754105745,
+          "duration_ms": 73134,
+          "likes": 563,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7595209849560375226",
+      "canonical_url": "https://www.douyin.com/video/7595209849560375226",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[1]",
+          "relationship": "recommendation_or_list",
+          "author_name": "大哲瞎叨叨",
+          "author_sec_uid": "MS4wLjABAAAAO42-2ekrBSQW0ubBRH0nn4HfLYRGXLXtF4B81NovN-k",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "用豆包加deepseek，复刻爆款，把全网爆款为我所用#豆包 #deepseek #自媒体干货 #口播短视频知识分享",
+          "published_at_unix": 1768397598,
+          "duration_ms": 45400,
+          "likes": 305,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 367,
+          "platform_asr_sha256": "9966c4816817ed35fe11b1bceb5b6306106b2a512d4f8acf605e4400eb5bf647"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7474989508639935770",
+      "canonical_url": "https://www.douyin.com/video/7474989508639935770",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[2]",
+          "relationship": "recommendation_or_list",
+          "author_name": "卡卡笔记",
+          "author_sec_uid": "MS4wLjABAAAASDDh5yVI4QGt2aRxLqrYbmkHybVjjZ1DEvW0VFyxTuXipSZz6dN3olEB9PtR3WQf",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "Deepseek3分钟生成爆款今日头条文案 #热点新闻事件 #热点 #Deepseek  #AI #今日头条",
+          "published_at_unix": 1740406994,
+          "duration_ms": 47067,
+          "likes": 509,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7467137660239236410",
+      "canonical_url": "https://www.douyin.com/video/7467137660239236410",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[3]",
+          "relationship": "recommendation_or_list",
+          "author_name": "苏酒儿电商",
+          "author_sec_uid": "MS4wLjABAAAA5ILAQnRBbyfWEUdsoWp23V_jmZEWK0gCTiev4Or7OR8",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "如何用Deepseek写出优质短视频投流文案 #互联网 #电商 #电商干货 #deepseek 真的太强大了！",
+          "published_at_unix": 1738578481,
+          "duration_ms": 93901,
+          "likes": 5206,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7473165838434962742",
+      "canonical_url": "https://www.douyin.com/video/7473165838434962742",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[4]",
+          "relationship": "recommendation_or_list",
+          "author_name": "小法的工具库",
+          "author_sec_uid": "MS4wLjABAAAAvIhwQNHXbEusH2ASIQy9sh8wvHkdTKCIL_p9SVxkamI",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "DeepSeek十分钟生成百万级账号文案  看视频，不多说#deepseek #ip孵化 #deepseek文案 #douscript #自媒体",
+          "published_at_unix": 1739982054,
+          "duration_ms": 28817,
+          "likes": 397,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7465909044528614719",
+      "canonical_url": "https://www.douyin.com/video/7465909044528614719",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[5]",
+          "relationship": "recommendation_or_list",
+          "author_name": "阿梓闯德国",
+          "author_sec_uid": "MS4wLjABAAAAn_B8iRtdBaNABxCuRjWVSnE6AdCCRrtSKClgNNQXs6TZ9yyR56WJSnzadZOpD3qE",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "如何3步用DeepSeek写出百万播放爆款文案 【保姆级实战教程】#人工智能 #实战AI #deepseek",
+          "published_at_unix": 1738292551,
+          "duration_ms": 113105,
+          "likes": 1839,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7468619011345960242",
+      "canonical_url": "https://www.douyin.com/video/7468619011345960242",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[6]",
+          "relationship": "recommendation_or_list",
+          "author_name": "木木六",
+          "author_sec_uid": "MS4wLjABAAAA3oAEH38ZDcevNn9-2MEJ_avFFhiWlxcLCoMwqIu9NVZZgoRD7bV3GpSu1t-lho0J",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "普通人可以用deepseek干什么 deepseek+任何软件都是王炸 满血deepseek 671b  文案 脚本 作图 #干货分享 #deepseek #利用deepseek可以做什么 #创业 #经验分享",
+          "published_at_unix": 1738923393,
+          "duration_ms": 86034,
+          "likes": 352,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7466797947091537206",
+      "canonical_url": "https://www.douyin.com/video/7466797947091537206",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[7]",
+          "relationship": "recommendation_or_list",
+          "author_name": "有点东西喔",
+          "author_sec_uid": "MS4wLjABAAAAow4E8yCjItAOlvffFkkCb_1GfMRNsM5Og4e--Ze8dU4",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "用deepseek写短视频文案真的很炸裂！重点还是免费的！#深度测评deepseek  #如何把DeepSeek训练成精 #利用deepseek可以做什么 #deepseek #ai",
+          "published_at_unix": 1738499400,
+          "duration_ms": 76567,
+          "likes": 1532,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7473847493411802406",
+      "canonical_url": "https://www.douyin.com/video/7473847493411802406",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[8]",
+          "relationship": "recommendation_or_list",
+          "author_name": "扬名Ai创业",
+          "author_sec_uid": "MS4wLjABAAAAAfEpJG-F1GECWc4DEwF50Ou2mCG9rG-AtWexA7AqU2k",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "如何利用Deep seek 改写爆款文案，Deepseek+豆包+数字人就是王炸组合#疯狂运营官#Ai剪辑#Deepseek#工作流程 #扣子工作流",
+          "published_at_unix": 1740140732,
+          "duration_ms": 185070,
+          "likes": 4044,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7636995101549399350",
+      "canonical_url": "https://www.douyin.com/video/7636995101549399350",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[9]",
+          "relationship": "recommendation_or_list",
+          "author_name": "揪揪ai",
+          "author_sec_uid": "MS4wLjABAAAAZFru3_DjK3n31q0D6E13eJN6Q6-cP2XaLAduUoRgV71XQkgqZKZfBbvLutUaq1BK",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "Deepseek 润色自媒体文案的完整指令 #ai #aigc #教程 #新手 #创业",
+          "published_at_unix": 1778144400,
+          "duration_ms": 21015,
+          "likes": 30069,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7617415414137861587",
+      "canonical_url": "https://www.douyin.com/video/7617415414137861587",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[10]",
+          "relationship": "recommendation_or_list",
+          "author_name": "岛花佩佩",
+          "author_sec_uid": "MS4wLjABAAAAJ5G0pPmGfftwAjTtQWXWjJNYG4S5ccu_l_dbVfWM3rit4oX7dPfJB3zkIMe2TIQS",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "替你们试过了，deepseek写的文案真能出爆款#deepseek #deepseek是什么东西 #deepseek做自媒体 #岛花佩佩 #deepseek写文案",
+          "published_at_unix": 1773567735,
+          "duration_ms": 232773,
+          "likes": 16,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": true,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7490378618523192585",
+      "canonical_url": "https://www.douyin.com/video/7490378618523192585",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[11]",
+          "relationship": "recommendation_or_list",
+          "author_name": "二狗学Ai",
+          "author_sec_uid": "MS4wLjABAAAA5_OP115ZeE8m3Y-uuCGJO3h934aispyCb1E7F6yiaoxHzxGrA6QxlW5k8wBXajLH",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "DeepSeek +豆包，99%的人都不知道的玩法，赶紧收藏起来，有了它还愁你的文案不是爆款#利用deepseek可以做什么 #豆包ai怎么使用 #网络学习 #自媒体干货",
+          "published_at_unix": 1743989713,
+          "duration_ms": 38383,
+          "likes": 18345,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7602680920771994761",
+      "canonical_url": "https://www.douyin.com/video/7602680920771994761",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[12]",
+          "relationship": "recommendation_or_list",
+          "author_name": "李小咔",
+          "author_sec_uid": "MS4wLjABAAAADCB_J5r2IjIf-FLuafVVil2WjOFq65Jm1oT-y_byhKdnf5j1sgRGIrIfPCzWFwcS",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "deepseek真的能出爆款！替你们试过了 #ai #ai自媒体 #自媒体运营 #爆款脚本",
+          "published_at_unix": 1770287700,
+          "duration_ms": 74489,
+          "likes": 1735,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 542,
+          "platform_asr_sha256": "ebb7ba59088598eb3286802de12c903d3274f77f5de40da410e49bb705f4f368"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7474104791128345893",
+      "canonical_url": "https://www.douyin.com/video/7474104791128345893",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[13]",
+          "relationship": "recommendation_or_list",
+          "author_name": "腾怼怼",
+          "author_sec_uid": "MS4wLjABAAAA23h4xc3YWnxMC9srlfmojGzLgumgiyItllnZ6YZL00sHs9bIpzhU1ugfnRGqsfwO",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "第2期｜Deepseek+小红书批量产出爆款笔记 不会写文案，不会做图片也能每天产出100条文案#干货分享 #自媒体 #利用deepseek可以做什么 #Ai",
+          "published_at_unix": 1740200650,
+          "duration_ms": 208003,
+          "likes": 429,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7576314429353458870",
+      "canonical_url": "https://www.douyin.com/video/7576314429353458870",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[14]",
+          "relationship": "recommendation_or_list",
+          "author_name": "Ai先生",
+          "author_sec_uid": "MS4wLjABAAAANZ3j3AWf1hL2bd_FN3W2beGsc31ooViuS0dO__uY8Nw",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "发复杂的不看，那就发更简单的 #AI先生 #AI用法 #豆包 #DeepSeek",
+          "published_at_unix": 1763998170,
+          "duration_ms": 42911,
+          "likes": 2123,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7469339586859191591",
+      "canonical_url": "https://www.douyin.com/video/7469339586859191591",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[15]",
+          "relationship": "recommendation_or_list",
+          "author_name": "76339025517",
+          "author_sec_uid": "MS4wLjABAAAAM_JHxxk3O0WEPvm8o4nPiGVQ_M75KIvUMoeb93VolIgv0xCKDs6pfT71fbpVKbdy",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "deepseek 太高产了! 分分钟搞定爆款文案 #小红书 #电商创业 #电商人 #小红书运营#小红书开店",
+          "published_at_unix": 1739091164,
+          "duration_ms": 52569,
+          "likes": 190,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7465317975483108659",
+      "canonical_url": "https://www.douyin.com/video/7465317975483108659",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[16]",
+          "relationship": "recommendation_or_list",
+          "author_name": "萌萌IP流量获客",
+          "author_sec_uid": "MS4wLjABAAAAxk161QTYStSjVjhQbS6jRt6vm6Rtni7QAEWlKn0vjIiZHxhuwp9NU8VuG95NUxim",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "用deepseek，把热门图文，爆改成口播文案稿的教程来了！ #AI提效 #IP孵化 #账号陪跑 #IP打造 #用AI打造IP",
+          "published_at_unix": 1738155551,
+          "duration_ms": 59767,
+          "likes": 3307,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7474236518823939386",
+      "canonical_url": "https://www.douyin.com/video/7474236518823939386",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[17]",
+          "relationship": "recommendation_or_list",
+          "author_name": "美业人-洋帆",
+          "author_sec_uid": "MS4wLjABAAAAVB9O-R8D_wh6nRXYwALbZ65G42OmwnoLKcNy2EkjZbFIiaGvGC0rx2MxbDtVUITz",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "美业人如何使用deepseek出爆款文案#美业人 #deepseek #利用deepseek可以做什么",
+          "published_at_unix": 1740231306,
+          "duration_ms": 83834,
+          "likes": 20,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7469439189797440825",
+      "canonical_url": "https://www.douyin.com/video/7469439189797440825",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7644393111137011758",
+          "source_snapshot_sha256": "44cc9e5b8dbc0fa0020904b79fdd77be721a572c62b6296cf401e497219db9a8",
+          "observed_at_utc": "2026-09-14T13:46:47.749516+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[18]",
+          "relationship": "recommendation_or_list",
+          "author_name": "云飞 深创院",
+          "author_sec_uid": "MS4wLjABAAAATss_Og50jhO4uFZQCY5F6d09LlnJ_at6bamVlFWgOVY",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "别让AI写废话！5分钟调出爆款文案的DeepSeek #创业 #利用deepseek可以做什么 #创始人ip #企业老板",
+          "published_at_unix": 1739114350,
+          "duration_ms": 31185,
+          "likes": 34,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7638560999456460067",
+      "canonical_url": "https://www.douyin.com/video/7638560999456460067",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.mainVideo",
+          "relationship": "main",
+          "author_name": "如玉说电商",
+          "author_sec_uid": "MS4wLjABAAAArNoVP-Qg5pXrN3Tjjq9nANilUZ1OWDa39n-SNLUuPMo",
+          "author_uid": "71876979895",
+          "identity_basis": "awemeInfo.authorInfo",
+          "title": "如何用豆包高效写出素材脚本#电商#全域素材 ",
+          "published_at_unix": 1778491080,
+          "duration_ms": 132656,
+          "likes": 1,
+          "main_named_stats": {
+            "commentCount": 3,
+            "diggCount": 1,
+            "shareCount": 2,
+            "playCount": 0,
+            "collectCount": 4,
+            "downloadCount": 0,
+            "forwardCount": 0,
+            "liveWatchCount": 0,
+            "recommendCount": 0
+          },
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 747,
+          "platform_asr_sha256": "cf393f79415451d67fc9f3690d17b0d44596514dc3b0ae1a9ec3abf066efae8e"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7625064816213871908",
+      "canonical_url": "https://www.douyin.com/video/7625064816213871908",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[0]",
+          "relationship": "recommendation_or_list",
+          "author_name": "大实话宝儿姐小号",
+          "author_sec_uid": "MS4wLjABAAAA7MK1s148qyIv9NBbEIRJ62Z_NMJnPp67cyOyiXGL8KUM3o9F3AiY6b3pk678WwPL",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "故事脚本简易版 出一期简易版的故事脚本 内容有点多 建议先收藏#故事 #人设 #老板ip",
+          "published_at_unix": 1775348758,
+          "duration_ms": 157334,
+          "likes": 3058,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": true,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7598078142289772662",
+      "canonical_url": "https://www.douyin.com/video/7598078142289772662",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[1]",
+          "relationship": "recommendation_or_list",
+          "author_name": "天天校长",
+          "author_sec_uid": "MS4wLjABAAAAtKykodKTwgNFA4BfzbT5bcSRt3hHTSc7Dlr-Si86iBE",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "一分钟之后，你会拥有无限创造爆款脚本文案的能力#豆包 #干货分享 #教培",
+          "published_at_unix": 1769076000,
+          "duration_ms": 42122,
+          "likes": 5281,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 267,
+          "platform_asr_sha256": "27c41d46efd1e1f0a4c2beb9e0c2d6ab83ce361ce6b0061f19f9c3c948a60278"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7631231414524622713",
+      "canonical_url": "https://www.douyin.com/video/7631231414524622713",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[2]",
+          "relationship": "recommendation_or_list",
+          "author_name": "静静教主",
+          "author_sec_uid": "MS4wLjABAAAAb08tGwYIIVCzo9rpV-LnMNvmadUZPHzP1zbEMCDpYuQ",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "如何用AI写出爆款脚本 用AI去创作出有个人特性的原创性内容～#豆包ai",
+          "published_at_unix": 1776850199,
+          "duration_ms": 185271,
+          "likes": 1004,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": true,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7633003606392272305",
+      "canonical_url": "https://www.douyin.com/video/7633003606392272305",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[3]",
+          "relationship": "recommendation_or_list",
+          "author_name": "九斤-全域素材破局流量（9月有课）",
+          "author_sec_uid": "MS4wLjABAAAAHHQRrbETDLngAOmY6zSumk9h-wfsnJBlTDpRvwyrqfI",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "如何用豆包写出优质的素材脚本#九斤全域素材",
+          "published_at_unix": 1777197143,
+          "duration_ms": 94367,
+          "likes": 1613,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 652,
+          "platform_asr_sha256": "9bf540034cd7dc197ea8ddfa0c424ab1097ee4504f842dfa2c8223370c2a1653"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7633391988489850153",
+      "canonical_url": "https://www.douyin.com/video/7633391988489850153",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[4]",
+          "relationship": "recommendation_or_list",
+          "author_name": "如玉说电商",
+          "author_sec_uid": "MS4wLjABAAAArNoVP-Qg5pXrN3Tjjq9nANilUZ1OWDa39n-SNLUuPMo",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "4月27日 (1) 如何用豆包写出优质的素材脚本",
+          "published_at_unix": 1777287576,
+          "duration_ms": 123438,
+          "likes": 6,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 668,
+          "platform_asr_sha256": "097902fc0ffb288b3b0fd1aad04ce80b500d8cc5f23a2199cb379eae337fb870"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7637062223709359379",
+      "canonical_url": "https://www.douyin.com/video/7637062223709359379",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[5]",
+          "relationship": "recommendation_or_list",
+          "author_name": "如玉说电商",
+          "author_sec_uid": "MS4wLjABAAAArNoVP-Qg5pXrN3Tjjq9nANilUZ1OWDa39n-SNLUuPMo",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "不同段位素材编导如何用豆包写脚本 ",
+          "published_at_unix": 1778142118,
+          "duration_ms": 91975,
+          "likes": 3,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 585,
+          "platform_asr_sha256": "70bda16a84d65427c43d2df929be78a1abf8ffe478ed43fa53ff9b768eef8c4f"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7597424077268547705",
+      "canonical_url": "https://www.douyin.com/video/7597424077268547705",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[6]",
+          "relationship": "recommendation_or_list",
+          "author_name": "刘不刘",
+          "author_sec_uid": "MS4wLjABAAAAolNHPJ_UHVS6BGvNSiJ0KM0_KZpPkLz6k46A47NsgjpLqI4BlncngSnrUDB0NnYF",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "不知道发什么，那就把你刷到的给豆包吧，指令给你，怎么用都可以！#干货 #ai做抖音 #自媒体运营",
+          "published_at_unix": 1768913140,
+          "duration_ms": 76787,
+          "likes": 77,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 468,
+          "platform_asr_sha256": "7b681fd336fd2eb840835ff3b52ec72bc42993d66de96f6b20f5e4de89bb321c"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7621106456636530171",
+      "canonical_url": "https://www.douyin.com/video/7621106456636530171",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[7]",
+          "relationship": "recommendation_or_list",
+          "author_name": "老娘",
+          "author_sec_uid": "MS4wLjABAAAA854CYIj4RFJJF5qIlzE_E68A_vvsBKpaVSykfB1nd22x8myRNJCrA097OdFELPWw",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "天呐！带货脚本原来可以这么搞？豆包进阶用法太绝了 #短视频带货 #脚本技巧 #豆包 #新手带货",
+          "published_at_unix": 1774427122,
+          "duration_ms": 114067,
+          "likes": 56,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7637845969786260771",
+      "canonical_url": "https://www.douyin.com/video/7637845969786260771",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[8]",
+          "relationship": "recommendation_or_list",
+          "author_name": "进击的李同学（重庆小班9月）",
+          "author_sec_uid": "MS4wLjABAAAAQ_bgnEh8ss-9U62jQeE3Na8vi5ls0du0JR4lTgogp_kPIzJMOaVyDDuiY8TlcLCH",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "不同工资的编导，都是怎么用豆包写脚本的#编导 #新媒体运营 #ai #豆包",
+          "published_at_unix": 1778324606,
+          "duration_ms": 96271,
+          "likes": 619,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 648,
+          "platform_asr_sha256": "2340f5d561431be3c179036ac190d535673fddf3a63019ea5320c48f539d5333"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7636368112976042853",
+      "canonical_url": "https://www.douyin.com/video/7636368112976042853",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[9]",
+          "relationship": "recommendation_or_list",
+          "author_name": "九斤-全域素材破局流量（9月有课）",
+          "author_sec_uid": "MS4wLjABAAAAHHQRrbETDLngAOmY6zSumk9h-wfsnJBlTDpRvwyrqfI",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "不同段位用豆包来写脚本（可以代入你的类目）#九斤全域素材",
+          "published_at_unix": 1777980503,
+          "duration_ms": 94900,
+          "likes": 609,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 600,
+          "platform_asr_sha256": "821f4e04d36fa56dda485391962e4b816ac67a23d72fbae85c69a4facd93d8d9"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7638266678635287930",
+      "canonical_url": "https://www.douyin.com/video/7638266678635287930",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[10]",
+          "relationship": "recommendation_or_list",
+          "author_name": "九斤-全域素材破局流量（9月有课）",
+          "author_sec_uid": "MS4wLjABAAAAHHQRrbETDLngAOmY6zSumk9h-wfsnJBlTDpRvwyrqfI",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "如何用豆包来写出高效的素材脚本#九斤全域素材",
+          "published_at_unix": 1778422547,
+          "duration_ms": 97967,
+          "likes": 3853,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 706,
+          "platform_asr_sha256": "45520962671086171afc79cccccc853055bb9162be05195cc0c8ae81db9584ad"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7624850454983531684",
+      "canonical_url": "https://www.douyin.com/video/7624850454983531684",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[11]",
+          "relationship": "recommendation_or_list",
+          "author_name": "实干的KK",
+          "author_sec_uid": "MS4wLjABAAAApqmx-xoDewSDJk2M_-GfT-V0jiFrzruvLTI9KnzDsYg",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "别再瞎做账号了，AI做内容效率真的高 还在自己摸索做账号、写文案、拍视频？\n这套AI+豆包全流程玩法，从直播话术、短视频脚本、配图、配音到朋友圈文案、转化话术，一键全部搞定，新手小白也能轻松上手做内容、做运营。\n简单、落地、可复制，少走弯路，效率翻倍。\n#AI做账号 #自媒体干货 #豆包用法 #短视频运营 #豆包",
+          "published_at_unix": 1775298840,
+          "duration_ms": 88561,
+          "likes": 267,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 467,
+          "platform_asr_sha256": "eaab881ef92babce1d9f79c716927a1385ffd152245981c788d062bbb2878707"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7629335192775460709",
+      "canonical_url": "https://www.douyin.com/video/7629335192775460709",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[12]",
+          "relationship": "recommendation_or_list",
+          "author_name": "九斤-全域素材破局流量（9月有课）",
+          "author_sec_uid": "MS4wLjABAAAAHHQRrbETDLngAOmY6zSumk9h-wfsnJBlTDpRvwyrqfI",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "如何约束豆包写脚本的不稳定性#九斤全域素材",
+          "published_at_unix": 1776343024,
+          "duration_ms": 60800,
+          "likes": 158,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 376,
+          "platform_asr_sha256": "e257a38cb43391f530a44fa9e5b480fb3e25bd333d53b3648211434ad69b8a22"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7630658908188626239",
+      "canonical_url": "https://www.douyin.com/video/7630658908188626239",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[13]",
+          "relationship": "recommendation_or_list",
+          "author_name": "黑七七的科技生活",
+          "author_sec_uid": "MS4wLjABAAAA37Dc4Es03jCxSZGRYg8ZtSCh8EnWzlbP6Krr874qqpQ",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "豆包帮我写作太好用！文案秒出不费脑!思路卡顿、写作没灵感，交给它轻松搞定，效率直接拉满!#豆包",
+          "published_at_unix": 1776679201,
+          "duration_ms": 93934,
+          "likes": 11976,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 588,
+          "platform_asr_sha256": "ab3b830ca298ded1c68c9b2b28b0cbd3468bcefcb4f1b54c4009641b5840c94d"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7637550675690025955",
+      "canonical_url": "https://www.douyin.com/video/7637550675690025955",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[14]",
+          "relationship": "recommendation_or_list",
+          "author_name": "蔓蔓教剪辑",
+          "author_sec_uid": "MS4wLjABAAAAgAcHCN3b-jtYpB3CZuU1jrBkdaHE_7L2o40XL219_srpZm0wA7ql92DTiuqM3mAx",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "用豆包加剪映生成名人故事视频 #剪辑 #豆包 #剪映教程 #视频剪辑教程",
+          "published_at_unix": 1778255840,
+          "duration_ms": 331367,
+          "likes": 50,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": true,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7629009559566273811",
+      "canonical_url": "https://www.douyin.com/video/7629009559566273811",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[15]",
+          "relationship": "recommendation_or_list",
+          "author_name": "正帅学长",
+          "author_sec_uid": "MS4wLjABAAAATfbcCLprYQJDqkt4INEsNey_UjnPVPex133kivfXaoM3M3OOZ7o5yGPbn_mgJLnq",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "用豆包只需要三步就可以轻松搞定电商带货微短剧脚本#电商带货 #微短剧 #千川投流 #全域推广 #爆款素材",
+          "published_at_unix": 1777109520,
+          "duration_ms": 69289,
+          "likes": 77,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 397,
+          "platform_asr_sha256": "620d26fb93a66da68c2e32de1fd20d19605264a2565be861822d7097485fbe27"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7636423557743950245",
+      "canonical_url": "https://www.douyin.com/video/7636423557743950245",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[16]",
+          "relationship": "recommendation_or_list",
+          "author_name": "天才小户",
+          "author_sec_uid": "MS4wLjABAAAA6Ve6YYK99NTWU5Udc3vbNjthska4PDsgcUrQuPInUXk",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "如何用豆包生成文案？盘点实体店做视频的15个进店理由和8大爆款元素#短视频运营#自媒体干货#新手做短视频",
+          "published_at_unix": 1777993412,
+          "duration_ms": 68034,
+          "likes": 98,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 385,
+          "platform_asr_sha256": "fa9af3c3ad0eff5c32417c26d948be8105d0934fbe51d77d406356ef6941fdb4"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7634114520236148450",
+      "canonical_url": "https://www.douyin.com/video/7634114520236148450",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+          "source_snapshot_sha256": "a468cdbe2bd65a02a790d35baab244d19f7677e66b763889a0c5f63ddfbe5b33",
+          "observed_at_utc": "2026-09-14T13:46:48.771573+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[17]",
+          "relationship": "recommendation_or_list",
+          "author_name": "红衣男孩",
+          "author_sec_uid": "MS4wLjABAAAAsACVXo4Qyxk3lz1XdOgqa38amL5CQRPRP1usgQo4ddjLmZ1NtF4HHF_r9CCulecs",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "如何让AI帮你写文案脚本。#豆包ai #豆包电脑端 #豆包 #写文案 #AI",
+          "published_at_unix": 1777546803,
+          "duration_ms": 85102,
+          "likes": 940,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 561,
+          "platform_asr_sha256": "fef24c19099850f7b77d1c98b0825dd2676d8b06e231649d995be3d90b7bac2b"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7312441928132414771",
+      "canonical_url": "https://www.douyin.com/video/7312441928132414771",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.mainVideo",
+          "relationship": "main",
+          "author_name": "陈姑娘私域高变现",
+          "author_sec_uid": "MS4wLjABAAAAAMu50qsdelgPwWK9eeAE3huhmzQA_7SmlbjrVSMCs1E",
+          "author_uid": "158790549518536",
+          "identity_basis": "awemeInfo.authorInfo",
+          "title": "2024年，知识付费赛道真的凉凉了！#知识付费 #女性创业 #商业思维 #个人ip #赚钱",
+          "published_at_unix": 1702560599,
+          "duration_ms": 105712,
+          "likes": 5,
+          "main_named_stats": {
+            "commentCount": 0,
+            "diggCount": 5,
+            "shareCount": 0,
+            "playCount": 0,
+            "collectCount": 6,
+            "downloadCount": 0,
+            "forwardCount": 0,
+            "liveWatchCount": 0,
+            "recommendCount": 0
+          },
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": true,
+          "platform_asr_characters": 633,
+          "platform_asr_sha256": "eddd4852db84a0ffe3991e709c4d9597e3e9e31a75c5ed9b6d615a6905c8c291"
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": true,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7329756063698406667",
+      "canonical_url": "https://www.douyin.com/video/7329756063698406667",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[0]",
+          "relationship": "recommendation_or_list",
+          "author_name": "陶金金",
+          "author_sec_uid": "MS4wLjABAAAA66hZfTz7DElBpkGjebf6Bw-3dJTVwS0CPb4i0GVYduY",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "2024年入局知识付费行业？？？不建议！！！ #知识付费 #割韭菜 #电商人 #互联网 #生意",
+          "published_at_unix": 1706591840,
+          "duration_ms": 180302,
+          "likes": 630,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7353585738585230618",
+      "canonical_url": "https://www.douyin.com/video/7353585738585230618",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[1]",
+          "relationship": "recommendation_or_list",
+          "author_name": "私域王校长",
+          "author_sec_uid": "MS4wLjABAAAAxTAUTVYSW2kTOSlGA5a0HZXlgM7NKkvvZX548Q7gsLI",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "抖音封杀知识付费？2024转型视频号！做私域才有出路！#私域王校长#知识付费",
+          "published_at_unix": 1712140120,
+          "duration_ms": 328587,
+          "likes": 10,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7352842088758791458",
+      "canonical_url": "https://www.douyin.com/video/7352842088758791458",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[2]",
+          "relationship": "recommendation_or_list",
+          "author_name": "谭师傅Pro",
+          "author_sec_uid": "MS4wLjABAAAA5IXhICnjtOETeUh9-dGc1DmAho0E8DYOh81J2dxub5_mt15AOn24HGeAnKKSYumL",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "2024年，是品质知识付费的一年#个人ip #知识付费#短视频嘴",
+          "published_at_unix": 1711966968,
+          "duration_ms": 135167,
+          "likes": 359,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7368803820123475211",
+      "canonical_url": "https://www.douyin.com/video/7368803820123475211",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[3]",
+          "relationship": "recommendation_or_list",
+          "author_name": "C宾高端咨询",
+          "author_sec_uid": "MS4wLjABAAAAztlMOplyrmxHKeaW60-nvZH0aplpti5J_aIJdtkL8Ww",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "2024年知识付费彻底死了，再不转型就晚了",
+          "published_at_unix": 1715683359,
+          "duration_ms": 51247,
+          "likes": 980,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7309013514436300073",
+      "canonical_url": "https://www.douyin.com/video/7309013514436300073",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[4]",
+          "relationship": "recommendation_or_list",
+          "author_name": "创客匠人",
+          "author_sec_uid": "MS4wLjABAAAAahzvBGFlkJzCag8jNzFC9eQVsgkmQFf1m1fpHtINSXwEuX7mlLKUEqFPbTtYxEes",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "2024年知识付费行业还能做吗？#知识付费 #知识付费小程序开发 #知识付费开发 #知识付费系统 #抖音小助手",
+          "published_at_unix": 1701770400,
+          "duration_ms": 44954,
+          "likes": 6,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7386984655389527296",
+      "canonical_url": "https://www.douyin.com/video/7386984655389527296",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[5]",
+          "relationship": "recommendation_or_list",
+          "author_name": "泽宇商业咨询",
+          "author_sec_uid": "MS4wLjABAAAAdtIxrTNgCE22uJ6VIB-MCBMK-0zZQQlGJK3eG1_0-iO8hOdazzTfSyFdpnjHFula",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "2024还想继续赚钱的，别再做知识付费了 #泽宇咨询 #高客单 ##商业 #创业 #知识付费",
+          "published_at_unix": 1719916419,
+          "duration_ms": 111549,
+          "likes": 608,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7352890022497914139",
+      "canonical_url": "https://www.douyin.com/video/7352890022497914139",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[6]",
+          "relationship": "recommendation_or_list",
+          "author_name": "恬恬知识IP赋能",
+          "author_sec_uid": "MS4wLjABAAAAqT5UvnWvf3olKARxJrDZhAB4dbGTy2Zq6l-3Myp9jp0",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "普通人做知识付费，收入翻3倍的玩法#知识付费 #知识变现 #个人ip #自媒体 #个人老师",
+          "published_at_unix": 1711978123,
+          "duration_ms": 178733,
+          "likes": 5,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7338823643213991220",
+      "canonical_url": "https://www.douyin.com/video/7338823643213991220",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[7]",
+          "relationship": "recommendation_or_list",
+          "author_name": "管管Tk创就业训练营",
+          "author_sec_uid": "MS4wLjABAAAACgAl2f2HS1B5cdXBu65sGAdCkTgUyNP7rORxNCZokvA",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "2024年再靠卖课，卖信息差割韭菜赚钱已经行不通了！终于迎来实操派的天下！#新媒体运营 #李一舟 #管培生培训 #人工智能",
+          "published_at_unix": 1708703042,
+          "duration_ms": 91825,
+          "likes": 112,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7377301167740652839",
+      "canonical_url": "https://www.douyin.com/video/7377301167740652839",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[8]",
+          "relationship": "recommendation_or_list",
+          "author_name": "连老师（知识IP直播运营）",
+          "author_sec_uid": "MS4wLjABAAAA391ZDPyZKhjVXsPl4F2ZjoB3cjFUVovtrjcW8hgDsf1JdL8o5Vz2SaoQiv1zE2KQ",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "2024下半年知识付费破局大招！三招让你稳定收益！ 知识付费还能做吗？\n怎么引流？怎么更好变现？\n怎么快速变现？怎么更好转化？\n不能上架怎么办？\n上架不了小黄车怎么办？\n苹果手机看不到怎么办？\n卖不出去课怎么办？\n#知识付费 #卖课 #卖课话术 #卖课新规 #卖课老师 #直播",
+          "published_at_unix": 1717661783,
+          "duration_ms": 344818,
+          "likes": 80,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7356546823701499170",
+      "canonical_url": "https://www.douyin.com/video/7356546823701499170",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[9]",
+          "relationship": "recommendation_or_list",
+          "author_name": "田一珺-知课教育信息咨询",
+          "author_sec_uid": "MS4wLjABAAAAIdnHtt5PIeVsI-QzhAT5ocbA6wIlm9SFa6OkFMdaYpG7leY5aTtcZq_b83J2-FZn",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "知识博主最后的机会：AI超级个体打法！#知识付费 #知识变现 #做课 #人工智能",
+          "published_at_unix": 1712829549,
+          "duration_ms": 191751,
+          "likes": 26,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7311364105309408575",
+      "canonical_url": "https://www.douyin.com/video/7311364105309408575",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[10]",
+          "relationship": "recommendation_or_list",
+          "author_name": "泽宇商业咨询",
+          "author_sec_uid": "MS4wLjABAAAAdtIxrTNgCE22uJ6VIB-MCBMK-0zZQQlGJK3eG1_0-iO8hOdazzTfSyFdpnjHFula",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "2024年知识付费如何继续赚大钱？这条视频给你答案 #锁定高端 #泽宇咨询 #老板思维 #知识付费 #商业",
+          "published_at_unix": 1702309670,
+          "duration_ms": 169576,
+          "likes": 612,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": true,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7347918925377604904",
+      "canonical_url": "https://www.douyin.com/video/7347918925377604904",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[11]",
+          "relationship": "recommendation_or_list",
+          "author_name": "泽宇专注高客单",
+          "author_sec_uid": "MS4wLjABAAAA09ac_acHBBwvtkQuKXIfBnUiS6kt0dQp5mN-TLlsd_k",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "2024，知识付费真的快凉凉了... #自媒体 #知识付费 #商业思维 #知识创作人",
+          "published_at_unix": 1710820724,
+          "duration_ms": 72472,
+          "likes": 3,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7342457794622213427",
+      "canonical_url": "https://www.douyin.com/video/7342457794622213427",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[12]",
+          "relationship": "recommendation_or_list",
+          "author_name": "刘哲涛 内容营销战略",
+          "author_sec_uid": "MS4wLjABAAAAid3TQ_w71lXj2QyK3xyJIAebWHRU0lngF8jHeNvZN3M",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "2024年知识付费有很多好的项目 #文旅 #家居 #知识付费 #老板思维 #商业认知",
+          "published_at_unix": 1709549193,
+          "duration_ms": 110458,
+          "likes": 236,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    },
+    {
+      "work_id": "7346936637386968329",
+      "canonical_url": "https://www.douyin.com/video/7346936637386968329",
+      "observations": [
+        {
+          "source_url": "https://www.douyin.com/shipin/7340220889704794150",
+          "source_snapshot_sha256": "615a567d33f4aaea906ca02b6a3a54f79ba6643ed08e28e3317266f400f9e522",
+          "observed_at_utc": "2026-09-14T13:50:53.419436+00:00",
+          "source_json_path": "frame:7[3].shipin.relatedRecommend[13]",
+          "relationship": "recommendation_or_list",
+          "author_name": "美迪（9月线下课）",
+          "author_sec_uid": "MS4wLjABAAAAKC5wl4BfXrMVHooFrzZV8fYEKoPXEIQno-efiSois6mOFvpqd_OEVScBmEJtU3Lm",
+          "author_uid": null,
+          "identity_basis": "card profile link/ID",
+          "title": "2024年知识付费如何持续增长？#创始人ip #流量变现 #知识付费",
+          "published_at_unix": 1710591995,
+          "duration_ms": 46184,
+          "likes": 197,
+          "main_named_stats": null,
+          "views": null,
+          "monetization_verified": false,
+          "platform_asr_reference_unresolved": false,
+          "platform_asr_available": false,
+          "platform_asr_characters": 0,
+          "platform_asr_sha256": null
+        }
+      ],
+      "original_video_viewed": false,
+      "asr_audio_verified": false,
+      "human_or_assistant_text_read": false,
+      "deep_analysis_complete": false
+    }
+  ]
+}

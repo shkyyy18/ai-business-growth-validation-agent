@@ -1,0 +1,210 @@
+[
+  {
+    "source_url": "https://www.douyin.com/shipin/7638804155687012362",
+    "checked_at_utc": "2026-09-14T13:45:07.998677+00:00",
+    "authentication_sent": false,
+    "original_video_viewed": false,
+    "http_status": 200,
+    "bytes": 1048658,
+    "sha256": "491c114f9b9b189665787be38f4f72fe51002959d9ad09d8e639e8d7fd2040f4",
+    "truncated": false,
+    "candidates": [
+      {
+        "source_json_path": "frame:7[3].shipin.mainVideo",
+        "link_card": {
+          "text": "如何用豆包高效写出素材脚本#电商#全域素材 ",
+          "nickname": "如玉说电商",
+          "videoUrl": "https://www.douyin.com/video/7638560999456460067",
+          "duration": 132656,
+          "updateTS": 1778491080,
+          "diggCount": 1
+        }
+      },
+      {
+        "awemeId": "7638560999456460067",
+        "awemeType": 0,
+        "desc": "如何用豆包高效写出素材脚本#电商#全域素材 ",
+        "itemTitle": "如何用豆包高效写出素材脚本#电商#全域素材",
+        "createTime": 1778491080,
+        "stats": {
+          "commentCount": 3,
+          "diggCount": 1,
+          "shareCount": 2,
+          "playCount": 0,
+          "collectCount": 4,
+          "downloadCount": 0,
+          "forwardCount": 0,
+          "liveWatchCount": 0,
+          "recommendCount": 0
+        },
+        "author": {
+          "uid": "71876979895",
+          "secUid": "MS4wLjABAAAArNoVP-Qg5pXrN3Tjjq9nANilUZ1OWDa39n-SNLUuPMo",
+          "nickname": "如玉说电商",
+          "followerCount": 1642,
+          "totalFavorited": 20562
+        },
+        "source_json_path": "frame:7[3].shipin.awemeInfo",
+        "text_fields": {}
+      }
+    ],
+    "visible_text_length": 26073,
+    "frame_count": 15
+  },
+  {
+    "source_url": "https://www.douyin.com/shipin/7368683658120661004",
+    "checked_at_utc": "2026-09-14T13:45:09.046923+00:00",
+    "authentication_sent": false,
+    "original_video_viewed": false,
+    "http_status": 200,
+    "bytes": 952014,
+    "sha256": "73618b6dc983c52c4af647ddd5d760724bdf68472844314e6fa3f56f71e95867",
+    "truncated": false,
+    "candidates": [
+      {
+        "source_json_path": "frame:7[3].shipin.mainVideo",
+        "link_card": {
+          "text": "直播应该怎样做复盘#个人ip #知识付费 #商业思维 #干货分享 #创业",
+          "nickname": "清华陈晶工作室",
+          "videoUrl": "https://www.douyin.com/video/7360588595779931443",
+          "duration": 59814,
+          "updateTS": 1713770594,
+          "diggCount": 90
+        }
+      },
+      {
+        "awemeId": "7360588595779931443",
+        "awemeType": 0,
+        "desc": "直播应该怎样做复盘#个人ip #知识付费 #商业思维 #干货分享 #创业",
+        "itemTitle": "",
+        "createTime": 1713770594,
+        "stats": {
+          "commentCount": 2,
+          "diggCount": 90,
+          "shareCount": 11,
+          "playCount": 0,
+          "collectCount": 28,
+          "downloadCount": 0,
+          "forwardCount": 0,
+          "liveWatchCount": 0,
+          "recommendCount": 0
+        },
+        "author": {
+          "uid": "167591868372224",
+          "secUid": "MS4wLjABAAAAEE0joxFJySInVb-ACXHnfcv-DBQWOMomiTsYonkuTW4",
+          "nickname": "清华陈晶工作室",
+          "followerCount": 2314,
+          "totalFavorited": 708
+        },
+        "source_json_path": "frame:7[3].shipin.awemeInfo",
+        "text_fields": {}
+      }
+    ],
+    "visible_text_length": 8774,
+    "frame_count": 10
+  },
+  {
+    "source_url": "https://www.douyin.com/shipin/7284831505413851151",
+    "checked_at_utc": "2026-09-14T13:45:10.103952+00:00",
+    "authentication_sent": false,
+    "original_video_viewed": false,
+    "http_status": 200,
+    "bytes": 1117151,
+    "sha256": "9c8e2ad02debc9fc8f47bf5fd9e3dfd3f34ecfe905b0e34e12210c489c9d991b",
+    "truncated": false,
+    "candidates": [
+      {
+        "source_json_path": "frame:7[3].shipin.mainVideo",
+        "link_card": {
+          "text": "指导敏感、内耗粉丝转行，工作舒适，月薪13000#职业规划 #求职 #转行 #高薪职业 #失业",
+          "nickname": "职场课代表",
+          "videoUrl": "https://www.douyin.com/video/7113032405635697950",
+          "duration": 41495,
+          "updateTS": 1656131917,
+          "diggCount": 1017
+        }
+      },
+      {
+        "awemeId": "7113032405635697950",
+        "awemeType": 0,
+        "desc": "指导敏感、内耗粉丝转行，工作舒适，月薪13000#职业规划 #求职 #转行 #高薪职业 #失业",
+        "itemTitle": "",
+        "createTime": 1656131917,
+        "stats": {
+          "commentCount": 151,
+          "diggCount": 1017,
+          "shareCount": 57,
+          "playCount": 0,
+          "collectCount": 284,
+          "downloadCount": 7,
+          "forwardCount": 0,
+          "liveWatchCount": 0,
+          "recommendCount": 0
+        },
+        "author": {
+          "uid": "2678058326164141",
+          "secUid": "MS4wLjABAAAAROLBcpxoHSvqZRP9wFXyQQULV5NpTnBHl3o2KGlFcFpNUxXLNuqPfu0k7gFOUulW",
+          "nickname": "职场课代表",
+          "followerCount": 75114,
+          "totalFavorited": 534119
+        },
+        "source_json_path": "frame:7[3].shipin.awemeInfo",
+        "text_fields": {}
+      }
+    ],
+    "visible_text_length": 40617,
+    "frame_count": 21
+  },
+  {
+    "source_url": "https://www.douyin.com/shipin/7418432063717574671",
+    "checked_at_utc": "2026-09-14T13:45:11.329648+00:00",
+    "authentication_sent": false,
+    "original_video_viewed": false,
+    "http_status": 200,
+    "bytes": 996012,
+    "sha256": "ba956bc769cbf4a9ae790d86681f3a9d56c425cbbc89bb55661fd15de9317cd5",
+    "truncated": false,
+    "candidates": [
+      {
+        "source_json_path": "frame:7[3].shipin.mainVideo",
+        "link_card": {
+          "text": "什么是消费主义，双十一如何避免陷入消费陷阱 #上热门 #消费 #双十一 #认知 #省钱",
+          "nickname": "omg的精神家园",
+          "videoUrl": "https://www.douyin.com/video/7292614533095443766",
+          "duration": 91291,
+          "updateTS": 1697944146,
+          "diggCount": 44
+        }
+      },
+      {
+        "awemeId": "7292614533095443766",
+        "awemeType": 0,
+        "desc": "什么是消费主义，双十一如何避免陷入消费陷阱 #上热门 #消费 #双十一 #认知 #省钱",
+        "itemTitle": "",
+        "createTime": 1697944146,
+        "stats": {
+          "commentCount": 0,
+          "diggCount": 44,
+          "shareCount": 29,
+          "playCount": 0,
+          "collectCount": 22,
+          "downloadCount": 8,
+          "forwardCount": 0,
+          "liveWatchCount": 0,
+          "recommendCount": 0
+        },
+        "author": {
+          "uid": "732698771225507",
+          "secUid": "MS4wLjABAAAAyaKtdQC0DO-7hSKwShZHTTdB7hD-aMtjNsn7-g0Y4PI",
+          "nickname": "omg的精神家园",
+          "followerCount": 22,
+          "totalFavorited": 122
+        },
+        "source_json_path": "frame:7[3].shipin.awemeInfo",
+        "text_fields": {}
+      }
+    ],
+    "visible_text_length": 15903,
+    "frame_count": 15
+  }
+]

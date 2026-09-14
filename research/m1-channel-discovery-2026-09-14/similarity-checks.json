@@ -1,0 +1,68 @@
+{
+  "method": "Python difflib.SequenceMatcher; autojunk=False; original available platform ASR strings, no text normalization",
+  "pairs": [
+    {
+      "works": [
+        {
+          "work_id": "7633003606392272305",
+          "author_name": "九斤-全域素材破局流量（9月有课）",
+          "likes_snapshot": 1613,
+          "published_at_beijing": "2026-04-26T17:52:23+08:00",
+          "asr_sha256": "9bf540034cd7dc197ea8ddfa0c424ab1097ee4504f842dfa2c8223370c2a1653"
+        },
+        {
+          "work_id": "7633391988489850153",
+          "author_name": "如玉说电商",
+          "likes_snapshot": 6,
+          "published_at_beijing": "2026-04-27T18:59:36+08:00",
+          "asr_sha256": "097902fc0ffb288b3b0fd1aad04ce80b500d8cc5f23a2199cb379eae337fb870"
+        }
+      ],
+      "sequence_match_ratio": 0.9273,
+      "interpretation": "仅为两条平台AI文稿的字符序列相似度；不是语义质量、抄袭概率或法律结论。共同来源/授权/剪辑/曝光未知。",
+      "independence": "候选相似内容簇，行业论据不按两个独立观点计数"
+    },
+    {
+      "works": [
+        {
+          "work_id": "7636368112976042853",
+          "author_name": "九斤-全域素材破局流量（9月有课）",
+          "likes_snapshot": 609,
+          "published_at_beijing": "2026-05-05T19:28:23+08:00",
+          "asr_sha256": "821f4e04d36fa56dda485391962e4b816ac67a23d72fbae85c69a4facd93d8d9"
+        },
+        {
+          "work_id": "7637062223709359379",
+          "author_name": "如玉说电商",
+          "likes_snapshot": 3,
+          "published_at_beijing": "2026-05-07T16:21:58+08:00",
+          "asr_sha256": "70bda16a84d65427c43d2df929be78a1abf8ffe478ed43fa53ff9b768eef8c4f"
+        }
+      ],
+      "sequence_match_ratio": 0.957,
+      "interpretation": "仅为两条平台AI文稿的字符序列相似度；不是语义质量、抄袭概率或法律结论。共同来源/授权/剪辑/曝光未知。",
+      "independence": "候选相似内容簇，行业论据不按两个独立观点计数"
+    },
+    {
+      "works": [
+        {
+          "work_id": "7638266678635287930",
+          "author_name": "九斤-全域素材破局流量（9月有课）",
+          "likes_snapshot": 3853,
+          "published_at_beijing": "2026-05-10T22:15:47+08:00",
+          "asr_sha256": "45520962671086171afc79cccccc853055bb9162be05195cc0c8ae81db9584ad"
+        },
+        {
+          "work_id": "7638560999456460067",
+          "author_name": "如玉说电商",
+          "likes_snapshot": 1,
+          "published_at_beijing": "2026-05-11T17:18:00+08:00",
+          "asr_sha256": "cf393f79415451d67fc9f3690d17b0d44596514dc3b0ae1a9ec3abf066efae8e"
+        }
+      ],
+      "sequence_match_ratio": 0.9319,
+      "interpretation": "仅为两条平台AI文稿的字符序列相似度；不是语义质量、抄袭概率或法律结论。共同来源/授权/剪辑/曝光未知。",
+      "independence": "候选相似内容簇，行业论据不按两个独立观点计数"
+    }
+  ]
+}
