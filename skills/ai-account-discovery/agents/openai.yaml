@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI账号发现与对标研究"
+  short_description: "自动浏览已授权账号与作品，以内容证据筛选AI账号并建立可续查对标池"
+  default_prompt: "使用 $ai-account-discovery 从当前状态继续，自主浏览已授权页面，核验AI账号并给我一批有证据的候选名单。"

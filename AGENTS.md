@@ -70,3 +70,7 @@ Agent 不是单纯的新媒体、内容或 AI 工具 Agent。商业闭环是主�
 6. 用户只说“测试”时，不承诺后台自动执行或自动每日运行；在当前会话中继续下一步。
 
 当前测试进度截至 2026-09-12：Day 1 已完成；Codex 独立与 Codex+Kimi K3 均为 90/90 内容分（运行分 N/A），Kimi 首次 OAuth/DNS 失败后第二次成功；Day 2 尚未开始。详见 `experiments/kimi-abtest/day-1/review.md` 与 `metrics.md`。
+
+## AI账号发现与对标研究 Skill
+
+用户要求读取抖音关注、筛选AI博主、查漏、寻找对标或继续该任务时，先读最新 business/STATE.md，再读 `skills/ai-account-discovery/SKILL.md`，按需读取其 references。复用既有浏览器连接，不重复安装，不以Skill代替工具权限。个人关注关系、账号队列及对标结果仅写 private/douyin-following/；方法和测试记录可写正式研究目录。该路径为项目规则入口。2026-09-15已通过一个真实账号的自动点击、主页/作品读取、返回和保存验收；未证明批量无人值守稳定性，也未声明全局Skill注册。用户说“验收自动点击”时按本Skill检查本轮真实工具，不机械继承历史工具缺失状态。

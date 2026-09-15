@@ -91,3 +91,18 @@ python tools/ai_business_consultant.py run-case experiments/business-advisor-e2e
 当前案例输入：两批公开页面快照与一次既有材料补充阅读，合并135个公开身份、172条作品，62条平台AI文稿已读（涉及42个身份）。这是包含相邻内容的发现池，不是135个合格竞品，也未观看原视频。默认输出在本地 `private/workbench/latest-case/`，不会上传GitHub；已有输出默认拒绝覆盖。命令核对来源并生成N0—N11交接，**不等于行业充分研究、客户交付或商业闭环跑通**。
 
 本轮成果总览见 `experiments/business-advisor-e2e-002/report.md`；实际内容导航见同目录 `content-library.md`，三个研究案例见 `three-worked-research-cases.md`。旧`e2e-001`保留为当时的固定快照。使用边界、直播指标计算及回归测试见 `tools/README.md`。
+
+
+## 项目 Skill：AI账号发现与对标研究
+
+入口：[ai-account-discovery](skills/ai-account-discovery/SKILL.md)。通过项目`AGENTS.md`路由使用，不依赖全局安装。
+
+在本项目会话中可直接说：
+
+> 商业顾问，使用AI账号发现Skill，继续读取我的抖音关注列表，按主页和作品证据筛选AI相关账号，先给我一批校准。
+
+能力：复用已授权浏览器，自主搜索/点击账号、读取主页和作品、区分相似昵称、暂定AI相关性、返回并保存私有断点；具备有限故障恢复和阅读证据分级。账号不凭昵称排除，AI相关性与适合直接对标分别判断。
+
+**验证范围：**2026-09-15真实单账号闭环通过；不是批量无人值守爬虫，不保证全量无遗漏，也不代替完整视频理解。需要当前会话实际提供浏览器交互工具，Skill本身不安装扩展或增加权限。
+
+公开仓库只保存方法、合成测试和脱敏验证说明；用户关注关系、账号名单、原始快照及账号研究结果留在Git忽略的`private/`。详见[验证记录](skills/ai-account-discovery/references/validation.md)。
