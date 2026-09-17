@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "files": {
+    ".gitattributes": "47dfdbdef5ad98e79a7858727a733c7395617e2bda3cfd50db2cc8e692a2d770",
+    ".github/workflows/ci.yml": "09a3b66453074635ab129c9608ecc47bcad0ef51def80b757ace2585e077d320",
+    ".gitignore": "60e3f097a4d9e7f8237ae80b8cf2cb65a560cec8545b4d1af8f9063c5ae0bc50",
+    "AGENTS.md": "a8598c6173ef97803eb461311c221add1edd859789e5247aa641fa2639955214",
+    "README.md": "49ab29286d147918f81c15d43c18bc45c011df5524b1c5086985c4ad99665997",
+    "START-HERE.md": "fb509496a40783b84bd52fd1efff6a12789e88c45a76d6ac1dc3f61eff5c7c40",
+    "docs/privacy-and-publishing.md": "3a4ba3ef2427b247ebcc3b214c9d66dd28c5a31683860e708168151d49618ae1",
+    "research/m1-professional-2026-09-14/inspect_cached_pages.py": "c9a5f61e6c9960552acb30e349cd629e3bf3d413f2ceafe0d3377e690be48f5c",
+    "scripts/check_publication.py": "a4dc8d13dd0de03698d6ffe624ea2adc47b71ebdf49a354084e5739eb5543793",
+    "templates/business-canvas.md": "6ef0c30008a444316e9d3f3bacfd6bfe846b4679e5935a40ed3443926d75288e",
+    "tests/test_business_metrics.py": "c2dc78dc431846b7a77c8cad9923e36f42ff2481624e4fb624d707b9f073fa81",
+    "tests/test_public_page_frames.py": "f72199beffe0cd54f657d5a4f9174f03eb165d1625f0fb1c486f70ab05f70558",
+    "tests/test_publication.py": "b488ae690992399f0fcdf7550cbc0a61007d6d2a2985d97cd7276ea630eb94ed",
+    "tests/test_validate_privacy.py": "ea594561471e96a49d03a0b54d753c3f40307f60f1d97ed15ecb696f4c549701",
+    "tests/test_workbench.py": "c87b99f61bc979aed38998c722ae1214644304a144a38065204bdd62de0a0b7d",
+    "tools/ai_business_consultant.py": "f2fdbcf3f725045b74bbe28f8c8013a326c80509d2eceb815bfbded07b15fd2c",
+    "tools/business_metrics.py": "a5ebac8ec92b7c2c2ee0bcb5818e9ed9158a34e8358f0be0f0779560bbfc869a",
+    "tools/consultant_case.py": "6b36547269a5293befd4e5f507f69a0d90e65f24acfe7a9f35067c6e357a2dfa",
+    "tools/research_corpus.py": "83f1f6cb1cd36dfedc62e7a639b4668575c72547798f601811d5f3e9296fd4f4"
+  }
+}

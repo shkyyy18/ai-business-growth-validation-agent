@@ -1,0 +1,20 @@
+# Personal material and runtime output never belong in this distribution
+/private/
+/business/
+/workspace/
+/local/
+/data/
+/exports/
+/logs/
+.env
+.env.*
+*.db
+*.sqlite*
+*.pem
+*.key
+*.bundle
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+node_modules/
