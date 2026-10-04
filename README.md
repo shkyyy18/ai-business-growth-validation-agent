@@ -1,6 +1,15 @@
-# AI Business Growth Validation — code and templates
+# AI 商业顾问 / Business Growth Validation
 
-公开候选版本仅包含通用离线工具、空白模板和合成测试，不包含维护者个人背景、履历、收入或收入目标、客户/朋友资料、个性化经营状态、研究活动记录和历史实验快照。
+本公开版仅包含通用离线工具、空白模板和合成测试，不包含维护者个人背景、履历、收入或收入目标、客户/朋友资料、个性化经营状态、研究活动记录和历史实验快照。
+
+## 从这里开始
+
+- [当前框架 v2](docs/business-consultant-framework-v2.md)：战略选择 → 商业模式 → 运营交付，验证与反馈贯穿全程。
+- [任务与 Skill 路由](docs/skill-routing.md)：六项公开方法指南及一个旧名称入口，按具体任务调用。
+- [公开版范围](docs/public-edition.md)：同步到 2026-10-05 的通用方法，不是私人工作区镜像。
+- [空白实验卡](templates/experiment-card.md)与[空白画布](templates/business-canvas.md)：区分事实、假设、技术验证、采用与付款。
+
+这是文件驱动的顾问工作流，不是自主后台服务；方法指南不能替代人工判断、客户验证或工具环境。
 
 ## Included
 - `tools/ai_business_consultant.py`: a file-first offline workbench for blank canvas/hypothesis cards and user-controlled local imports.

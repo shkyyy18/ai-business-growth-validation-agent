@@ -5,8 +5,8 @@
     ".github/workflows/ci.yml": "09a3b66453074635ab129c9608ecc47bcad0ef51def80b757ace2585e077d320",
     ".gitignore": "60e3f097a4d9e7f8237ae80b8cf2cb65a560cec8545b4d1af8f9063c5ae0bc50",
     "AGENTS.md": "a8598c6173ef97803eb461311c221add1edd859789e5247aa641fa2639955214",
-    "README.md": "49ab29286d147918f81c15d43c18bc45c011df5524b1c5086985c4ad99665997",
-    "START-HERE.md": "fb509496a40783b84bd52fd1efff6a12789e88c45a76d6ac1dc3f61eff5c7c40",
+    "README.md": "44cced640fca559b78ee0e18e5e0b9f2a19c5fd9873841add75ad24940ae4bf0",
+    "START-HERE.md": "9f08ec961510d2a3358699e94283f3830eedd25d5b79a05a523d4e7c3440e6bd",
     "docs/privacy-and-publishing.md": "3a4ba3ef2427b247ebcc3b214c9d66dd28c5a31683860e708168151d49618ae1",
     "research/m1-professional-2026-09-14/inspect_cached_pages.py": "c9a5f61e6c9960552acb30e349cd629e3bf3d413f2ceafe0d3377e690be48f5c",
     "scripts/check_publication.py": "a4dc8d13dd0de03698d6ffe624ea2adc47b71ebdf49a354084e5739eb5543793",
@@ -19,6 +19,21 @@
     "tools/ai_business_consultant.py": "f2fdbcf3f725045b74bbe28f8c8013a326c80509d2eceb815bfbded07b15fd2c",
     "tools/business_metrics.py": "a5ebac8ec92b7c2c2ee0bcb5818e9ed9158a34e8358f0be0f0779560bbfc869a",
     "tools/consultant_case.py": "6b36547269a5293befd4e5f507f69a0d90e65f24acfe7a9f35067c6e357a2dfa",
-    "tools/research_corpus.py": "83f1f6cb1cd36dfedc62e7a639b4668575c72547798f601811d5f3e9296fd4f4"
+    "tools/research_corpus.py": "83f1f6cb1cd36dfedc62e7a639b4668575c72547798f601811d5f3e9296fd4f4",
+    "docs/business-consultant-framework-v2.md": "c6af744bb142b4f4b16aa0fd323c88d66ebb64725bc2413f0fd0f840da3905cf",
+    "docs/public-edition.md": "3f882a14552f817b0b9383e9ab7e0564eb20ef16adb816d5f0d3ab13f613624e",
+    "docs/single-content-storyboard-method.md": "e7060fb387008247f7404e9d39b0724d3ad1df391bce80ae2303d763307a1d7a",
+    "docs/skill-routing.md": "68d70cb93bc2933bcd4bcb6e1e343b2009331f204c8b40cb14c13fe46ca9be77",
+    "docs/templates/single-content-storyboard-review.md": "ca77a64534bae96541d14bb46731c2b37f3ba282669c092e7882d282cdd5de64",
+    "docs/video-shot-production-workflow.md": "3d42e0e4b383c4f72322653aa3f52bb11c2b93a0887f44d6327657f084ac250d",
+    "skills/ai-account-discovery/SKILL.md": "caff2670ce8e3fd2b22f711965055ade86d3b6be7465f30d1e13c61e54534b3b",
+    "skills/benchmark-content-discovery/SKILL.md": "96681ca06f40b68388cb788bf48853d4a2e28c1395a95881b8192730c4b2a46e",
+    "skills/industry-content-research/SKILL.md": "6581cb6c848a4eae5302740d80c3252618386dd50329d7e14699a692c3147e16",
+    "skills/storyboard-dialogue-memes/SKILL.md": "e6b2fc23848a42b068ad87613199aed79070a6b1181294a3f6e7bb428bcb835a",
+    "skills/storyboard-editing/SKILL.md": "06efc73b81d2efc4cb42efcbeb3032ba569cbe4f12e059cae089747f16a5d120",
+    "skills/video-storyboard-analysis/SKILL.md": "9e752b598053c7acca16e47e2da477ef9ae22414ffbd4a3cd7a9fad67c667e76",
+    "skills/wechat-article-production/SKILL.md": "a0d011440b59cbce3e478129a49b2e2d5f34f2ced8186cdf83b62fee9c59317d",
+    "templates/experiment-card.md": "43ce5e96e0cfdbf2eccd042d2af07497b4012dce80189f3a4cab7306f2c794e2",
+    "tests/test_public_docs.py": "990aacf47851c4204ef19425b5d449ccb3f7bed8d34c87d648e874c19723beb4"
   }
 }
